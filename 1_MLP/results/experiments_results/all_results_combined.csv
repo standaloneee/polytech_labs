@@ -1,0 +1,36 @@
+Source,Experiment,Test_Acc,Val_Acc,Val_Test_Gap,Num_Parameters
+Advanced,"Deep-4L: [256,256,128,64] + BN + Dropout0.3",79.93,92.35,12.42,310027
+Advanced,"Deep-4L: [512,256,128,64] + BN + Dropout0.4",79.73,92.18,12.45,577035
+Advanced,"ULTIMATE: [256,128,64] + BN + Dropout0.4 + L2 + LabelSmooth + GradClip",79.48,91.89,12.41,243723
+Basic,Batch Norm: BN + Dropout 0.3,78.33,91.22,12.89,109835
+Advanced,"GradClip1.0 + [128,64] + BN + Dropout0.3",78.15,91.22,13.07,109835
+Advanced,Best-Arch + Dropout0.3 + L2_1e-3 + BN,78.15,90.97,12.82,109835
+Advanced,"LabelSmoothing0.1 + [128,64] + BN + Dropout0.3",77.73,91.3,13.58,109835
+Advanced,"AdamW: [128,64] + BN + Dropout0.3",77.69,90.93,13.24,109835
+Basic,Batch Norm: With BN,77.29,89.84,12.55,109835
+Basic,Architecture: Large,76.92,89.05,12.12,235275
+Advanced,Best-Arch + Dropout0.4 + L2_5e-4 + BN,76.91,90.43,13.52,109835
+Basic,Regularization: Dropout 0.3,76.62,90.13,13.51,109451
+Basic,Regularization: Dropout 0.3 + L2 1e-4,76.48,90.26,13.77,109451
+Basic,Regularization: L2 1e-3,76.44,89.26,12.82,109451
+Basic,Regularization: Dropout 0.2,76.42,90.26,13.84,109451
+Basic,Activation: elu,76.4,89.21,12.81,109451
+Advanced,"Deep-5L: [128,128,128,64,32] + BN + Dropout0.3",76.35,91.39,15.04,145163
+Advanced,"SGD-Momentum: [128,64] + BN + Dropout0.3",76.12,90.3,14.18,109835
+Basic,Regularization: L2 1e-4,75.39,89.34,13.95,109451
+Basic,LR: LR 0.001 + StepLR,75.33,89.55,14.22,109451
+Basic,Regularization: Dropout 0.5,75.22,89.3,14.08,109451
+Basic,Architecture: Very Deep,75.18,89.38,14.2,127691
+Basic,LR: LR 0.001 + CosineAnnealing,75.18,89.38,14.2,109451
+Basic,Architecture: Deep,74.96,88.8,13.83,125963
+Basic,Batch Norm: Without BN,74.84,89.55,14.71,109451
+Basic,LR: LR 0.001,74.84,89.55,14.71,109451
+Basic,Activation: relu,74.84,89.55,14.71,109451
+Basic,Architecture: Baseline,74.84,89.55,14.71,109451
+Basic,Regularization: No Reg,74.84,89.55,14.71,109451
+Basic,LR: LR 0.01,74.77,88.75,13.99,109451
+Basic,Activation: leaky_relu,74.73,88.88,14.15,109451
+Advanced,Best-Arch + Dropout0.5 + BN,74.63,89.97,15.33,109835
+Basic,LR: LR 0.0001,73.77,88.8,15.03,109451
+Basic,Architecture: Small,72.87,89.13,16.26,52683
+Basic,Activation: tanh,71.93,88.21,16.28,109451

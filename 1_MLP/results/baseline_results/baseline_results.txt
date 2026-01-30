@@ -1,0 +1,26 @@
+============================================================
+BASELINE MODEL RESULTS
+============================================================
+
+Architecture: MLP with hidden layers [128, 64]
+Parameters: 109,451
+Activation: ReLU
+Dropout: 0.0
+Batch Normalization: False
+
+Training:
+  - Batch size: 128
+  - Epochs: 20
+  - Learning rate: 0.001
+  - Optimizer: Adam
+
+Results:
+  - Best Val Accuracy: 89.55%
+  - Test Loss: 1.4310
+  - Test Accuracy: 74.84%
+
+Training History:
+  Final Train Loss: 0.0243
+  Final Train Acc: 99.56%
+  Final Val Loss: 0.7693
+  Final Val Acc: 86.83%

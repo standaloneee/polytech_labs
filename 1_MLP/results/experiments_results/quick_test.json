@@ -1,0 +1,100 @@
+{
+  "timestamp": "2026-01-30 18:22:11",
+  "type": "quick_test",
+  "experiments": [
+    {
+      "experiment_name": "Baseline",
+      "config": {
+        "hidden_sizes": [
+          128,
+          64
+        ],
+        "num_epochs": 10,
+        "lr": 0.001
+      },
+      "num_parameters": 109451,
+      "best_val_acc": 89.54849498327759,
+      "test_loss": 1.0405977423374468,
+      "test_acc": 74.81742940603701
+    },
+    {
+      "experiment_name": "Large Architecture",
+      "config": {
+        "hidden_sizes": [
+          256,
+          128
+        ],
+        "num_epochs": 10,
+        "lr": 0.001
+      },
+      "num_parameters": 235275,
+      "best_val_acc": 89.04682274247492,
+      "test_loss": 1.181131126330449,
+      "test_acc": 75.1460564751704
+    },
+    {
+      "experiment_name": "With Dropout 0.3",
+      "config": {
+        "hidden_sizes": [
+          128,
+          64
+        ],
+        "dropout": 0.3,
+        "num_epochs": 10,
+        "lr": 0.001
+      },
+      "num_parameters": 109451,
+      "best_val_acc": 90.13377926421404,
+      "test_loss": 0.7951291524446927,
+      "test_acc": 75.93719571567672
+    },
+    {
+      "experiment_name": "With Batch Norm",
+      "config": {
+        "hidden_sizes": [
+          128,
+          64
+        ],
+        "use_batch_norm": true,
+        "num_epochs": 10,
+        "lr": 0.001
+      },
+      "num_parameters": 109835,
+      "best_val_acc": 89.84113712374582,
+      "test_loss": 0.8600046753883361,
+      "test_acc": 76.42405063291139
+    },
+    {
+      "experiment_name": "ELU Activation",
+      "config": {
+        "hidden_sizes": [
+          128,
+          64
+        ],
+        "activation": "elu",
+        "num_epochs": 10,
+        "lr": 0.001
+      },
+      "num_parameters": 109451,
+      "best_val_acc": 89.21404682274247,
+      "test_loss": 0.9647267644221966,
+      "test_acc": 76.04673807205452
+    },
+    {
+      "experiment_name": "With Cosine Scheduler",
+      "config": {
+        "hidden_sizes": [
+          128,
+          64
+        ],
+        "lr": 0.001,
+        "scheduler": "cosine",
+        "num_epochs": 10
+      },
+      "num_parameters": 109451,
+      "best_val_acc": 89.38127090301003,
+      "test_loss": 0.8857929367285509,
+      "test_acc": 74.80525803310613
+    }
+  ]
+}

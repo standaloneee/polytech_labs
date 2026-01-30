@@ -1,0 +1,299 @@
+{
+  "timestamp": "2026-01-30 19:10:01",
+  "experiments": [
+    {
+      "experiment_name": "Deep-4L: [256,256,128,64] + BN + Dropout0.3",
+      "config": {
+        "name": "Deep-4L: [256,256,128,64] + BN + Dropout0.3",
+        "hidden_sizes": [
+          256,
+          256,
+          128,
+          64
+        ],
+        "dropout": 0.3,
+        "use_batch_norm": true,
+        "activation": "relu",
+        "optimizer": "adam",
+        "lr": 0.001,
+        "scheduler": "cosine",
+        "num_epochs": 40,
+        "weight_decay": 0,
+        "label_smoothing": 0,
+        "clip_grad": null
+      },
+      "num_parameters": 310027,
+      "best_val_acc": 92.34949832775919,
+      "test_acc": 79.92940603700097,
+      "test_loss": 0.7005209675202003,
+      "final_train_acc": 91.72254335260115,
+      "epochs_trained": 40
+    },
+    {
+      "experiment_name": "Deep-4L: [512,256,128,64] + BN + Dropout0.4",
+      "config": {
+        "name": "Deep-4L: [512,256,128,64] + BN + Dropout0.4",
+        "hidden_sizes": [
+          512,
+          256,
+          128,
+          64
+        ],
+        "dropout": 0.4,
+        "use_batch_norm": true,
+        "activation": "relu",
+        "optimizer": "adam",
+        "lr": 0.001,
+        "scheduler": "cosine",
+        "num_epochs": 40,
+        "weight_decay": 0.0001,
+        "label_smoothing": 0,
+        "clip_grad": null
+      },
+      "num_parameters": 577035,
+      "best_val_acc": 92.18227424749163,
+      "test_acc": 79.7346640701071,
+      "test_loss": 0.6829913561160748,
+      "final_train_acc": 90.35067437379575,
+      "epochs_trained": 37
+    },
+    {
+      "experiment_name": "Deep-5L: [128,128,128,64,32] + BN + Dropout0.3",
+      "config": {
+        "name": "Deep-5L: [128,128,128,64,32] + BN + Dropout0.3",
+        "hidden_sizes": [
+          128,
+          128,
+          128,
+          64,
+          32
+        ],
+        "dropout": 0.3,
+        "use_batch_norm": true,
+        "activation": "relu",
+        "optimizer": "adam",
+        "lr": 0.001,
+        "scheduler": "cosine",
+        "num_epochs": 40,
+        "weight_decay": 0,
+        "label_smoothing": 0,
+        "clip_grad": null
+      },
+      "num_parameters": 145163,
+      "best_val_acc": 91.38795986622074,
+      "test_acc": 76.3510223953262,
+      "test_loss": 0.7682366545383746,
+      "final_train_acc": 81.64161849710983,
+      "epochs_trained": 40
+    },
+    {
+      "experiment_name": "Best-Arch + Dropout0.5 + BN",
+      "config": {
+        "name": "Best-Arch + Dropout0.5 + BN",
+        "hidden_sizes": [
+          128,
+          64
+        ],
+        "dropout": 0.5,
+        "use_batch_norm": true,
+        "activation": "relu",
+        "optimizer": "adam",
+        "lr": 0.001,
+        "scheduler": "cosine",
+        "num_epochs": 40,
+        "weight_decay": 0,
+        "label_smoothing": 0,
+        "clip_grad": null
+      },
+      "num_parameters": 109835,
+      "best_val_acc": 89.96655518394648,
+      "test_acc": 74.634858812074,
+      "test_loss": 0.7937800242350652,
+      "final_train_acc": 75.121387283237,
+      "epochs_trained": 40
+    },
+    {
+      "experiment_name": "Best-Arch + Dropout0.3 + L2_1e-3 + BN",
+      "config": {
+        "name": "Best-Arch + Dropout0.3 + L2_1e-3 + BN",
+        "hidden_sizes": [
+          128,
+          64
+        ],
+        "dropout": 0.3,
+        "use_batch_norm": true,
+        "activation": "relu",
+        "optimizer": "adam",
+        "lr": 0.001,
+        "scheduler": "cosine",
+        "num_epochs": 40,
+        "weight_decay": 0.001,
+        "label_smoothing": 0,
+        "clip_grad": null
+      },
+      "num_parameters": 109835,
+      "best_val_acc": 90.96989966555184,
+      "test_acc": 78.15238558909445,
+      "test_loss": 0.6956915580309354,
+      "final_train_acc": 88.69364161849711,
+      "epochs_trained": 30
+    },
+    {
+      "experiment_name": "Best-Arch + Dropout0.4 + L2_5e-4 + BN",
+      "config": {
+        "name": "Best-Arch + Dropout0.4 + L2_5e-4 + BN",
+        "hidden_sizes": [
+          128,
+          64
+        ],
+        "dropout": 0.4,
+        "use_batch_norm": true,
+        "activation": "relu",
+        "optimizer": "adam",
+        "lr": 0.001,
+        "scheduler": "cosine",
+        "num_epochs": 40,
+        "weight_decay": 0.0005,
+        "label_smoothing": 0,
+        "clip_grad": null
+      },
+      "num_parameters": 109835,
+      "best_val_acc": 90.42642140468227,
+      "test_acc": 76.91090555014605,
+      "test_loss": 0.7265287454311664,
+      "final_train_acc": 82.22736030828517,
+      "epochs_trained": 31
+    },
+    {
+      "experiment_name": "SGD-Momentum: [128,64] + BN + Dropout0.3",
+      "config": {
+        "name": "SGD-Momentum: [128,64] + BN + Dropout0.3",
+        "hidden_sizes": [
+          128,
+          64
+        ],
+        "dropout": 0.3,
+        "use_batch_norm": true,
+        "activation": "relu",
+        "optimizer": "sgd",
+        "lr": 0.01,
+        "scheduler": "cosine",
+        "num_epochs": 40,
+        "weight_decay": 0.0001,
+        "label_smoothing": 0,
+        "clip_grad": null
+      },
+      "num_parameters": 109835,
+      "best_val_acc": 90.3010033444816,
+      "test_acc": 76.11976630963973,
+      "test_loss": 0.7457325779474698,
+      "final_train_acc": 79.74566473988439,
+      "epochs_trained": 38
+    },
+    {
+      "experiment_name": "AdamW: [128,64] + BN + Dropout0.3",
+      "config": {
+        "name": "AdamW: [128,64] + BN + Dropout0.3",
+        "hidden_sizes": [
+          128,
+          64
+        ],
+        "dropout": 0.3,
+        "use_batch_norm": true,
+        "activation": "relu",
+        "optimizer": "adamw",
+        "lr": 0.001,
+        "scheduler": "cosine",
+        "num_epochs": 40,
+        "weight_decay": 0.01,
+        "label_smoothing": 0,
+        "clip_grad": null
+      },
+      "num_parameters": 109835,
+      "best_val_acc": 90.92809364548495,
+      "test_acc": 77.68987341772151,
+      "test_loss": 0.7086672434440026,
+      "final_train_acc": 86.78998073217727,
+      "epochs_trained": 37
+    },
+    {
+      "experiment_name": "LabelSmoothing0.1 + [128,64] + BN + Dropout0.3",
+      "config": {
+        "name": "LabelSmoothing0.1 + [128,64] + BN + Dropout0.3",
+        "hidden_sizes": [
+          128,
+          64
+        ],
+        "dropout": 0.3,
+        "use_batch_norm": true,
+        "activation": "relu",
+        "optimizer": "adam",
+        "lr": 0.001,
+        "scheduler": "cosine",
+        "num_epochs": 40,
+        "weight_decay": 0,
+        "label_smoothing": 0.1,
+        "clip_grad": null
+      },
+      "num_parameters": 109835,
+      "best_val_acc": 91.30434782608695,
+      "test_acc": 77.72638753651412,
+      "test_loss": 1.0789000318600581,
+      "final_train_acc": 85.48747591522158,
+      "epochs_trained": 40
+    },
+    {
+      "experiment_name": "GradClip1.0 + [128,64] + BN + Dropout0.3",
+      "config": {
+        "name": "GradClip1.0 + [128,64] + BN + Dropout0.3",
+        "hidden_sizes": [
+          128,
+          64
+        ],
+        "dropout": 0.3,
+        "use_batch_norm": true,
+        "activation": "relu",
+        "optimizer": "adam",
+        "lr": 0.001,
+        "scheduler": "cosine",
+        "num_epochs": 40,
+        "weight_decay": 0,
+        "label_smoothing": 0,
+        "clip_grad": 1.0
+      },
+      "num_parameters": 109835,
+      "best_val_acc": 91.22073578595318,
+      "test_acc": 78.15238558909445,
+      "test_loss": 0.7174165569818937,
+      "final_train_acc": 87.86127167630057,
+      "epochs_trained": 33
+    },
+    {
+      "experiment_name": "ULTIMATE: [256,128,64] + BN + Dropout0.4 + L2 + LabelSmooth + GradClip",
+      "config": {
+        "name": "ULTIMATE: [256,128,64] + BN + Dropout0.4 + L2 + LabelSmooth + GradClip",
+        "hidden_sizes": [
+          256,
+          128,
+          64
+        ],
+        "dropout": 0.4,
+        "use_batch_norm": true,
+        "activation": "leaky_relu",
+        "optimizer": "adamw",
+        "lr": 0.001,
+        "scheduler": "cosine",
+        "num_epochs": 50,
+        "weight_decay": 0.01,
+        "label_smoothing": 0.1,
+        "clip_grad": 1.0
+      },
+      "num_parameters": 243723,
+      "best_val_acc": 91.88963210702342,
+      "test_acc": 79.4790652385589,
+      "test_loss": 1.0261684729502751,
+      "final_train_acc": 90.32755298651253,
+      "epochs_trained": 36
+    }
+  ]
+}

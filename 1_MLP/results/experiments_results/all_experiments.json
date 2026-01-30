@@ -1,0 +1,397 @@
+{
+  "timestamp": "2026-01-30 18:29:55",
+  "experiments": [
+    {
+      "experiment_name": "Architecture: Small",
+      "config": {
+        "hidden_sizes": [
+          64,
+          32
+        ],
+        "num_epochs": 20,
+        "lr": 0.001
+      },
+      "num_parameters": 52683,
+      "best_val_acc": 89.1304347826087,
+      "test_loss": 1.325476307135362,
+      "test_acc": 72.87000973709834
+    },
+    {
+      "experiment_name": "Architecture: Baseline",
+      "config": {
+        "hidden_sizes": [
+          128,
+          64
+        ],
+        "num_epochs": 20,
+        "lr": 0.001
+      },
+      "num_parameters": 109451,
+      "best_val_acc": 89.54849498327759,
+      "test_loss": 1.431042862855471,
+      "test_acc": 74.84177215189874
+    },
+    {
+      "experiment_name": "Architecture: Large",
+      "config": {
+        "hidden_sizes": [
+          256,
+          128
+        ],
+        "num_epochs": 20,
+        "lr": 0.001
+      },
+      "num_parameters": 235275,
+      "best_val_acc": 89.04682274247492,
+      "test_loss": 1.4609869700211746,
+      "test_acc": 76.92307692307692
+    },
+    {
+      "experiment_name": "Architecture: Deep",
+      "config": {
+        "hidden_sizes": [
+          128,
+          128,
+          64
+        ],
+        "num_epochs": 20,
+        "lr": 0.001
+      },
+      "num_parameters": 125963,
+      "best_val_acc": 88.79598662207358,
+      "test_loss": 1.6883982530006996,
+      "test_acc": 74.9634858812074
+    },
+    {
+      "experiment_name": "Architecture: Very Deep",
+      "config": {
+        "hidden_sizes": [
+          128,
+          128,
+          64,
+          32
+        ],
+        "num_epochs": 20,
+        "lr": 0.001
+      },
+      "num_parameters": 127691,
+      "best_val_acc": 89.38127090301003,
+      "test_loss": 1.738795424424685,
+      "test_acc": 75.18257059396299
+    },
+    {
+      "experiment_name": "Regularization: No Reg",
+      "config": {
+        "hidden_sizes": [
+          128,
+          64
+        ],
+        "dropout": 0.0,
+        "weight_decay": 0.0,
+        "num_epochs": 20,
+        "lr": 0.001
+      },
+      "num_parameters": 109451,
+      "best_val_acc": 89.54849498327759,
+      "test_loss": 1.431042862855471,
+      "test_acc": 74.84177215189874
+    },
+    {
+      "experiment_name": "Regularization: Dropout 0.2",
+      "config": {
+        "hidden_sizes": [
+          128,
+          64
+        ],
+        "dropout": 0.2,
+        "weight_decay": 0.0,
+        "num_epochs": 20,
+        "lr": 0.001
+      },
+      "num_parameters": 109451,
+      "best_val_acc": 90.25919732441471,
+      "test_loss": 0.9240522146224975,
+      "test_acc": 76.42405063291139
+    },
+    {
+      "experiment_name": "Regularization: Dropout 0.3",
+      "config": {
+        "hidden_sizes": [
+          128,
+          64
+        ],
+        "dropout": 0.3,
+        "weight_decay": 0.0,
+        "num_epochs": 20,
+        "lr": 0.001
+      },
+      "num_parameters": 109451,
+      "best_val_acc": 90.13377926421404,
+      "test_loss": 0.8571187221086942,
+      "test_acc": 76.61879259980526
+    },
+    {
+      "experiment_name": "Regularization: Dropout 0.5",
+      "config": {
+        "hidden_sizes": [
+          128,
+          64
+        ],
+        "dropout": 0.5,
+        "weight_decay": 0.0,
+        "num_epochs": 20,
+        "lr": 0.001
+      },
+      "num_parameters": 109451,
+      "best_val_acc": 89.29765886287625,
+      "test_loss": 0.8310519163425152,
+      "test_acc": 75.2190847127556
+    },
+    {
+      "experiment_name": "Regularization: L2 1e-4",
+      "config": {
+        "hidden_sizes": [
+          128,
+          64
+        ],
+        "dropout": 0.0,
+        "weight_decay": 0.0001,
+        "num_epochs": 20,
+        "lr": 0.001
+      },
+      "num_parameters": 109451,
+      "best_val_acc": 89.33946488294315,
+      "test_loss": 1.3036689107234662,
+      "test_acc": 75.38948393378773
+    },
+    {
+      "experiment_name": "Regularization: L2 1e-3",
+      "config": {
+        "hidden_sizes": [
+          128,
+          64
+        ],
+        "dropout": 0.0,
+        "weight_decay": 0.001,
+        "num_epochs": 20,
+        "lr": 0.001
+      },
+      "num_parameters": 109451,
+      "best_val_acc": 89.25585284280936,
+      "test_loss": 0.9828102496954111,
+      "test_acc": 76.43622200584225
+    },
+    {
+      "experiment_name": "Regularization: Dropout 0.3 + L2 1e-4",
+      "config": {
+        "hidden_sizes": [
+          128,
+          64
+        ],
+        "dropout": 0.3,
+        "weight_decay": 0.0001,
+        "num_epochs": 20,
+        "lr": 0.001
+      },
+      "num_parameters": 109451,
+      "best_val_acc": 90.25919732441471,
+      "test_loss": 0.836498289841872,
+      "test_acc": 76.48490749756573
+    },
+    {
+      "experiment_name": "Batch Norm: Without BN",
+      "config": {
+        "hidden_sizes": [
+          128,
+          64
+        ],
+        "use_batch_norm": false,
+        "dropout": 0.0,
+        "num_epochs": 20,
+        "lr": 0.001
+      },
+      "num_parameters": 109451,
+      "best_val_acc": 89.54849498327759,
+      "test_loss": 1.431042862855471,
+      "test_acc": 74.84177215189874
+    },
+    {
+      "experiment_name": "Batch Norm: With BN",
+      "config": {
+        "hidden_sizes": [
+          128,
+          64
+        ],
+        "use_batch_norm": true,
+        "dropout": 0.0,
+        "num_epochs": 20,
+        "lr": 0.001
+      },
+      "num_parameters": 109835,
+      "best_val_acc": 89.84113712374582,
+      "test_loss": 1.0336661201256971,
+      "test_acc": 77.28821811100292
+    },
+    {
+      "experiment_name": "Batch Norm: BN + Dropout 0.3",
+      "config": {
+        "hidden_sizes": [
+          128,
+          64
+        ],
+        "use_batch_norm": true,
+        "dropout": 0.3,
+        "num_epochs": 20,
+        "lr": 0.001
+      },
+      "num_parameters": 109835,
+      "best_val_acc": 91.22073578595318,
+      "test_loss": 0.7473434943419236,
+      "test_acc": 78.33495618305744
+    },
+    {
+      "experiment_name": "Activation: relu",
+      "config": {
+        "hidden_sizes": [
+          128,
+          64
+        ],
+        "activation": "relu",
+        "num_epochs": 20,
+        "lr": 0.001
+      },
+      "num_parameters": 109451,
+      "best_val_acc": 89.54849498327759,
+      "test_loss": 1.431042862855471,
+      "test_acc": 74.84177215189874
+    },
+    {
+      "experiment_name": "Activation: leaky_relu",
+      "config": {
+        "hidden_sizes": [
+          128,
+          64
+        ],
+        "activation": "leaky_relu",
+        "num_epochs": 20,
+        "lr": 0.001
+      },
+      "num_parameters": 109451,
+      "best_val_acc": 88.87959866220736,
+      "test_loss": 1.4082156823231624,
+      "test_acc": 74.73222979552094
+    },
+    {
+      "experiment_name": "Activation: elu",
+      "config": {
+        "hidden_sizes": [
+          128,
+          64
+        ],
+        "activation": "elu",
+        "num_epochs": 20,
+        "lr": 0.001
+      },
+      "num_parameters": 109451,
+      "best_val_acc": 89.21404682274247,
+      "test_loss": 1.295203253856072,
+      "test_acc": 76.39970788704966
+    },
+    {
+      "experiment_name": "Activation: tanh",
+      "config": {
+        "hidden_sizes": [
+          128,
+          64
+        ],
+        "activation": "tanh",
+        "num_epochs": 20,
+        "lr": 0.001
+      },
+      "num_parameters": 109451,
+      "best_val_acc": 88.21070234113712,
+      "test_loss": 1.3476747751235962,
+      "test_acc": 71.93281402142162
+    },
+    {
+      "experiment_name": "LR: LR 0.0001",
+      "config": {
+        "hidden_sizes": [
+          128,
+          64
+        ],
+        "lr": 0.0001,
+        "scheduler": null,
+        "num_epochs": 20
+      },
+      "num_parameters": 109451,
+      "best_val_acc": 88.79598662207358,
+      "test_loss": 0.8695932021507851,
+      "test_acc": 73.77069133398247
+    },
+    {
+      "experiment_name": "LR: LR 0.001",
+      "config": {
+        "hidden_sizes": [
+          128,
+          64
+        ],
+        "lr": 0.001,
+        "scheduler": null,
+        "num_epochs": 20
+      },
+      "num_parameters": 109451,
+      "best_val_acc": 89.54849498327759,
+      "test_loss": 1.431042862855471,
+      "test_acc": 74.84177215189874
+    },
+    {
+      "experiment_name": "LR: LR 0.01",
+      "config": {
+        "hidden_sizes": [
+          128,
+          64
+        ],
+        "lr": 0.01,
+        "scheduler": null,
+        "num_epochs": 20
+      },
+      "num_parameters": 109451,
+      "best_val_acc": 88.75418060200668,
+      "test_loss": 1.9223910991962139,
+      "test_acc": 74.76874391431353
+    },
+    {
+      "experiment_name": "LR: LR 0.001 + StepLR",
+      "config": {
+        "hidden_sizes": [
+          128,
+          64
+        ],
+        "lr": 0.001,
+        "scheduler": "step",
+        "num_epochs": 20
+      },
+      "num_parameters": 109451,
+      "best_val_acc": 89.54849498327759,
+      "test_loss": 1.2695720745966985,
+      "test_acc": 75.3286270691334
+    },
+    {
+      "experiment_name": "LR: LR 0.001 + CosineAnnealing",
+      "config": {
+        "hidden_sizes": [
+          128,
+          64
+        ],
+        "lr": 0.001,
+        "scheduler": "cosine",
+        "num_epochs": 20
+      },
+      "num_parameters": 109451,
+      "best_val_acc": 89.38127090301003,
+      "test_loss": 1.0716267191446744,
+      "test_acc": 75.18257059396299
+    }
+  ]
+}

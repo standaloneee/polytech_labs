@@ -1,0 +1,30 @@
+======================================================================
+СВОДНАЯ ТАБЛИЦА РЕЗУЛЬТАТОВ
+======================================================================
+
+Эксперимент                                        Params     Val Acc    Test Acc  
+----------------------------------------------------------------------
+Architecture: Small                                52,683     89.13      72.87     
+Architecture: Baseline                             109,451    89.55      74.84     
+Architecture: Large                                235,275    89.05      76.92     
+Architecture: Deep                                 125,963    88.80      74.96     
+Architecture: Very Deep                            127,691    89.38      75.18     
+Regularization: No Reg                             109,451    89.55      74.84     
+Regularization: Dropout 0.2                        109,451    90.26      76.42     
+Regularization: Dropout 0.3                        109,451    90.13      76.62     
+Regularization: Dropout 0.5                        109,451    89.30      75.22     
+Regularization: L2 1e-4                            109,451    89.34      75.39     
+Regularization: L2 1e-3                            109,451    89.26      76.44     
+Regularization: Dropout 0.3 + L2 1e-4              109,451    90.26      76.48     
+Batch Norm: Without BN                             109,451    89.55      74.84     
+Batch Norm: With BN                                109,835    89.84      77.29     
+Batch Norm: BN + Dropout 0.3                       109,835    91.22      78.33     
+Activation: relu                                   109,451    89.55      74.84     
+Activation: leaky_relu                             109,451    88.88      74.73     
+Activation: elu                                    109,451    89.21      76.40     
+Activation: tanh                                   109,451    88.21      71.93     
+LR: LR 0.0001                                      109,451    88.80      73.77     
+LR: LR 0.001                                       109,451    89.55      74.84     
+LR: LR 0.01                                        109,451    88.75      74.77     
+LR: LR 0.001 + StepLR                              109,451    89.55      75.33     
+LR: LR 0.001 + CosineAnnealing                     109,451    89.38      75.18     

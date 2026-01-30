@@ -1,0 +1,41 @@
+{
+  "timestamp": "2026-01-30 19:33:10",
+  "individual_models": [
+    {
+      "name": "Model-1: Deep [256,256,128,64]",
+      "val_acc": 92.26588628762542,
+      "test_acc": 79.9537487828627,
+      "num_parameters": 310027
+    },
+    {
+      "name": "Model-2: Deep [512,256,128,64]",
+      "val_acc": 93.01839464882943,
+      "test_acc": 79.78334956183058,
+      "num_parameters": 577035
+    },
+    {
+      "name": "Model-3: [256,128,64] ULTIMATE",
+      "val_acc": 93.1438127090301,
+      "test_acc": 80.6110029211295,
+      "num_parameters": 243723
+    },
+    {
+      "name": "Model-4: [128,64] Classic",
+      "val_acc": 91.5133779264214,
+      "test_acc": 78.52969814995132,
+      "num_parameters": 109835
+    },
+    {
+      "name": "Model-5: [128,64] with GradClip",
+      "val_acc": 90.96989966555184,
+      "test_acc": 78.83398247322297,
+      "num_parameters": 109835
+    }
+  ],
+  "ensemble_val_acc": 92.7675585284281,
+  "ensemble_test_acc": 80.8300876338851,
+  "avg_individual_test_acc": 79.54235637779942,
+  "best_individual_test_acc": 80.6110029211295,
+  "improvement_vs_best": 0.2190847127556026,
+  "improvement_vs_avg": 1.287731256085678
+}
