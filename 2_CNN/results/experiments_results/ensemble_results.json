@@ -1,0 +1,37 @@
+{
+  "individual_models": [
+    {
+      "name": "BatchNorm-1",
+      "seed": 42,
+      "best_val_acc": 97.44983277591973,
+      "test_acc": 88.81450827653359
+    },
+    {
+      "name": "BatchNorm-2",
+      "seed": 52,
+      "best_val_acc": 97.49163879598662,
+      "test_acc": 89.11879259980526
+    },
+    {
+      "name": "ResNet-1",
+      "seed": 62,
+      "best_val_acc": 97.1989966555184,
+      "test_acc": 89.56913339824732
+    },
+    {
+      "name": "ResNet-2",
+      "seed": 72,
+      "best_val_acc": 97.32441471571906,
+      "test_acc": 89.42307692307692
+    },
+    {
+      "name": "Deep-1",
+      "seed": 82,
+      "best_val_acc": 96.86454849498328,
+      "test_acc": 89.35004868549173
+    }
+  ],
+  "val_ensemble_acc": 98.16053511705685,
+  "test_ensemble_acc": 91.16358325219085,
+  "num_models": 5
+}

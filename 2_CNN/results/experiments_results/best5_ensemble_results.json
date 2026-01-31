@@ -1,0 +1,59 @@
+{
+  "selected_models_indices": [
+    2,
+    7,
+    4,
+    6,
+    9
+  ],
+  "selected_models": [
+    {
+      "name": "ResNet-LR0.002-3",
+      "seed": 62,
+      "lr": 0.002,
+      "dropout": 0.3,
+      "hidden_dim": 64,
+      "best_val_acc": 97.78428093645485,
+      "test_acc": 89.88558909444986
+    },
+    {
+      "name": "ResNet-Mix1",
+      "seed": 112,
+      "lr": 0.0015,
+      "dropout": 0.25,
+      "hidden_dim": 64,
+      "best_val_acc": 98.11872909698997,
+      "test_acc": 89.66650438169425
+    },
+    {
+      "name": "ResNet-Drop0.4",
+      "seed": 82,
+      "lr": 0.002,
+      "dropout": 0.4,
+      "hidden_dim": 64,
+      "best_val_acc": 97.86789297658864,
+      "test_acc": 89.60564751703993
+    },
+    {
+      "name": "ResNet-Hid96",
+      "seed": 102,
+      "lr": 0.002,
+      "dropout": 0.3,
+      "hidden_dim": 96,
+      "best_val_acc": 97.74247491638796,
+      "test_acc": 89.53261927945472
+    },
+    {
+      "name": "ResNet-Mix3",
+      "seed": 132,
+      "lr": 0.002,
+      "dropout": 0.3,
+      "hidden_dim": 72,
+      "best_val_acc": 97.74247491638796,
+      "test_acc": 89.50827653359299
+    }
+  ],
+  "avg_individual": 89.63972736124634,
+  "ensemble_acc": 90.96884128529699,
+  "improvement": 1.3291139240506453
+}

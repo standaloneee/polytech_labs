@@ -1,0 +1,22 @@
+# PyTorch - Deep Learning Framework
+# CPU version (по умолчанию):
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Для GPU установите специальную версию с https://pytorch.org/get-started/locally/
+# NVIDIA CUDA:  pip install torch torchvision --index-url https://download.pytorch.org/whl/cu121
+# AMD ROCm:     pip install torch torchvision --index-url https://download.pytorch.org/whl/rocm6.0
+# Apple Metal:  стандартная версия (работает автоматически на Mac M1/M2/M3)
+
+# Medical imaging dataset
+medmnist>=3.0.0
+
+# Scientific computing and visualization
+numpy>=1.24.0
+matplotlib>=3.7.0
+scikit-learn>=1.3.0
+pandas>=2.0.0
+
+# Progress bars and Jupyter
+tqdm>=4.65.0
+jupyter>=1.0.0

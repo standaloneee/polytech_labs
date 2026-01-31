@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Baseline CNN",
+    "params": 421771,
+    "dropout": 0.5,
+    "lr": 0.001,
+    "epochs": 20,
+    "best_val_acc": 97.49163879598662,
+    "test_acc": 89.77604673807205,
+    "final_train_acc": 98.04238921001927,
+    "final_val_acc": 96.82274247491638
+  },
+  {
+    "name": "Deep CNN (4 layers)",
+    "params": 980747,
+    "dropout": 0.5,
+    "lr": 0.001,
+    "epochs": 20,
+    "best_val_acc": 97.61705685618729,
+    "test_acc": 89.82473222979552,
+    "final_train_acc": 98.90558766859345,
+    "final_val_acc": 96.86454849498328
+  },
+  {
+    "name": "Deep CNN + Lower Dropout",
+    "params": 980747,
+    "dropout": 0.3,
+    "lr": 0.001,
+    "epochs": 20,
+    "best_val_acc": 97.28260869565217,
+    "test_acc": 89.65433300876339,
+    "final_train_acc": 99.6840077071291,
+    "final_val_acc": 97.28260869565217
+  },
+  {
+    "name": "CNN + Batch Normalization",
+    "params": 391115,
+    "dropout": 0.3,
+    "lr": 0.001,
+    "epochs": 20,
+    "best_val_acc": 97.82608695652173,
+    "test_acc": 89.98296007789679,
+    "final_train_acc": 99.65317919075144,
+    "final_val_acc": 96.86454849498328
+  },
+  {
+    "name": "ResNet-like (Skip Connections)",
+    "params": 224523,
+    "dropout": 0.3,
+    "lr": 0.001,
+    "epochs": 20,
+    "best_val_acc": 97.90969899665552,
+    "test_acc": 89.08227848101266,
+    "final_train_acc": 98.41233140655106,
+    "final_val_acc": 96.90635451505017
+  },
+  {
+    "name": "ResNet-like + Higher LR",
+    "params": 224523,
+    "dropout": 0.3,
+    "lr": 0.002,
+    "epochs": 20,
+    "best_val_acc": 97.9933110367893,
+    "test_acc": 90.90798442064265,
+    "final_train_acc": 98.6820809248555,
+    "final_val_acc": 97.1571906354515
+  },
+  {
+    "name": "BatchNorm CNN + Longer Training",
+    "params": 391115,
+    "dropout": 0.3,
+    "lr": 0.001,
+    "epochs": 30,
+    "best_val_acc": 98.24414715719064,
+    "test_acc": 90.11684518013632,
+    "final_train_acc": 99.09055876685935,
+    "final_val_acc": 97.82608695652173
+  }
+]

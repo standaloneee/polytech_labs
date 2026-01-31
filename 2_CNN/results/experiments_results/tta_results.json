@@ -1,0 +1,7 @@
+{
+  "num_models": 10,
+  "num_tta_transforms": 5,
+  "baseline_acc": 91.01752677702045,
+  "tta_acc": 91.12706913339824,
+  "improvement": 0.10954235637778709
+}

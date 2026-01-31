@@ -1,0 +1,8 @@
+{
+  "num_models": 5,
+  "num_tta_transforms": 5,
+  "baseline_acc": 91.16358325219085,
+  "tta_acc": 91.26095423563778,
+  "improvement": 0.09737098344693607,
+  "note": "TTA applied to original 5-model ensemble"
+}

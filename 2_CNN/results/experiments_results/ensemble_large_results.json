@@ -1,0 +1,98 @@
+{
+  "individual_models": [
+    {
+      "name": "ResNet-LR0.002-1",
+      "seed": 42,
+      "lr": 0.002,
+      "dropout": 0.3,
+      "hidden_dim": 64,
+      "best_val_acc": 97.78428093645485,
+      "test_acc": 88.69279454722492
+    },
+    {
+      "name": "ResNet-LR0.002-2",
+      "seed": 52,
+      "lr": 0.002,
+      "dropout": 0.3,
+      "hidden_dim": 64,
+      "best_val_acc": 97.70066889632108,
+      "test_acc": 89.3622200584226
+    },
+    {
+      "name": "ResNet-LR0.002-3",
+      "seed": 62,
+      "lr": 0.002,
+      "dropout": 0.3,
+      "hidden_dim": 64,
+      "best_val_acc": 97.78428093645485,
+      "test_acc": 89.88558909444986
+    },
+    {
+      "name": "ResNet-Drop0.2",
+      "seed": 72,
+      "lr": 0.002,
+      "dropout": 0.2,
+      "hidden_dim": 64,
+      "best_val_acc": 97.82608695652173,
+      "test_acc": 89.15530671859786
+    },
+    {
+      "name": "ResNet-Drop0.4",
+      "seed": 82,
+      "lr": 0.002,
+      "dropout": 0.4,
+      "hidden_dim": 64,
+      "best_val_acc": 97.86789297658864,
+      "test_acc": 89.60564751703993
+    },
+    {
+      "name": "ResNet-Hid80",
+      "seed": 92,
+      "lr": 0.002,
+      "dropout": 0.3,
+      "hidden_dim": 80,
+      "best_val_acc": 97.74247491638796,
+      "test_acc": 89.39873417721519
+    },
+    {
+      "name": "ResNet-Hid96",
+      "seed": 102,
+      "lr": 0.002,
+      "dropout": 0.3,
+      "hidden_dim": 96,
+      "best_val_acc": 97.74247491638796,
+      "test_acc": 89.53261927945472
+    },
+    {
+      "name": "ResNet-Mix1",
+      "seed": 112,
+      "lr": 0.0015,
+      "dropout": 0.25,
+      "hidden_dim": 64,
+      "best_val_acc": 98.11872909698997,
+      "test_acc": 89.66650438169425
+    },
+    {
+      "name": "ResNet-Mix2",
+      "seed": 122,
+      "lr": 0.0025,
+      "dropout": 0.35,
+      "hidden_dim": 64,
+      "best_val_acc": 97.74247491638796,
+      "test_acc": 88.5223953261928
+    },
+    {
+      "name": "ResNet-Mix3",
+      "seed": 132,
+      "lr": 0.002,
+      "dropout": 0.3,
+      "hidden_dim": 72,
+      "best_val_acc": 97.74247491638796,
+      "test_acc": 89.50827653359299
+    }
+  ],
+  "val_ensemble_acc": 98.24414715719062,
+  "test_ensemble_acc": 91.01752677702045,
+  "num_models": 10,
+  "ensemble_type": "large_10_models"
+}

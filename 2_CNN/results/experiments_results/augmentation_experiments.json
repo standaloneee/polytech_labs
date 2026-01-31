@@ -1,0 +1,65 @@
+[
+  {
+    "name": "BatchNorm CNN (No Aug)",
+    "model": "BatchNormCNN",
+    "aug_type": "none",
+    "params": 391115,
+    "epochs": 30,
+    "best_val_acc": 97.90969899665552,
+    "test_acc": 90.17770204479065
+  },
+  {
+    "name": "BatchNorm CNN + Basic Aug",
+    "model": "BatchNormCNN",
+    "aug_type": "basic",
+    "params": 391115,
+    "epochs": 40,
+    "best_val_acc": 97.78428093645485,
+    "test_acc": 89.48393378773126
+  },
+  {
+    "name": "BatchNorm CNN + Strong Aug",
+    "model": "BatchNormCNN",
+    "aug_type": "strong",
+    "params": 391115,
+    "epochs": 40,
+    "best_val_acc": 93.89632107023411,
+    "test_acc": 84.45715676728335
+  },
+  {
+    "name": "ResNet-like (No Aug)",
+    "model": "ResNetLikeCNN",
+    "aug_type": "none",
+    "params": 224523,
+    "epochs": 30,
+    "best_val_acc": 98.28595317725753,
+    "test_acc": 90.67672833495618
+  },
+  {
+    "name": "ResNet-like + Basic Aug",
+    "model": "ResNetLikeCNN",
+    "aug_type": "basic",
+    "params": 224523,
+    "epochs": 40,
+    "best_val_acc": 97.49163879598662,
+    "test_acc": 88.81450827653359
+  },
+  {
+    "name": "ResNet-like + Strong Aug",
+    "model": "ResNetLikeCNN",
+    "aug_type": "strong",
+    "params": 224523,
+    "epochs": 40,
+    "best_val_acc": 93.26923076923077,
+    "test_acc": 83.06962025316456
+  },
+  {
+    "name": "ResNet-like + All Aug + Long",
+    "model": "ResNetLikeCNN",
+    "aug_type": "all",
+    "params": 224523,
+    "epochs": 50,
+    "best_val_acc": 92.3913043478261,
+    "test_acc": 78.9678675754625
+  }
+]

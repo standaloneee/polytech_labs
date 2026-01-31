@@ -1,0 +1,21 @@
+{
+  "num_models": 10,
+  "optimal_weights": [
+    0.1,
+    0.1,
+    0.1,
+    0.1,
+    0.1,
+    0.1,
+    0.1,
+    0.1,
+    0.1,
+    0.1
+  ],
+  "val_acc_uniform": 98.24414715719062,
+  "val_acc_weighted": 98.24414715719062,
+  "test_acc_uniform": 91.01752677702045,
+  "test_acc_weighted": 91.01752677702045,
+  "improvement_val": 0.0,
+  "improvement_test": 0.0
+}
