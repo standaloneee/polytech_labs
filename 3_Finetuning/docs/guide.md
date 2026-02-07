@@ -785,6 +785,3 @@ Epoch  Train Loss  Val Loss  Train Acc  Val Acc
 
 ---
 
-**Автор:** Жерздев Т.
-**Дата:** Февраль 2026
-**Проект:** Transfer Learning для классификации пород собак
