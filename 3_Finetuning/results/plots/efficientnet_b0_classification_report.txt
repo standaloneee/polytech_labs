@@ -1,0 +1,14 @@
+Classification Report: efficientnet_b0
+============================================================
+
+                  precision    recall  f1-score   support
+
+          beagle     0.9677    1.0000    0.9836        30
+           boxer     1.0000    0.9583    0.9787        24
+ german_shepherd     1.0000    1.0000    1.0000        24
+golden_retriever     1.0000    1.0000    1.0000        23
+          poodle     1.0000    1.0000    1.0000        24
+
+        accuracy                         0.9920       125
+       macro avg     0.9935    0.9917    0.9925       125
+    weighted avg     0.9923    0.9920    0.9920       125

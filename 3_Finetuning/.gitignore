@@ -1,0 +1,66 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Data - exclude all data, it will be downloaded automatically
+data/raw/
+data/temp/
+data/processed/
+
+# Models - keep only one best model for inference, exclude others
+models/*_best.pth
+!models/resnet50_freeze_*_best.pth
+models/*.onnx
+!models/best_model_resnet50.onnx
+
+# TensorBoard logs (large and regeneratable)
+results/logs/
+runs/
+
+# Keep results needed for notebook
+# results/plots/ - keep (needed for notebook)
+# results/metrics/ - keep (needed for notebook)
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~

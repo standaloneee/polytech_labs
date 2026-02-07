@@ -1,0 +1,14 @@
+Classification Report: resnet50_freeze
+============================================================
+
+                  precision    recall  f1-score   support
+
+          beagle     1.0000    1.0000    1.0000        30
+           boxer     1.0000    1.0000    1.0000        24
+ german_shepherd     1.0000    1.0000    1.0000        24
+golden_retriever     1.0000    1.0000    1.0000        23
+          poodle     1.0000    1.0000    1.0000        24
+
+        accuracy                         1.0000       125
+       macro avg     1.0000    1.0000    1.0000       125
+    weighted avg     1.0000    1.0000    1.0000       125
