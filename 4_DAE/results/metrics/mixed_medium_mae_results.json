@@ -1,0 +1,23 @@
+{
+  "ssim_reconstructed": 0.9421406984329224,
+  "psnr_reconstructed": 37.8803108212462,
+  "mse_reconstructed": 0.00016419423179137615,
+  "ssim_noisy": 0.2706250846385956,
+  "psnr_noisy": 22.588452809040778,
+  "ssim_improvement": 0.6715155839920044,
+  "psnr_improvement": 15.29185801220542,
+  "config": {
+    "noise_type": "mixed_medium",
+    "noise_config": {
+      "type": "mixed",
+      "gaussian_std": 0.05,
+      "salt_prob": 0.005,
+      "pepper_prob": 0.005
+    },
+    "loss_fn": "mae",
+    "base_channels": 32,
+    "batch_size": 8,
+    "learning_rate": 0.001,
+    "num_epochs": 30
+  }
+}
