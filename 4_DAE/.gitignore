@@ -19,8 +19,8 @@ build/
 data/raw/
 data/processed/
 
-# Models - too large for git (4.4MB each)
-models/*.pth
+# Models - включены в git для работы ноутбука на втором устройстве
+# models/*.pth
 
 # Results - exclude large visualization files
 results/metrics/*.png
