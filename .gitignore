@@ -1,0 +1,35 @@
+research/models_cache/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+.venv/
+venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# PyCharm
+.idea/
+
+# Data and models
+*.h5
+*.pkl
+*.pth
+*.onnx
+data/raw/
+models/
+runs/
+
+# Results
+*.png
+*.jpg
+*.jpeg
+*.csv
+!requirements.txt
