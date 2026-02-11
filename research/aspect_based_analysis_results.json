@@ -1,0 +1,346 @@
+[
+  {
+    "text": "Отличный отель! Номера чистые, персонал вежливый, завтрак превосходный.",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9916489124298096,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.992293119430542
+      },
+      "Сервис": {
+        "label": "POSITIVE",
+        "score": 0.9932914972305298
+      }
+    }
+  },
+  {
+    "text": "Прекрасный ресторан, вкусная еда, быстрое обслуживание. Обязательно вернусь!",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9908536672592163,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9916611909866333
+      },
+      "Сервис": {
+        "label": "POSITIVE",
+        "score": 0.9916611909866333
+      },
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.9916611909866333
+      }
+    }
+  },
+  {
+    "text": "Товар пришел быстро, качество отличное, упаковка хорошая. Рекомендую!",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9923816323280334,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9936662316322327
+      },
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.9936662316322327
+      },
+      "Упаковка/Внешний вид": {
+        "label": "POSITIVE",
+        "score": 0.9936662316322327
+      }
+    }
+  },
+  {
+    "text": "Замечательный ноутбук, быстрый, легкий, батарея держит долго.",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9909536838531494,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9915741086006165
+      },
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.9915741086006165
+      }
+    }
+  },
+  {
+    "text": "Очень довольна покупкой! Платье красивое, ткань приятная, сидит идеально.",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.992567777633667,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9944236874580383
+      },
+      "Упаковка/Внешний вид": {
+        "label": "POSITIVE",
+        "score": 0.9944236874580383
+      }
+    }
+  },
+  {
+    "text": "Ужасный отель! Грязные номера, невежливый персонал, плохой завтрак.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.8957059979438782,
+    "aspects": {
+      "Качество": {
+        "label": "NEGATIVE",
+        "score": 0.725740373134613
+      },
+      "Сервис": {
+        "label": "NEGATIVE",
+        "score": 0.5824698805809021
+      }
+    }
+  },
+  {
+    "text": "Разочарован покупкой. Товар низкого качества, долгая доставка, плохая упаковка.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.5167154669761658,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.6946594715118408
+      },
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.6946594715118408
+      },
+      "Упаковка/Внешний вид": {
+        "label": "NEUTRAL",
+        "score": 0.6946594715118408
+      }
+    }
+  },
+  {
+    "text": "Не рекомендую этот ресторан. Еда невкусная, обслуживание медленное, цены завышены.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.6112975478172302,
+    "aspects": {
+      "Сервис": {
+        "label": "NEUTRAL",
+        "score": 0.7353242635726929
+      },
+      "Цена": {
+        "label": "NEUTRAL",
+        "score": 0.7353242635726929
+      },
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.7353242635726929
+      }
+    }
+  },
+  {
+    "text": "Ноутбук постоянно зависает, батарея быстро разряжается, очень тяжелый.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.6687495708465576,
+    "aspects": {
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.6542553901672363
+      }
+    }
+  },
+  {
+    "text": "Платье пришло не того размера, ткань дешевая, швы кривые. Деньги на ветер.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.8587803840637207,
+    "aspects": {
+      "Качество": {
+        "label": "NEGATIVE",
+        "score": 0.6243032813072205
+      },
+      "Цена": {
+        "label": "NEGATIVE",
+        "score": 0.6243032813072205
+      },
+      "Скорость/Время": {
+        "label": "NEGATIVE",
+        "score": 0.8521350026130676
+      }
+    }
+  },
+  {
+    "text": "Обычный отель, ничего особенного. Номера стандартные, персонал нормальный.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.647831380367279,
+    "aspects": {
+      "Сервис": {
+        "label": "NEUTRAL",
+        "score": 0.5667679905891418
+      }
+    }
+  },
+  {
+    "text": "Товар соответствует описанию. Доставка в срок.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9337136745452881,
+    "aspects": {
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.8946402668952942
+      }
+    }
+  },
+  {
+    "text": "Ресторан как ресторан, еда средняя, цены приемлемые.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.7132581472396851,
+    "aspects": {
+      "Цена": {
+        "label": "NEUTRAL",
+        "score": 0.7362797260284424
+      }
+    }
+  },
+  {
+    "text": "Ноутбук подходит для базовых задач. Ничего выдающегося.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.6561967730522156,
+    "aspects": {}
+  },
+  {
+    "text": "Отель хороший, но завтрак разочаровал. Номера чистые, но персонал грубый.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.7860115170478821,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.7802011370658875
+      },
+      "Сервис": {
+        "label": "NEUTRAL",
+        "score": 0.8376741409301758
+      }
+    }
+  },
+  {
+    "text": "Еда в ресторане отличная, но ждали очень долго. Атмосфера приятная, но цены высокие.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.6687172055244446,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.6532086730003357
+      },
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.6532086730003357
+      }
+    }
+  },
+  {
+    "text": "Ноутбук мощный, но очень шумный. Экран яркий, но батарея слабая.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.8209150433540344,
+    "aspects": {}
+  },
+  {
+    "text": "Качество товара хорошее, но доставка задержалась на неделю.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.5545193552970886,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.598056435585022
+      },
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.598056435585022
+      }
+    }
+  },
+  {
+    "text": "Платье красивое, но маломерит. Ткань качественная, но дорого.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.5276626944541931,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.7238901853561401
+      },
+      "Цена": {
+        "label": "NEUTRAL",
+        "score": 0.7238901853561401
+      },
+      "Упаковка/Внешний вид": {
+        "label": "NEUTRAL",
+        "score": 0.6247851848602295
+      }
+    }
+  },
+  {
+    "text": "Превосходное качество обслуживания! Всё на высшем уровне.",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9899085760116577,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9913026094436646
+      },
+      "Сервис": {
+        "label": "POSITIVE",
+        "score": 0.9913026094436646
+      }
+    }
+  },
+  {
+    "text": "Лучший отель в городе! Всем рекомендую.",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9913159608840942,
+    "aspects": {}
+  },
+  {
+    "text": "Полное разочарование. Не советую никому.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.9362413287162781,
+    "aspects": {}
+  },
+  {
+    "text": "Потраченные деньги жалко. Очень плохо.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.8888090252876282,
+    "aspects": {
+      "Качество": {
+        "label": "NEGATIVE",
+        "score": 0.8786994218826294
+      },
+      "Цена": {
+        "label": "NEGATIVE",
+        "score": 0.5746117234230042
+      },
+      "Скорость/Время": {
+        "label": "NEGATIVE",
+        "score": 0.5746117234230042
+      }
+    }
+  }
+]
