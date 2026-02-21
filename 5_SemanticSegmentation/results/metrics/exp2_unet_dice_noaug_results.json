@@ -1,0 +1,17 @@
+{
+  "experiment_name": "exp2_unet_dice_noaug",
+  "config": {
+    "name": "exp2_unet_dice_noaug",
+    "arch": "unet",
+    "loss": "dice",
+    "augment": false,
+    "desc": "U-Net + Dice"
+  },
+  "test_metrics": {
+    "dice": 0.7264005750417709,
+    "iou": 0.5713766232132912,
+    "accuracy": 0.9443834304809571,
+    "sensitivity": 0.8420965492725372,
+    "specificity": 0.954413989186287
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "experiment_name": "exp4_unet_combined_aug",
+  "config": {
+    "name": "exp4_unet_combined_aug",
+    "arch": "unet",
+    "loss": "combined",
+    "augment": true,
+    "desc": "U-Net + Combined + Aug"
+  },
+  "test_metrics": {
+    "dice": 0.7057666540145874,
+    "iou": 0.5466241538524628,
+    "accuracy": 0.9480520248413086,
+    "sensitivity": 0.7229612544178963,
+    "specificity": 0.9699973076581955
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "experiment_name": "exp1_unet_bce_noaug",
+  "config": {
+    "name": "exp1_unet_bce_noaug",
+    "arch": "unet",
+    "loss": "bce",
+    "augment": false,
+    "desc": "U-Net + BCE"
+  },
+  "test_metrics": {
+    "dice": 0.7452967673540115,
+    "iou": 0.5947604060173035,
+    "accuracy": 0.9562551498413085,
+    "sensitivity": 0.7396577924489975,
+    "specificity": 0.9773008644580841
+  }
+}

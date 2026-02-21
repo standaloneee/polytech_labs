@@ -1,0 +1,17 @@
+{
+  "experiment_name": "exp5_resnet34_combined_aug",
+  "config": {
+    "name": "exp5_resnet34_combined_aug",
+    "arch": "resnet34",
+    "loss": "combined",
+    "augment": true,
+    "desc": "ResNet34 + Combined + Aug"
+  },
+  "test_metrics": {
+    "dice": 0.7389390081167221,
+    "iou": 0.5863870829343796,
+    "accuracy": 0.9477210998535156,
+    "sensitivity": 0.849081614613533,
+    "specificity": 0.9574065148830414
+  }
+}

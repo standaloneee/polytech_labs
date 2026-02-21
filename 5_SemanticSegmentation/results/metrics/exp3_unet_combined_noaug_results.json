@@ -1,0 +1,17 @@
+{
+  "experiment_name": "exp3_unet_combined_noaug",
+  "config": {
+    "name": "exp3_unet_combined_noaug",
+    "arch": "unet",
+    "loss": "combined",
+    "augment": false,
+    "desc": "U-Net + Combined"
+  },
+  "test_metrics": {
+    "dice": 0.7377958357334137,
+    "iou": 0.5849343270063401,
+    "accuracy": 0.9503547668457031,
+    "sensitivity": 0.8037314981222152,
+    "specificity": 0.9646648228168487
+  }
+}

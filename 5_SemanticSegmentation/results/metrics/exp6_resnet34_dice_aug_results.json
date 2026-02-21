@@ -1,0 +1,17 @@
+{
+  "experiment_name": "exp6_resnet34_dice_aug",
+  "config": {
+    "name": "exp6_resnet34_dice_aug",
+    "arch": "resnet34",
+    "loss": "dice",
+    "augment": true,
+    "desc": "ResNet34 + Dice + Aug"
+  },
+  "test_metrics": {
+    "dice": 0.6459049969911576,
+    "iou": 0.4776159688830376,
+    "accuracy": 0.9322319030761719,
+    "sensitivity": 0.708807522058487,
+    "specificity": 0.9536971539258957
+  }
+}
