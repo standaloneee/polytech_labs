@@ -1,345 +1,5918 @@
 [
   {
-    "text": "Отличный отель! Номера чистые, персонал вежливый, завтрак превосходный.",
-    "true_label": "POSITIVE",
-    "overall_sentiment": "POSITIVE",
-    "overall_score": 0.9916489124298096,
+    "text": "Платьем не довольна. Пришло со сломанной пуговицей,  запасной нет. Теперь придётся покупать 4 пуговицы. Воротник тоже при шит не правильно, морщится. Цвет соответствует. В остальном сидит хорошо. Покупкой не довольна.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.7930389046669006,
     "aspects": {
       "Качество": {
         "label": "POSITIVE",
-        "score": 0.992293119430542
-      },
-      "Сервис": {
-        "label": "POSITIVE",
-        "score": 0.9932914972305298
+        "score": 0.5783069133758545
       }
     }
   },
   {
-    "text": "Прекрасный ресторан, вкусная еда, быстрое обслуживание. Обязательно вернусь!",
-    "true_label": "POSITIVE",
-    "overall_sentiment": "POSITIVE",
-    "overall_score": 0.9908536672592163,
-    "aspects": {
-      "Качество": {
-        "label": "POSITIVE",
-        "score": 0.9916611909866333
-      },
-      "Сервис": {
-        "label": "POSITIVE",
-        "score": 0.9916611909866333
-      },
-      "Скорость/Время": {
-        "label": "POSITIVE",
-        "score": 0.9916611909866333
-      }
-    }
-  },
-  {
-    "text": "Товар пришел быстро, качество отличное, упаковка хорошая. Рекомендую!",
-    "true_label": "POSITIVE",
-    "overall_sentiment": "POSITIVE",
-    "overall_score": 0.9923816323280334,
-    "aspects": {
-      "Качество": {
-        "label": "POSITIVE",
-        "score": 0.9936662316322327
-      },
-      "Скорость/Время": {
-        "label": "POSITIVE",
-        "score": 0.9936662316322327
-      },
-      "Упаковка/Внешний вид": {
-        "label": "POSITIVE",
-        "score": 0.9936662316322327
-      }
-    }
-  },
-  {
-    "text": "Замечательный ноутбук, быстрый, легкий, батарея держит долго.",
-    "true_label": "POSITIVE",
-    "overall_sentiment": "POSITIVE",
-    "overall_score": 0.9909536838531494,
-    "aspects": {
-      "Качество": {
-        "label": "POSITIVE",
-        "score": 0.9915741086006165
-      },
-      "Скорость/Время": {
-        "label": "POSITIVE",
-        "score": 0.9915741086006165
-      }
-    }
-  },
-  {
-    "text": "Очень довольна покупкой! Платье красивое, ткань приятная, сидит идеально.",
-    "true_label": "POSITIVE",
-    "overall_sentiment": "POSITIVE",
-    "overall_score": 0.992567777633667,
-    "aspects": {
-      "Качество": {
-        "label": "POSITIVE",
-        "score": 0.9944236874580383
-      },
-      "Упаковка/Внешний вид": {
-        "label": "POSITIVE",
-        "score": 0.9944236874580383
-      }
-    }
-  },
-  {
-    "text": "Ужасный отель! Грязные номера, невежливый персонал, плохой завтрак.",
-    "true_label": "NEGATIVE",
-    "overall_sentiment": "NEGATIVE",
-    "overall_score": 0.8957059979438782,
-    "aspects": {
-      "Качество": {
-        "label": "NEGATIVE",
-        "score": 0.725740373134613
-      },
-      "Сервис": {
-        "label": "NEGATIVE",
-        "score": 0.5824698805809021
-      }
-    }
-  },
-  {
-    "text": "Разочарован покупкой. Товар низкого качества, долгая доставка, плохая упаковка.",
-    "true_label": "NEGATIVE",
-    "overall_sentiment": "NEGATIVE",
-    "overall_score": 0.5167154669761658,
+    "text": "качество дешевое, на рост 170 коротковата",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.8994848132133484,
     "aspects": {
       "Качество": {
         "label": "NEUTRAL",
-        "score": 0.6946594715118408
-      },
-      "Скорость/Время": {
-        "label": "NEUTRAL",
-        "score": 0.6946594715118408
-      },
-      "Упаковка/Внешний вид": {
-        "label": "NEUTRAL",
-        "score": 0.6946594715118408
-      }
-    }
-  },
-  {
-    "text": "Не рекомендую этот ресторан. Еда невкусная, обслуживание медленное, цены завышены.",
-    "true_label": "NEGATIVE",
-    "overall_sentiment": "NEGATIVE",
-    "overall_score": 0.6112975478172302,
-    "aspects": {
-      "Сервис": {
-        "label": "NEUTRAL",
-        "score": 0.7353242635726929
+        "score": 0.8994848132133484
       },
       "Цена": {
         "label": "NEUTRAL",
-        "score": 0.7353242635726929
-      },
-      "Скорость/Время": {
-        "label": "NEUTRAL",
-        "score": 0.7353242635726929
+        "score": 0.8994848132133484
       }
     }
   },
   {
-    "text": "Ноутбук постоянно зависает, батарея быстро разряжается, очень тяжелый.",
-    "true_label": "NEGATIVE",
-    "overall_sentiment": "NEUTRAL",
-    "overall_score": 0.6687495708465576,
-    "aspects": {
-      "Скорость/Время": {
-        "label": "NEUTRAL",
-        "score": 0.6542553901672363
-      }
-    }
-  },
-  {
-    "text": "Платье пришло не того размера, ткань дешевая, швы кривые. Деньги на ветер.",
+    "text": "Заказ не пришёл,но деньги вернули,прождала 2 с половиной месяца,а посылка не отслуживалась.",
     "true_label": "NEGATIVE",
     "overall_sentiment": "NEGATIVE",
-    "overall_score": 0.8587803840637207,
+    "overall_score": 0.6919366121292114,
     "aspects": {
-      "Качество": {
-        "label": "NEGATIVE",
-        "score": 0.6243032813072205
-      },
       "Цена": {
         "label": "NEGATIVE",
-        "score": 0.6243032813072205
+        "score": 0.6972328424453735
       },
       "Скорость/Время": {
         "label": "NEGATIVE",
-        "score": 0.8521350026130676
+        "score": 0.6972328424453735
       }
     }
   },
   {
-    "text": "Обычный отель, ничего особенного. Номера стандартные, персонал нормальный.",
+    "text": "очень короткие,на рост 150см,как на ребёнка",
     "true_label": "NEUTRAL",
-    "overall_sentiment": "NEUTRAL",
-    "overall_score": 0.647831380367279,
-    "aspects": {
-      "Сервис": {
-        "label": "NEUTRAL",
-        "score": 0.5667679905891418
-      }
-    }
-  },
-  {
-    "text": "Товар соответствует описанию. Доставка в срок.",
-    "true_label": "NEUTRAL",
-    "overall_sentiment": "POSITIVE",
-    "overall_score": 0.9337136745452881,
-    "aspects": {
-      "Скорость/Время": {
-        "label": "POSITIVE",
-        "score": 0.8946402668952942
-      }
-    }
-  },
-  {
-    "text": "Ресторан как ресторан, еда средняя, цены приемлемые.",
-    "true_label": "NEUTRAL",
-    "overall_sentiment": "NEUTRAL",
-    "overall_score": 0.7132581472396851,
-    "aspects": {
-      "Цена": {
-        "label": "NEUTRAL",
-        "score": 0.7362797260284424
-      }
-    }
-  },
-  {
-    "text": "Ноутбук подходит для базовых задач. Ничего выдающегося.",
-    "true_label": "NEUTRAL",
-    "overall_sentiment": "NEUTRAL",
-    "overall_score": 0.6561967730522156,
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.6138640642166138,
     "aspects": {}
   },
   {
-    "text": "Отель хороший, но завтрак разочаровал. Номера чистые, но персонал грубый.",
-    "true_label": "NEUTRAL",
-    "overall_sentiment": "NEUTRAL",
-    "overall_score": 0.7860115170478821,
+    "text": "Юбка отличная, плотная, хорошо сшитая. Полностью соответствует описанию, размер отлично подошёл. Закажу в другом цвете ",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9943305253982544,
     "aspects": {
       "Качество": {
-        "label": "NEUTRAL",
-        "score": 0.7802011370658875
-      },
-      "Сервис": {
-        "label": "NEUTRAL",
-        "score": 0.8376741409301758
+        "label": "POSITIVE",
+        "score": 0.9936700463294983
       }
     }
   },
   {
-    "text": "Еда в ресторане отличная, но ждали очень долго. Атмосфера приятная, но цены высокие.",
-    "true_label": "NEUTRAL",
-    "overall_sentiment": "NEUTRAL",
-    "overall_score": 0.6687172055244446,
-    "aspects": {
-      "Качество": {
-        "label": "NEUTRAL",
-        "score": 0.6532086730003357
-      },
-      "Скорость/Время": {
-        "label": "NEUTRAL",
-        "score": 0.6532086730003357
-      }
-    }
-  },
-  {
-    "text": "Ноутбук мощный, но очень шумный. Экран яркий, но батарея слабая.",
-    "true_label": "NEUTRAL",
-    "overall_sentiment": "NEUTRAL",
-    "overall_score": 0.8209150433540344,
+    "text": "заказала C, опираясь на отзывы, промахнулась, в итоге лиф большой и я хз, куда его девать, может отдам кому-нибудь. в общем, одни расстройства",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.7026059031486511,
     "aspects": {}
   },
   {
-    "text": "Качество товара хорошее, но доставка задержалась на неделю.",
+    "text": "Цена-качество ",
     "true_label": "NEUTRAL",
     "overall_sentiment": "NEUTRAL",
-    "overall_score": 0.5545193552970886,
+    "overall_score": 0.8315796256065369,
     "aspects": {
       "Качество": {
         "label": "NEUTRAL",
-        "score": 0.598056435585022
+        "score": 0.8315796256065369
       },
-      "Скорость/Время": {
+      "Цена": {
         "label": "NEUTRAL",
-        "score": 0.598056435585022
+        "score": 0.8315796256065369
       }
     }
   },
   {
-    "text": "Платье красивое, но маломерит. Ткань качественная, но дорого.",
-    "true_label": "NEUTRAL",
-    "overall_sentiment": "NEUTRAL",
-    "overall_score": 0.5276626944541931,
+    "text": "Качество ужасное, размер не соответствует",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.7781190276145935,
+    "aspects": {
+      "Качество": {
+        "label": "NEGATIVE",
+        "score": 0.7781190276145935
+      }
+    }
+  },
+  {
+    "text": "Цвет не такой, а ближе к красному. Качество хорошее, но она совсем не такая как на картинке. На картинке она прямая, а пришла к низу шире... смотрится как баба и чайнике.... очень недовольна",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.5091878771781921,
     "aspects": {
       "Качество": {
         "label": "NEUTRAL",
-        "score": 0.7238901853561401
-      },
-      "Цена": {
+        "score": 0.7023951411247253
+      }
+    }
+  },
+  {
+    "text": "размер не соответствует",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.8059468269348145,
+    "aspects": {}
+  },
+  {
+    "text": "красота ！",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9862896203994751,
+    "aspects": {}
+  },
+  {
+    "text": "ткань просто ужас, воняет краской или еще чем - то, описание не соответствует действительности",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.5944197773933411,
+    "aspects": {}
+  },
+  {
+    "text": "Ну начнем с того, что отправлял только неделю! Доставка почти месяц. Все Качество на фото. Внизу по швам все гармошкой. А на рукавах вообще эту ерунду отпорю.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.6725915670394897,
+    "aspects": {
+      "Качество": {
         "label": "NEUTRAL",
-        "score": 0.7238901853561401
+        "score": 0.5316332578659058
+      },
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.5547475814819336
+      }
+    }
+  },
+  {
+    "text": "Сшита плохо, синтетика",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.812776505947113,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.812776505947113
+      }
+    }
+  },
+  {
+    "text": "кофта не пришла деньги не вернули",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.9882211089134216,
+    "aspects": {
+      "Цена": {
+        "label": "NEGATIVE",
+        "score": 0.9882211089134216
+      },
+      "Скорость/Время": {
+        "label": "NEGATIVE",
+        "score": 0.9882211089134216
+      }
+    }
+  },
+  {
+    "text": "размер немного не соответствует",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.811127781867981,
+    "aspects": {}
+  },
+  {
+    "text": "мне не понравилось\r\nтовар пришел без повреждений \r\nне как на фото\r\nматериал толстовки как у куртки!!!\r\nплохо",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.7477742433547974,
+    "aspects": {
+      "Качество": {
+        "label": "NEGATIVE",
+        "score": 0.6647065281867981
       },
       "Упаковка/Внешний вид": {
         "label": "NEUTRAL",
-        "score": 0.6247851848602295
+        "score": 0.6044992804527283
       }
     }
   },
   {
-    "text": "Превосходное качество обслуживания! Всё на высшем уровне.",
+    "text": "хорошее платье, только размеры большие",
     "true_label": "POSITIVE",
     "overall_sentiment": "POSITIVE",
-    "overall_score": 0.9899085760116577,
+    "overall_score": 0.8105160593986511,
     "aspects": {
       "Качество": {
         "label": "POSITIVE",
-        "score": 0.9913026094436646
-      },
-      "Сервис": {
-        "label": "POSITIVE",
-        "score": 0.9913026094436646
+        "score": 0.8105160593986511
       }
     }
   },
   {
-    "text": "Лучший отель в городе! Всем рекомендую.",
+    "text": "сначала ушла не в тот город, но через пару дней пришла, кула надо. тонкая кофта, красивая",
     "true_label": "POSITIVE",
     "overall_sentiment": "POSITIVE",
-    "overall_score": 0.9913159608840942,
+    "overall_score": 0.9217943549156189,
+    "aspects": {
+      "Упаковка/Внешний вид": {
+        "label": "POSITIVE",
+        "score": 0.8531697988510132
+      }
+    }
+  },
+  {
+    "text": "липнит сильно, больно отдирать. размер Д не держит",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.7125751972198486,
     "aspects": {}
   },
   {
-    "text": "Полное разочарование. Не советую никому.",
-    "true_label": "NEGATIVE",
-    "overall_sentiment": "NEGATIVE",
-    "overall_score": 0.9362413287162781,
+    "text": "Кривая",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.8767957091331482,
     "aspects": {}
   },
   {
-    "text": "Потраченные деньги жалко. Очень плохо.",
+    "text": "маломерки ...на подростков ((  качество хорошее !",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.46976542472839355,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.6527416706085205
+      }
+    }
+  },
+  {
+    "text": "Маломерит на L берите 3xL",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.7349688410758972,
+    "aspects": {}
+  },
+  {
+    "text": "качество неплохое ,но местами торчат нитки ,дошёл за 3 недели запаха нет .",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.8061578869819641,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.8097499012947083
+      }
+    }
+  },
+  {
+    "text": "Заказ был оформлен 07.09 ....получила только 24.10!!!!\r\r\nНе могли отправить две с половиной недели,  от продавца постоянные отписки ...подожди френд и т.д...В чем причина так и не удалось узнать...\r\r\nВремя обработки истекло и продавец отправил ЧОКЕР! Вместо кардигана.\r\r\nСпустя полтора месяца пришел по другому треку! \r\r\n\r\r\nКардиган короче чем на фото(173рост)! В некоторых местах вот вот разойдется шов, придется от руки сшивать.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.7195651531219482,
+    "aspects": {
+      "Скорость/Время": {
+        "label": "NEGATIVE",
+        "score": 0.6770519018173218
+      }
+    }
+  },
+  {
+    "text": "Футболка соответствует описанию , Цвет насыщенный синий, размерная таблица соответствует .",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.943560779094696,
+    "aspects": {}
+  },
+  {
+    "text": "гольная синтетика!!!! цвета не яркие, бумбоны очень мелкие не такие как на картинке",
     "true_label": "NEGATIVE",
     "overall_sentiment": "NEGATIVE",
-    "overall_score": 0.8888090252876282,
+    "overall_score": 0.5434567332267761,
+    "aspects": {}
+  },
+  {
+    "text": "Рубашка очень хорошая и по размеру подошла!!!",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.994346559047699,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9904198050498962
+      }
+    }
+  },
+  {
+    "text": "Прекрасное пальто, отличного качества. К моему великому сожалению, не подошло по размеру, на мои габариты, грудь 99 см.  надо было брать xxl. Надо сказать, что продавец оказался очень порядочным человеком и пошёл мне на встречу, решив данный вопрос.",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9826865196228027,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9919722080230713
+      }
+    }
+  },
+  {
+    "text": "Брюки фееричные. Продавец хороший. Заказывала 4XL на бедра 117см. Влезла хорошо. Плотные , тонкие штаны. Не экокожа, но смотрятся как кожа. Спасибо продавцу за общение и поддержку во время ожидания заказа. Я очень рада, что купила эти брюки.",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9946759939193726,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9816325902938843
+      },
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.9574552178382874
+      }
+    }
+  },
+  {
+    "text": "Ужасное качество. плечи на локтях, короткий, попу не прикрывает. 2 звезды за быструю доставку и за то, что он теплый. хотя в таком только мусор выносить",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.7950476408004761,
     "aspects": {
       "Качество": {
         "label": "NEGATIVE",
-        "score": 0.8786994218826294
+        "score": 0.6124403476715088
+      },
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.6083428263664246
+      }
+    }
+  },
+  {
+    "text": "Даже НЕ ВЗДУМАЙТЕ брать. Пришла ужасная рубашка. Ткань- диванная обивка, либо халат махровый. Осталось порвать на тряпки, будет хорошо воду впитывать. Не тратьте свои деньги. Спасибо деньги вернули.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.7481937408447266,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.7991422414779663
       },
       "Цена": {
         "label": "NEGATIVE",
-        "score": 0.5746117234230042
+        "score": 0.8789641261100769
       },
       "Скорость/Время": {
         "label": "NEGATIVE",
-        "score": 0.5746117234230042
+        "score": 0.8789641261100769
+      }
+    }
+  },
+  {
+    "text": "Продавец - мошенник! Вместо кофточки отправил какой то брелок! Первый раз с таким столкнулась на этом сайте.  Нельзя у него ничего заказывать!",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.9796788692474365,
+    "aspects": {}
+  },
+  {
+    "text": "Качество ткани не соответствует фото в описании. Хотя в целом ткань нормальная, очень хорошо тянется. Просто платье из такой ткани можно найти гораздо дешевле на али. Размер М мне не подошёл- мало в плечах и слишком обтягивает бёдра и живот. Мои габариты- плечи 42см. Бедра 102 см. Бюст 88 см. Талия 70 см. Доставка больше месяца. Курьер привёз мне в офис, предварительно позвонил и уточнил время доставки.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.7960376143455505,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.7588681578636169
+      },
+      "Цена": {
+        "label": "NEUTRAL",
+        "score": 0.7329894304275513
+      },
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.7674660682678223
+      }
+    }
+  },
+  {
+    "text": "Тонкая кофта, больше похожая на пижаму. Глупая трата денег",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.68153315782547,
+    "aspects": {
+      "Цена": {
+        "label": "NEGATIVE",
+        "score": 0.5445848107337952
+      }
+    }
+  },
+  {
+    "text": "платье не плохое, но носить не буду . на ОГ 102 село хорошо,а вот на рост170см мало. сильно высоко линия пояса.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.7323232293128967,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.49384161829948425
+      }
+    }
+  },
+  {
+    "text": "COOL!!!",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.7588900923728943,
+    "aspects": {}
+  },
+  {
+    "text": "Пришло быстро. Материал хороший нежный на теле, размер подошёл. Резиночка в подарок пришла) спасибо)",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9953523874282837,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9372515082359314
+      },
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.9451103806495667
+      }
+    }
+  },
+  {
+    "text": "Пезинка тугая, нужен античептик, полупрозразное платье(",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.8328753709793091,
+    "aspects": {}
+  },
+  {
+    "text": "ПРОДАВЕЦ МЕРЗАВЕЦ\r\r\nОН ОБМАНЩИК\r\r\nНЕ ПРИСЛАЛ НИЧЕГО И НЕ ВЕРНУЛ  ДЕНЬГИ\r\r\nЛОХОТРОНЩИКОВ И В КИТАЕ ХВАТАЕТ\r\r\nУЖАСНО",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.9334014654159546,
+    "aspects": {
+      "Качество": {
+        "label": "NEGATIVE",
+        "score": 0.9334014654159546
+      },
+      "Цена": {
+        "label": "NEGATIVE",
+        "score": 0.9334014654159546
+      },
+      "Скорость/Время": {
+        "label": "NEGATIVE",
+        "score": 0.9334014654159546
+      }
+    }
+  },
+  {
+    "text": "Платья этого не было,заменили на другое,оно очень короткое,но спасибо продавцу,что быстро пришло и шла на контакт!",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.48554784059524536,
+    "aspects": {
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.5474590063095093
+      }
+    }
+  },
+  {
+    "text": "Платье Г..но (очень плохое). Размер не совпадает, на толстую первоклашку с короткими ногами :) Ткань голимая синтетика. Выкинула в детский дом среди общего хлама.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.8281940817832947,
+    "aspects": {
+      "Качество": {
+        "label": "NEGATIVE",
+        "score": 0.5400297045707703
+      }
+    }
+  },
+  {
+    "text": "Классный свитер) Очень нравится)",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9915283918380737,
+    "aspects": {}
+  },
+  {
+    "text": "Доставка за 10 дней в Новосибирск! Леггинсы понравились. Ткань плотная, швы ровные, без брака. Запаха нет. Чуть длинноваты, но не страшно. Продавец положил резиночку в подарок :)",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9948829412460327,
+    "aspects": {
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.9042404890060425
+      }
+    }
+  },
+  {
+    "text": "Тонкие леггинсы на лето. На 160 будут по косточку, остальным выше. Брала для дочери M на рост 158, все подошло, можно даже было меньше размер брать, поскольку у нее S. Спасибо.",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9647836089134216,
+    "aspects": {}
+  },
+  {
+    "text": "Так себе ",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.9193200469017029,
+    "aspects": {}
+  },
+  {
+    "text": "Все хорошо, единственное слишком узкая в талии ( 77см у меня). Придется удлинить резинку.",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9084020853042603,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9593947529792786
+      }
+    }
+  },
+  {
+    "text": "Отличное качество, рисунок четкий, буду заказывать ещё! Только наверное размер L, а не XL, а то он немного свободнее чем хотелось, но сидит все равно отлично!",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.994686484336853,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.993690013885498
+      }
+    }
+  },
+  {
+    "text": "Ставлю 3 звезды так,как надеялась получить настоящее платье трансформер, но на этом слишком узкие полоски ткани из которых и должны моделироваться варианты. \r\nК сожалению много хороших вариаций носки из- за этого отпала (( \r\nв остальном платье хорошее, носить и эксперементировать можно, но если вы хотите настоящее платье трансформер, с широкими полосами ткани для моделирования и построения вариантов,то это не оно",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.9131645560264587,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.7561070322990417
+      }
+    }
+  },
+  {
+    "text": "вобщем всё хорошо, немного великовато",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.4900103211402893,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.4900103211402893
+      }
+    }
+  },
+  {
+    "text": "ЖАЛКО СТАВИТЬ ЗВЕЗДЕЧКУ. Продовец грубый во время не отправил  посилку. 60 дней прошел товар нету. НЕ РЕКОМЕНДУЮ.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.880469024181366,
+    "aspects": {
+      "Сервис": {
+        "label": "NEGATIVE",
+        "score": 0.7436562776565552
+      },
+      "Скорость/Время": {
+        "label": "NEGATIVE",
+        "score": 0.7436562776565552
+      }
+    }
+  },
+  {
+    "text": "Пижама не очень по качеству, тонкая думаю после стирки будут дырки , доставка быстрая ",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.8459224700927734,
+    "aspects": {
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.8459224700927734
+      }
+    }
+  },
+  {
+    "text": "длина юбки для моего роста длинова)))",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.8500277996063232,
+    "aspects": {}
+  },
+  {
+    "text": "Ждала 4 месяца ! Продавец вернул деньги ,так как товар так и не пришёл ",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.7066766023635864,
+    "aspects": {
+      "Цена": {
+        "label": "NEGATIVE",
+        "score": 0.5830647945404053
+      },
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.5242494940757751
+      }
+    }
+  },
+  {
+    "text": "качество ужасное - 100% синтетика, цвет вообще не соответствует фото, в реальности светло грязно жёлтый какой то, полное разочарование.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.7986385822296143,
+    "aspects": {
+      "Качество": {
+        "label": "NEGATIVE",
+        "score": 0.8070793151855469
+      }
+    }
+  },
+  {
+    "text": "Блузка мала",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.8808192610740662,
+    "aspects": {}
+  },
+  {
+    "text": "Ожидала будет лучше.  Толстовка немного мала в груди , взяла L , на свой 48. \r\nКачество ужас .Обычная байковая ткань, только кисти из ткани. \r\nСнизу не просроченная, заворачивается .\r\nДоставка долгая. Шла месяц или немного больше.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.7135059237480164,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.5185863971710205
+      },
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.8885934352874756
+      }
+    }
+  },
+  {
+    "text": "Грудь бюстгальтер не держит. по чашкам оказался маловат",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.8736001253128052,
+    "aspects": {}
+  },
+  {
+    "text": "Платье суперское, стильное, буду заказывать еще другого цвета! Мой размер 48, взяла XL, Сидит так, как надо) чуть свободненько, модненько, спасибо продавцу",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9930716156959534,
+    "aspects": {
+      "Упаковка/Внешний вид": {
+        "label": "POSITIVE",
+        "score": 0.9928624033927917
+      }
+    }
+  },
+  {
+    "text": "Всё отлично спасибо большое   ",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9933630228042603,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9933630228042603
+      }
+    }
+  },
+  {
+    "text": "Рубашка не соответствует размерной таблице. А именно объем груди. Вместо заявленного в таблице 104 см. По факту 97. Поэтому тесно в груди, застёгнутую носить невозможно. Очень печально. Заказывала XXL.  Мой российский размер 46.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.6973743438720703,
+    "aspects": {}
+  },
+  {
+    "text": "всегда заказываю у данного продавца эти джинсы. всегда была быстрая доставка и размер идеальный и качество хорошее, краски не теряют контраста после стирки. но в этот раз посылка не пришла, но продавец без проблем вернул деньги. жалко только потраченных двух месяцев ожидания товара  (\r\nвот теперь думаю заказывать или опять не дойдут)))",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.4146951735019684,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9842258095741272
+      },
+      "Цена": {
+        "label": "NEGATIVE",
+        "score": 0.50783771276474
+      },
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.9842258095741272
+      }
+    }
+  },
+  {
+    "text": "как на картинке",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.994077205657959,
+    "aspects": {}
+  },
+  {
+    "text": "в описании указано,что это толстовка. а на самом деле это лонгслив",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.6710901260375977,
+    "aspects": {}
+  },
+  {
+    "text": "Принт шикарен а вот с размером обманули, взяли на 46-48 размер 2 xl оказался мал",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.7130374908447266,
+    "aspects": {}
+  },
+  {
+    "text": "Долго искала такой тоненький джемперок и наконец нашла! А теперь почему только две звезды: Во-первых доставка дольше месяца - планировала надеть его на новогодний вечер, так как доставка службой еРаскеt обычно приходит к нам за две, максимум за три недели, а здесь продавец неделю \"телился\" с отправкой, в итоге посылку получила уже после НГ. Во-вторых нужен был бежевый цвет как на сайте у продавца - получила с желтым оттенком, бонусом получила земельный цвет лица((( В-третьих - на ОГ 92 см по размерной сетке продавца выбрала XL, не люблю когда сильно обтягивает, получила джемпер просто с игрушечным размером, таких у продавца даже не указано, наверно это XS. Всё по честному - минус три звезды.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.6396562457084656,
+    "aspects": {
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.6566528677940369
+      }
+    }
+  },
+  {
+    "text": "торчат нитки",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.8444671034812927,
+    "aspects": {}
+  },
+  {
+    "text": "Отличное только в талии широкое ",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.7082844376564026,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.7082844376564026
+      }
+    }
+  },
+  {
+    "text": "Линяет просто ужасно",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.6138965487480164,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.6138965487480164
+      }
+    }
+  },
+  {
+    "text": "пальто хорошее, но вот нижней кнопки явно не достаточно! Буду добавлять ещё одну.",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.8701318502426147,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.5762510895729065
+      }
+    }
+  },
+  {
+    "text": "плохое  качество,  уже  после  1дня ношения  взялся катешками.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.7600703835487366,
+    "aspects": {
+      "Качество": {
+        "label": "NEGATIVE",
+        "score": 0.7635189890861511
+      }
+    }
+  },
+  {
+    "text": "Отлично!! Очень приятная",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9905774593353271,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9913802742958069
+      }
+    }
+  },
+  {
+    "text": "Покупка вернулась продавцу по вине логистов, товар я так и не видела т.к она не покинула приделы Китая.Продавец общительный, деньги вернулись на карту за что огромное спасибо .Чуть позже обязательно закажу в этом же магазине.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.46345123648643494,
+    "aspects": {
+      "Цена": {
+        "label": "POSITIVE",
+        "score": 0.3512471616268158
+      },
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.3512471616268158
+      },
+      "Упаковка/Внешний вид": {
+        "label": "NEGATIVE",
+        "score": 0.6908051371574402
+      }
+    }
+  },
+  {
+    "text": "Товар пришел вовремя.Товар доставлен повреждённым. Открыла спор, одобрели.Буду заказывать ещё.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.4110531508922577,
+    "aspects": {
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.47511395812034607
+      }
+    }
+  },
+  {
+    "text": "ййййййййййййййй",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.628605842590332,
+    "aspects": {}
+  },
+  {
+    "text": "качество просто .  В Приморский край заказ шёл меньше месяца. огромное спасибо за подарок, приятно",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.4454382061958313,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.6866848468780518
+      }
+    }
+  },
+  {
+    "text": "Не для маленькой груди, минимум 2 размер и то лучше ближе к 3",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.8000032305717468,
+    "aspects": {}
+  },
+  {
+    "text": "слишком короткая",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.886604905128479,
+    "aspects": {}
+  },
+  {
+    "text": "Платье супер! Доставка быстрая! На 42-44 заказывала S",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9927109479904175,
+    "aspects": {
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.8137986660003662
+      }
+    }
+  },
+  {
+    "text": "непропорциональные размеры: короткий, широкий, короткие рукава - для толстого ребёнка до 12 лет максимум ).",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.5643814206123352,
+    "aspects": {}
+  },
+  {
+    "text": "Ночнушка пришла через 3 недели, трек отслеживался. Качество хорошее, ткань приятная, плотная, гипюр мягкий. Рекомендую и товар, и продавца.",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9943138360977173,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9947355389595032
+      }
+    }
+  },
+  {
+    "text": "качество отличное. все пришло в срок, цвет и фасон как на картинке, таблица размеров - соответствует.",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9937294721603394,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9915757775306702
+      },
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.9088642597198486
+      }
+    }
+  },
+  {
+    "text": "Ткань не очень.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.8808506727218628,
+    "aspects": {}
+  },
+  {
+    "text": "На бюст 104см, рост 173 см село идеально. Ткань мягкая, эластичная, к телу нежная. Не искрит, не пахнет. Швы аккуратные. Покупкой довольна.",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9941943287849426,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9937997460365295
+      },
+      "Упаковка/Внешний вид": {
+        "label": "POSITIVE",
+        "score": 0.9108967781066895
+      }
+    }
+  },
+  {
+    "text": "Заказ с апреля так и не получила.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.7763659954071045,
+    "aspects": {}
+  },
+  {
+    "text": "Качество очень низкое, везде нитки торчат, очень сомнительно, что это пуховик и на воротнике - енот.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.5750283002853394,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.5402882099151611
+      }
+    }
+  },
+  {
+    "text": "тонкий трикотаж,не стоит этих денег....у нас  есть магазины \"всё по 250\" - так там можно лучшее купить...",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.7752572894096375,
+    "aspects": {
+      "Цена": {
+        "label": "NEUTRAL",
+        "score": 0.81217360496521
+      }
+    }
+  },
+  {
+    "text": "The item was not delivered. The track i have seen on 17track web site shows me another city of delivery and not my city at all. No any answer from seller support. Keep in mind that you pay and may get nothing instead of your dress.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.8308681845664978,
+    "aspects": {}
+  },
+  {
+    "text": "Пришли не быстро. Ткань хлопок. Торчат швы",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.6437592506408691,
+    "aspects": {
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.7154651284217834
+      }
+    }
+  },
+  {
+    "text": "рубашку получили пошита неплохо но выглядит дешовенько  своих денег стоит. на 44 надо м.рукова коротковаты .",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.5578897595405579,
+    "aspects": {
+      "Цена": {
+        "label": "NEUTRAL",
+        "score": 0.5846187472343445
+      }
+    }
+  },
+  {
+    "text": "Футболочка тоненькая,серо-голубая.почти прямая, не длинная на рос 165.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.754721462726593,
+    "aspects": {}
+  },
+  {
+    "text": "доставка быстрая. но это не платье а свитер. и так как на фото приталенно не сидит, спина торчит. не совсем то что ожидала.точнее совсем не то. живота вроде нет а в нем выделяется.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.8349485397338867,
+    "aspects": {
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.7845039367675781
+      }
+    }
+  },
+  {
+    "text": "Майка классная!  Еще бы парочку заказала. Качество отличное.",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9936684966087341,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9917194843292236
+      }
+    }
+  },
+  {
+    "text": "Они очень огромные, на очень большого человека ",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.6017327904701233,
+    "aspects": {}
+  },
+  {
+    "text": "Товар не пришёл. Деньги вернули после спора. ",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.5416181683540344,
+    "aspects": {
+      "Цена": {
+        "label": "NEUTRAL",
+        "score": 0.47512632608413696
+      },
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.47512632608413696
+      }
+    }
+  },
+  {
+    "text": "Доставка 2 месяца, долгожданное ожидания огорчило  то, что ушки животного на капюшоне пришиты не ровно  и это заметно.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.635017991065979,
+    "aspects": {
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.6286042928695679
+      }
+    }
+  },
+  {
+    "text": "Шикарное качество. Спасибо!",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9910847544670105,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9902330636978149
+      }
+    }
+  },
+  {
+    "text": "Из плюсов: доставка 2 недели до Краснодарского края, посылка отслеживалась, свободно сел(ношу 42-44). Из минусов: странная складка около шеи, свитер после стирки потерял свою мягкость и стал жестким, но не колючим. Мой рост меньше 160 см, соответственно на мне он смотрится по сиротски, так что учитываете обязательно эту особенность. По итогу: покупкой не сильно довольна, радует то, что я покупала его 11.11 за 500 рублей, на цену выше этой он не тянет никак.. Возможно буду носить, но это не точно",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.7458581924438477,
+    "aspects": {
+      "Цена": {
+        "label": "POSITIVE",
+        "score": 0.6827437281608582
+      },
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.5227693319320679
+      }
+    }
+  },
+  {
+    "text": "размер на 42, заказывался на 48",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.6713337302207947,
+    "aspects": {}
+  },
+  {
+    "text": "Трусы очень маломерки. Не могу носить. Товар доставлен быстро, за это спасибо. ",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.6681368350982666,
+    "aspects": {
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.7479318976402283
+      }
+    }
+  },
+  {
+    "text": "тёплые. доставка быстрая.рекомендую.",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9919449687004089,
+    "aspects": {
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.7845039367675781
+      }
+    }
+  },
+  {
+    "text": "не получила товар, очень жаль и деньги",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.7430533766746521,
+    "aspects": {
+      "Цена": {
+        "label": "NEGATIVE",
+        "score": 0.7430533766746521
+      },
+      "Скорость/Время": {
+        "label": "NEGATIVE",
+        "score": 0.7430533766746521
+      }
+    }
+  },
+  {
+    "text": "Жаль, я так и не получила товар, но деньги вернули.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.5558567643165588,
+    "aspects": {
+      "Цена": {
+        "label": "NEGATIVE",
+        "score": 0.5427764654159546
+      },
+      "Скорость/Время": {
+        "label": "NEGATIVE",
+        "score": 0.5427764654159546
+      }
+    }
+  },
+  {
+    "text": "Отличный пуловер, заказываю уже третий. ",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9909235835075378,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9911584258079529
+      }
+    }
+  },
+  {
+    "text": "К сожалению заказ не пришел продавец быстро вернул деньги, советую продавца.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.48373839259147644,
+    "aspects": {
+      "Цена": {
+        "label": "NEGATIVE",
+        "score": 0.4841589033603668
+      },
+      "Скорость/Время": {
+        "label": "NEGATIVE",
+        "score": 0.4841589033603668
+      }
+    }
+  },
+  {
+    "text": "Продавец отправляет фальшивые трекинг номера.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.5496258735656738,
+    "aspects": {}
+  },
+  {
+    "text": "Девочки,платье на десять с плюсом. Очень красивое,аккуратно пошито,ну прям ниточка к ниточке. Цвет насыщенный синий,ткань суперская,смотрится отлично. На свой 50 и большую грудь взяла XXL,село очень хорошо, не в обтяжку. Длина чуть выше колена,от талии раскрешено. Про доставку хочется отдельное спасибо сказать продавцу,она просто молниеносная - две недели. В общем советую и продавца и товар.",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9950270056724548,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9629071354866028
+      },
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.9934167861938477
+      },
+      "Упаковка/Внешний вид": {
+        "label": "POSITIVE",
+        "score": 0.991104006767273
+      }
+    }
+  },
+  {
+    "text": "Ткань очень плохая",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.7128387689590454,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.7128387689590454
+      }
+    }
+  },
+  {
+    "text": "качество так себе (ну за такие деньги то )\r\nсшито нормально, но материал отвратительный \r\nочень тонкий , но совершенно не дышащий \r\nспортом в таких точно не позанимаешься\r\n+ на рост 165 оказались велики (размер брала s)",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.838149905204773,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.838149905204773
+      },
+      "Цена": {
+        "label": "NEUTRAL",
+        "score": 0.838149905204773
+      },
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.838149905204773
+      }
+    }
+  },
+  {
+    "text": "товар не получила. продовец отправил на чужой адрес. деньги вернули.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.6367036700248718,
+    "aspects": {
+      "Цена": {
+        "label": "NEUTRAL",
+        "score": 0.5140373110771179
+      },
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.5140373110771179
+      }
+    }
+  },
+  {
+    "text": "Самая голимая синтетика! Как в древнем СССР. Соответственно, то ли брюки, то ли бриджи сшиты ужасно, швы сборят, особенно между ног. Не ожидала, что еще что-то шьется из таких ужасных тканей.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.7209920287132263,
+    "aspects": {
+      "Качество": {
+        "label": "NEGATIVE",
+        "score": 0.5925922989845276
+      }
+    }
+  },
+  {
+    "text": "Очень ждала кофту, но пришла вся в затяжках и с дырками. Размер на свой 44 заказывала L, маленькая и в рукавах и в длине.  Носить такое невозможно. вернули 250 рублей из 750. Т.е. даже не половину стоимости. Продавец  общительный, но толку, если потрачены деньги, нервы и время.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.7227386832237244,
+    "aspects": {
+      "Цена": {
+        "label": "NEUTRAL",
+        "score": 0.7602174878120422
+      },
+      "Скорость/Время": {
+        "label": "NEGATIVE",
+        "score": 0.6929405331611633
+      }
+    }
+  },
+  {
+    "text": "платье отличное!  цвет -супер!! люрикс не смотрится вычурно. и нарядно, и повседневно",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9914291501045227,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9911393523216248
+      }
+    }
+  },
+  {
+    "text": "Хорошие резиночки.",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.991474986076355,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9906154870986938
+      }
+    }
+  },
+  {
+    "text": "Качество оставляет желать лучшего.:(",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.8578028082847595,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.8571968674659729
+      }
+    }
+  },
+  {
+    "text": "Все подошло отлично, заказ пришел быстро, спасибо за маленький сюрприз!",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9950272440910339,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.99460369348526
+      },
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.99460369348526
+      }
+    }
+  },
+  {
+    "text": "Продавец долго не отправлял товар, больше полутора недель, писала и спрашивала «в чем проблема?»,на первое сообщение ответил,что товар закончился, на последующие уже не отвечал. И только с течением некоторого времени написал, что товар отправлен и другой номер трека присвоен. В итоге пришёл в январе ( заказ я делала в ноябре), и не серый, а чёрный. Качество отличное, но за такое отношение только ⭐️⭐️.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.4457330107688904,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.993389368057251
+      },
+      "Сервис": {
+        "label": "POSITIVE",
+        "score": 0.993389368057251
+      },
+      "Скорость/Время": {
+        "label": "NEGATIVE",
+        "score": 0.5699764490127563
+      }
+    }
+  },
+  {
+    "text": "Не стоит своих денег Цвет не белый, а желтоватый Среднее качество, мягко говоря ",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.8014932870864868,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.8014932870864868
+      },
+      "Цена": {
+        "label": "NEUTRAL",
+        "score": 0.8014932870864868
+      }
+    }
+  },
+  {
+    "text": "Очень долгая доставка, по размеру не подошло",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.7813142538070679,
+    "aspects": {
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.7813142538070679
+      }
+    }
+  },
+  {
+    "text": "Ткань вытягивается,появились катышки после первой носки.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.7938678860664368,
+    "aspects": {}
+  },
+  {
+    "text": "Пришло все целое ,с размером не угадала( трек отслеживался, продавец общительный!положил подарочек)мелочь а прияно))",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9933562874794006,
+    "aspects": {}
+  },
+  {
+    "text": "Рубашка не плохая . За свои деньги нормально. Но материал не очень хороший , что и ожидалось от дешевой рубашки . но носить можно",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.6650682091712952,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.8426277041435242
+      },
+      "Цена": {
+        "label": "NEUTRAL",
+        "score": 0.8426277041435242
+      },
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.538938045501709
+      }
+    }
+  },
+  {
+    "text": "Мои параметры 85/68/89, размер S идеально подошел, на рост 165 лишняя длинна 10 см. ",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9934751391410828,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9939664602279663
+      }
+    }
+  },
+  {
+    "text": "Товар не пришел , деньги вернули .",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.48269256949424744,
+    "aspects": {
+      "Цена": {
+        "label": "NEGATIVE",
+        "score": 0.46461760997772217
+      },
+      "Скорость/Время": {
+        "label": "NEGATIVE",
+        "score": 0.46461760997772217
+      }
+    }
+  },
+  {
+    "text": "Описанию не соответствует, хлопка нет, синтетика 120%, скрипит. Краска от рукавов отпечаталась на всей кофте. Очень тонкая. Не советую брать.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.6425175666809082,
+    "aspects": {}
+  },
+  {
+    "text": "Перепсиховалась из-за номера для отслеживания, показывал, что посылка и в Новосибирске была, и на Сахалине, и в Магадане.Писала письма продавцу-отвечал спокойно и исправно.Заказывала 11.11, пришёл в СПб 27.12.Кинули в почтовый ящик. Думаю, что закажу ещё чёрный, но не факт, что у этого продавца!",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.7598428726196289,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.4678255617618561
+      }
+    }
+  },
+  {
+    "text": "ожидали лучше (",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.8793419003486633,
+    "aspects": {}
+  },
+  {
+    "text": "К сожалению, продавец отправил заказ через 4 дня после оплаты и он не успел прийти до праздников. Платья заказывала в качестве подарков на новый год, поэтому было важно получить вовремя. Качество полностью соответствует цене. Ткань резиновая, нитки торчат. Все недостатки фигуры подчеркивает, обтягивает каждую складочку. Платье исключительно на идеальную фигуру.",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.5866488218307495,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.7660231590270996
+      },
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.6087100505828857
+      }
+    }
+  },
+  {
+    "text": "Заказ шел меньше 3х недель. В принципе довольна. Цвет скорее не красный, а малиновый. За такие деньги отлично.",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9923439621925354,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9928681254386902
+      },
+      "Цена": {
+        "label": "POSITIVE",
+        "score": 0.9928681254386902
+      },
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.8778810501098633
+      }
+    }
+  },
+  {
+    "text": "Супер",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9874459505081177,
+    "aspects": {}
+  },
+  {
+    "text": "Шла меньше месяца, отслеживается.",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.7197213172912598,
+    "aspects": {}
+  },
+  {
+    "text": "Здравствуйте. Куртка пришла быстро, размер очень маленький, мне не подошел. Застежка очень некрепкая, на холод в ней не выйти точно, носить не буду.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.6950034499168396,
+    "aspects": {
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.719929575920105
+      }
+    }
+  },
+  {
+    "text": "пальто и близко не шерсть, материал напоминает вельвет, с переливом, оооочень тонкое, не соответствует описанию вообще. я так его ждала и ооочень расстроилась. пошив- мешок, даже фото не буду выкладывать",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.723333477973938,
+    "aspects": {
+      "Скорость/Время": {
+        "label": "NEGATIVE",
+        "score": 0.6756601929664612
+      }
+    }
+  },
+  {
+    "text": "свитер оригинальный, смотрится интересно. великоват на размер 40, оверсайз. вязка неплотная, на теплую погоду. расстроило что пришел весь в желтых пятнах, которые трудно отстирать",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.7543364763259888,
+    "aspects": {}
+  },
+  {
+    "text": "На фото выглядит лучше, чем в живую. Материал не очень приятный к телу. ",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.8792455196380615,
+    "aspects": {}
+  },
+  {
+    "text": "Было несколько ниток, в остальном - все ок. Спасибо за хороший товар. ",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9715708494186401,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.986491858959198
+      }
+    }
+  },
+  {
+    "text": "ни товара, ни денег",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.9349263310432434,
+    "aspects": {
+      "Цена": {
+        "label": "NEGATIVE",
+        "score": 0.9349263310432434
+      }
+    }
+  },
+  {
+    "text": "The colour doesn't match the description ",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.7370472550392151,
+    "aspects": {}
+  },
+  {
+    "text": "заказ пришёл быстро,все хорошо,но качество не та ,тонкая не соответствует с что на фотках",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.7014859914779663,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.7014859914779663
+      },
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.7014859914779663
+      }
+    }
+  },
+  {
+    "text": "Все как в описании",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9938530921936035,
+    "aspects": {}
+  },
+  {
+    "text": "во первых отправили не туда.во вторых очень долго шло.и нитки торчат. и материал дешевка",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.5184547305107117,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.8444770574569702
+      },
+      "Цена": {
+        "label": "NEUTRAL",
+        "score": 0.8444770574569702
+      },
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.817308247089386
+      }
+    }
+  },
+  {
+    "text": "Скажу так - это платье стоит 500 рублей. Не больше. Ткань тонкая и дешевая. Просвечивают трусы и лифчик . Оно не подойдет девушкам с фигурой, которую стоит подкорректировать , все изьяны будут видны и подчеркнуты не самым лучшим образом. Спасает только необычный дизайн платья . Одевается оно тоже проблематично , По поводу ткани , напоминает трусы с начесом + замечания по пошиву , везде торчат нитки и швы кривые .",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.7861258387565613,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.8505474328994751
+      },
+      "Цена": {
+        "label": "NEUTRAL",
+        "score": 0.6696652770042419
+      },
+      "Упаковка/Внешний вид": {
+        "label": "NEUTRAL",
+        "score": 0.7568690180778503
+      }
+    }
+  },
+  {
+    "text": "Долгая доставка. Качество ткани очень низкое. Цвет не совпадает. Хотя пошив нормальный и сидит неплохо..но ткань плохая",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.8437604308128357,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.8709419369697571
+      },
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.8874213099479675
+      }
+    }
+  },
+  {
+    "text": "Товар долго шел. Блузка оказалась с черными штрихами. Отстирались только с третьего раза с помощью пятновыводителя",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.6794595718383789,
+    "aspects": {
+      "Сервис": {
+        "label": "NEUTRAL",
+        "score": 0.6112099289894104
+      },
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.8720472455024719
+      }
+    }
+  },
+  {
+    "text": "Качество не очень, кружево все разошлось при первой же носке. Заказывала двое, одни пока живы",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.5623924732208252,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.5751742124557495
+      }
+    }
+  },
+  {
+    "text": "Лосины оказались большими,сидят не очень,носить точно не буду ",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.6792144179344177,
+    "aspects": {}
+  },
+  {
+    "text": "цвет не соответствует с фото . заказ красный цвет пришло бордовый.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.6129719614982605,
+    "aspects": {}
+  },
+  {
+    "text": "Не знаю где здесь хорошее качество и что-то тепленькое,как написано в предыдущих отзывах,вещица отвратная.Очень тонкая,неприятная синтетика,швы ужасные,край кофты просто грубо обрезан и нитки просто крошатся с нее.По мне так цена такому качеству 100 рублей максимум.Но доставка очень быстрая,что есть то есть.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.5127615332603455,
+    "aspects": {
+      "Качество": {
+        "label": "NEGATIVE",
+        "score": 0.5790383219718933
+      },
+      "Сервис": {
+        "label": "NEGATIVE",
+        "score": 0.6399480700492859
+      },
+      "Цена": {
+        "label": "NEUTRAL",
+        "score": 0.7277088761329651
+      },
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.4946020543575287
+      }
+    }
+  },
+  {
+    "text": "спасибо!",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9901672601699829,
+    "aspects": {}
+  },
+  {
+    "text": "мои ожидания не оправдались, это самый большой флоп в моей жизни точнее среди моих заказов.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.5480806827545166,
+    "aspects": {
+      "Скорость/Время": {
+        "label": "NEGATIVE",
+        "score": 0.5530722737312317
+      }
+    }
+  },
+  {
+    "text": "заказывала размер строго в соответствии с приложенной таблицей, но в чашках бюстгальтер оказался мал как минимум на размер! носить его, конечно нельзя, отдать тоже некому, поэтому 200 с лишним рублей - на выброс. Жаль. В остальном, качество вроде норм, доставка около 40 дней в мск. Еще раз убедилась, что нижнее белье за глаза заказывать ни в коем случае нельзя, тем более у китайских продавцов, у которых свое специфическое понятие о размерах(((",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.5910263061523438,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.5494646430015564
+      },
+      "Цена": {
+        "label": "NEGATIVE",
+        "score": 0.7642450928688049
+      },
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.5494646430015564
+      }
+    }
+  },
+  {
+    "text": "Вместо заказанного размера М пришла футболка размером S( печально , а так классная футболка ",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.6396960616111755,
+    "aspects": {}
+  },
+  {
+    "text": "товар я ждала 3 месяца, так как продавец просил подождать. в итоге никакой информации о местонахождении не было и он так и не пришел, а мне еще и деньги возвращать не хотели. деньги мне все таки вернули благодаря тому, что в спор вмешался aliexpress.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.7896307706832886,
+    "aspects": {
+      "Цена": {
+        "label": "NEGATIVE",
+        "score": 0.8927929997444153
+      },
+      "Скорость/Время": {
+        "label": "NEGATIVE",
+        "score": 0.7146586179733276
+      }
+    }
+  },
+  {
+    "text": "сначала все понравилось, но через пару часов платье начало сыпаться- куча крошек и комочков , так как материал бархатистый, не знаю пройдет ли это после стирки",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.7285333871841431,
+    "aspects": {
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.7285333871841431
+      }
+    }
+  },
+  {
+    "text": "На 44 размер брала L. Материал похож на кожу. Но долго носить штанишки не приятно - как будто резину на себя натянула. Кожа не дышит совсем ! Через 5 минут ноги мокрые от пота. Утеплителя почти нет, одно название. Доставка до Москвы меньше месяца.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.7610431909561157,
+    "aspects": {
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.8204392194747925
+      }
+    }
+  },
+  {
+    "text": "Гамаши супер .Всё очень понравилось.До Челябинска шли 40 дней.Положили подарочек(браслетик)большое спасибо.Всем рекомендую.",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9931275844573975,
+    "aspects": {}
+  },
+  {
+    "text": "хорошего качества рубашка. Заказываю второй раз",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9936933517456055,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9915997982025146
+      }
+    }
+  },
+  {
+    "text": "Красивая футболка. Пришла без каких-либо дефектов.",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.994278073310852,
+    "aspects": {
+      "Упаковка/Внешний вид": {
+        "label": "POSITIVE",
+        "score": 0.9925206899642944
+      }
+    }
+  },
+  {
+    "text": "часто заказываю здесь одежду,  Но такая Отвратительная кофта мне еще никогда не приходила. не по размеру, швы кривые, очень просвечивает . на тряпки",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.8808711171150208,
+    "aspects": {
+      "Скорость/Время": {
+        "label": "NEGATIVE",
+        "score": 0.8361378312110901
+      }
+    }
+  },
+  {
+    "text": "Не получила товар, прошло 4 месяца. Трек не отслеживался.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.7256733179092407,
+    "aspects": {}
+  },
+  {
+    "text": "Неприятный химический  запах, некачественные, пояс кривой",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.5400410890579224,
+    "aspects": {}
+  },
+  {
+    "text": "Заказ шел 40 дней.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.7156882286071777,
+    "aspects": {}
+  },
+  {
+    "text": "не очень туго делает,но думаю надо научиться",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.6963930726051331,
+    "aspects": {}
+  },
+  {
+    "text": "Заказывала серый, пришел бежевый, ладно, Х с ним, продавцом не довольна до усеру!  Две недели я сама продлевала отправку, ссылаясь на распродажу 11.11 , потом продавец в конце концов отправил заказ, когда написала, что не буду больше продлевать. Заказывала еще вязаное платье, о нем в другом отзыве...продавец то не мог найти мой заказ  (я ему скрины отправляла) , то трек дал левый по которому ни чего не отслеживалось, то в америке получили эту посылку в 2016году....прод сказал что якобы ошибка системы.... а по факту...итог: отправил товар 5го декабря и трек уже другой отслеживался, и пришла посылка 17го декабря. Качеством я довольна, но с таким отношением больше в этом магазине ничего не буду заказывать! и пришло еще какое-то платье, которое я не заказывала, может вину заглаживает таким образом, а может ошибка, уже не интересно. платье такое все равно носить только дома...",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.7566415071487427,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.5162653923034668
+      },
+      "Сервис": {
+        "label": "NEUTRAL",
+        "score": 0.5162653923034668
+      }
+    }
+  },
+  {
+    "text": "хорошее платье, на 90-72-96 село хорошо",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9927529096603394,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9927529096603394
+      }
+    }
+  },
+  {
+    "text": "платье супер,не просвечивает,на ог 90,от 71,об 91 L хорошо село",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9919964671134949,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9919964671134949
+      }
+    }
+  },
+  {
+    "text": "Полное соответствие описанию. Сшито качественно. Ткань очень приятная на ощупь. На размер рос.50-52 2XL сел шикарно. На рост 165 и высокий каблук  длина до пола. Думаю, что подошью немного. Хочу еще другую расцветку заказать",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.994256317615509,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9868473410606384
+      }
+    }
+  },
+  {
+    "text": "Пижама мне очень понравилась! До Уфы дошла за три недели. Свой размер 44,заказывала xl,подошел,села отлично.",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9949138164520264,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9797757863998413
+      }
+    }
+  },
+  {
+    "text": "ну что могу сказать по данному заказу? Заказывала эти блузы у другого продавца, пришли хорошего качества и вовремя, отслеживались, хотя заказывала на 360 р( 2 шт) У этого прода заказала сразу 4 блузы, заказ не отслеживался только написали, что товар отправлен и это при платной доставке!!!! Я считаю, если я плачу за платную доставку, то имею право следить за своей посылкой которая стоит без малого 1000р!!!! Собственно за это и доплачиваем",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.7266000509262085,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.44865474104881287
+      },
+      "Цена": {
+        "label": "NEGATIVE",
+        "score": 0.7353416085243225
+      },
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.44865474104881287
+      }
+    }
+  },
+  {
+    "text": "Размер не соответствует размерной таблице. Прошу вернуть деньги!",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.7545903921127319,
+    "aspects": {
+      "Цена": {
+        "label": "NEGATIVE",
+        "score": 0.6670845746994019
+      },
+      "Скорость/Время": {
+        "label": "NEGATIVE",
+        "score": 0.6670845746994019
+      }
+    }
+  },
+  {
+    "text": "Костюм супер! Очень удобный и красивый!",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9913591146469116,
+    "aspects": {
+      "Упаковка/Внешний вид": {
+        "label": "POSITIVE",
+        "score": 0.9945452213287354
+      }
+    }
+  },
+  {
+    "text": "Заказ пришел быстро. Упаковка шикарная. Сами носки синтетические, очень длинные - но греют плохо. Сильно растягиваются и постоянно съезжают вниз. Для 36 размера великоваты. Они стоят своих денег, но они не совсем для тепла, скорее для красоты.",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.5078673362731934,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.841137170791626
+      },
+      "Цена": {
+        "label": "POSITIVE",
+        "score": 0.4938103258609772
+      },
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.7516431212425232
+      },
+      "Упаковка/Внешний вид": {
+        "label": "POSITIVE",
+        "score": 0.9941350817680359
+      }
+    }
+  },
+  {
+    "text": "Размер вообще не понятный. Верх на мой размер 40-42 , а низ на 48-50 р. Буду перешивать. Качество нормальное, но две клепки оторваны.Очень долго ждала отправку.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.7036579847335815,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.7514504194259644
+      },
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.8171417713165283
+      }
+    }
+  },
+  {
+    "text": "Я заказывала размер М, но блузка на мини S\r\r\nТаблица размеров не соответствует. Пришлось подарить",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.556277871131897,
+    "aspects": {}
+  },
+  {
+    "text": "Товар пришёл бракованный но продавец вернул деньги за это спасибо",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.42629554867744446,
+    "aspects": {
+      "Качество": {
+        "label": "NEGATIVE",
+        "score": 0.42629554867744446
+      },
+      "Цена": {
+        "label": "NEGATIVE",
+        "score": 0.42629554867744446
+      },
+      "Скорость/Время": {
+        "label": "NEGATIVE",
+        "score": 0.42629554867744446
+      }
+    }
+  },
+  {
+    "text": "Мягко и качестенно",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.5126345753669739,
+    "aspects": {}
+  },
+  {
+    "text": "рубашка хорошего качества, хлопок, доставка быстрая, по размеру подошла на 42-44 S",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9911173582077026,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9911173582077026
+      },
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.9911173582077026
+      }
+    }
+  },
+  {
+    "text": "Всё ОК ! Спасибо !",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9923241138458252,
+    "aspects": {}
+  },
+  {
+    "text": "Самый ужасный продавец ",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.9171873927116394,
+    "aspects": {
+      "Качество": {
+        "label": "NEGATIVE",
+        "score": 0.9171873927116394
+      }
+    }
+  },
+  {
+    "text": "на рост 178-180 шикарно))) ",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9937719702720642,
+    "aspects": {}
+  },
+  {
+    "text": "Замечательно)",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9915055632591248,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9915055632591248
+      }
+    }
+  },
+  {
+    "text": "заказала24 .09 получила19.10 по размеру, вес82 кг рост 168 ог110 об113 ,пуховик понравился, но думаю если бы не было этой отделки нас капюшене было бы лучше .ткань верха очень при,иная на ощупь, больше похожа на плащевку, чем на Болонь внутри все очень аккуратно. в общем покупкой довольна, рекомендую",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9944953322410583,
+    "aspects": {
+      "Упаковка/Внешний вид": {
+        "label": "NEUTRAL",
+        "score": 0.7606525421142578
+      }
+    }
+  },
+  {
+    "text": "какая-то непонятная вешь",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.8826103210449219,
+    "aspects": {}
+  },
+  {
+    "text": "ничего не пришло!!!автоматически поставили типа посылка дошла!но ничего нет!!!!!",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.9472370147705078,
+    "aspects": {}
+  },
+  {
+    "text": "Отправку ждала полтора месяца, уже отказалась от заказа, но его отправили. С картинкой не совпадает, неплохой, хорошее качество, цвет. Но не свободный, как на картинке. Спереди короткий, сзади длиннее, размерная сетка совпадает, но если хотите взять его и думаете, что свободный, то это не так.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.746724009513855,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.7134073376655579
+      },
+      "Скорость/Время": {
+        "label": "NEGATIVE",
+        "score": 0.5635532736778259
+      }
+    }
+  },
+  {
+    "text": "Топ так себе... цена = качество. На рост 169 коротковат. ",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.8754744529724121,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.8038496375083923
+      },
+      "Цена": {
+        "label": "NEUTRAL",
+        "score": 0.8038496375083923
+      }
+    }
+  },
+  {
+    "text": "Толстовка очень клёвая, качество отличное, цвета очень нежные, как зефирка, фото не передаёт. На М(44-46) брала XL. Села так, как и хотела, если брать меньше, сто процентов будут короче рукава и не так свободно сидеть",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9918825030326843,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9925806522369385
+      }
+    }
+  },
+  {
+    "text": "Спасибо продавцу , отличный набор!",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9915504455566406,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9925640225410461
+      }
+    }
+  },
+  {
+    "text": "Размер меньше, чем указано. Тонкие и не такие теплые.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.8699332475662231,
+    "aspects": {}
+  },
+  {
+    "text": "Качество понравилось, теплая, легкая,, без запаха.но единственно минус что рукава не подшиты.до рб шло 21день.на рост 156 и размер 44 взяла м",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.982862114906311,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.994807779788971
+      }
+    }
+  },
+  {
+    "text": "отличные штаны  .правда оказались немного велики в попе и поясе. но хочу заказать поменьше размер.а заказ пришёл за две недели.",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9918638467788696,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.989896297454834
+      }
+    }
+  },
+  {
+    "text": "выглядит хорошо, понятно что это искусственный мех(кто пишет, что не отличить, тот не знаком с настоящим). Но карманы расположены далеко, неудобно. Для такой цены- в целом нормально)",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.7046873569488525,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.7922541499137878
+      }
+    }
+  },
+  {
+    "text": "очень маленькая",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.7757489085197449,
+    "aspects": {}
+  },
+  {
+    "text": "идеально. брала s на талию 60 и бедра 90 сидит плотно,смотрится круто",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9911908507347107,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9860445261001587
+      }
+    }
+  },
+  {
+    "text": "мало",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.854735791683197,
+    "aspects": {}
+  },
+  {
+    "text": "Очень долго шёл товар. Продавец не отвечал на Сообщения. Пришла рубашка отвратительного качества. Не такая длинная,как указано на фото. Хотя по размеру подошла. Нет такой низкой оценки,которую хотелось бы поставить. ",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.5246280431747437,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.7725312113761902
+      },
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.8115277886390686
+      }
+    }
+  },
+  {
+    "text": "супер !!! закажу еще. рекомендую. плотная ткань х/б не наклейки.",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9912033081054688,
+    "aspects": {}
+  },
+  {
+    "text": "закала носки для дочки 8 лет,подошли на 34 р,только  их одела, немного походила и они сразу скатались.Первый раз заказываю носки на али , читала отзывы и почему их хвалят не пойму, наверное эти люди никогда не носили хороших хб носков.Им грошь цена 20 руб.Даже не представляю во что они после стирки превратятся.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.6021761894226074,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.512695848941803
+      },
+      "Цена": {
+        "label": "NEUTRAL",
+        "score": 0.7484473586082458
+      }
+    }
+  },
+  {
+    "text": "крепится легко, но края не плотно прилегают и все время кажется что он сейчас упадет",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.7140586376190186,
+    "aspects": {
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.7140586376190186
+      }
+    }
+  },
+  {
+    "text": "Спасибо кофта классная один не достаток очень узкие рукава.",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.7589086890220642,
+    "aspects": {}
+  },
+  {
+    "text": "Из 5 баллов ставлю твердую 3. Материал оставляет желать лучшего, типа, флис, но жутко дешевый. Задумка хорошая. К телу приятная ткань, конечно, но внешний вид...)) Цена определенно завышена, больше 600 руб.не дала бы.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.6290330290794373,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9750452637672424
+      },
+      "Цена": {
+        "label": "NEUTRAL",
+        "score": 0.8052566647529602
+      },
+      "Упаковка/Внешний вид": {
+        "label": "NEUTRAL",
+        "score": 0.6932626366615295
+      }
+    }
+  },
+  {
+    "text": "капец! заказала L пришло на 56 размер она как платье!",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.8773527145385742,
+    "aspects": {}
+  },
+  {
+    "text": "заказ не пришел, продавец отзывался , но ничем помочь не мог! деньги не вернули!!!",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.9903378486633301,
+    "aspects": {
+      "Цена": {
+        "label": "NEGATIVE",
+        "score": 0.9839428663253784
+      },
+      "Скорость/Время": {
+        "label": "NEGATIVE",
+        "score": 0.9839428663253784
+      }
+    }
+  },
+  {
+    "text": "Майка пришла достаточно быстро. По качеству нормальная, только есть небольшая затяжка.",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.8821629881858826,
+    "aspects": {
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.731106162071228
+      }
+    }
+  },
+  {
+    "text": "Пальто хорошего качества, но оказалось маломеркой.... подарила сестре ",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.6193315386772156,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.7010842561721802
+      }
+    }
+  },
+  {
+    "text": "отличный кардиган, пришел быстро, сшит качественно так что продавца рекомендую)))))",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9932140111923218,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9932140111923218
+      },
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.9932140111923218
+      }
+    }
+  },
+  {
+    "text": "очень короткий свитер пришел((((",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.6822421550750732,
+    "aspects": {}
+  },
+  {
+    "text": "рядом с правым карманом дыра!!! на передней части нет НИКАКОГО утеплителя - просто плащевка. Эта вещь даже не на осеннюю погоду. Рукава короче намного (чем в описании).",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.5557753443717957,
+    "aspects": {
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.6956724524497986
+      }
+    }
+  },
+  {
+    "text": "Товар пришёл за месяц, цвет немного отличается, более к оранжевому что ли внизу.Самое неприятное просвечивает на попе, трусы под него в цветочек не оденешь.И ещё пришел с браком, на бедре какая то белая полоска, похоже что то попало во время окраски ткани и не прокрасилось.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.7430405020713806,
+    "aspects": {
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.5679038763046265
+      }
+    }
+  },
+  {
+    "text": "Заказывала черную футболку. Доставка месяц. Пришла с химическим запахом и торчащими нитками, постирала - футболка линяет. Хлопка в составе ткани очень мало в основном синтетика, продавец не указывает состав, этикетки нет. В общем, не в восторге.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.7112934589385986,
+    "aspects": {
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.5969980359077454
+      }
+    }
+  },
+  {
+    "text": "Заказ не пришел!  Я его не получила. Трек не отслеживался.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.9394429326057434,
+    "aspects": {}
+  },
+  {
+    "text": "Странная куртка, весь наполнитель как будто ушёл в низ, или друзья китайцы думают что жопа это единственное что должно быть в тепле, под молнией нет подкладки, будет продувать ветром, и это место практически без утеплителя, тонюсенькая ткань и все, наверное надо нести в ателье утеплять, молния вообще отвратительная ",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.6388218998908997,
+    "aspects": {}
+  },
+  {
+    "text": "спасибо,юбочка классная,но к сожалению мне мала,надо было на размер побольше",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.8759355545043945,
+    "aspects": {}
+  },
+  {
+    "text": "пришли как заказывала. Трек не отслеживался но все пришло в хорошем состоянии. цвет светлей чем на фото",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9673805832862854,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9129146933555603
+      }
+    }
+  },
+  {
+    "text": "Не пришло, вернули деньги ",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.462956041097641,
+    "aspects": {
+      "Цена": {
+        "label": "NEUTRAL",
+        "score": 0.462956041097641
+      },
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.462956041097641
+      }
+    }
+  },
+  {
+    "text": "Сшито  очень плохо, карманы в боковых швах, спереди полочки не проклеены, всё тянет вверх, отпаривание не помогает, очень непонятные застежки, можно попробовать пришить пуговицу. Если есть лишние деньги,,рекомендую",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.4821945130825043,
+    "aspects": {
+      "Качество": {
+        "label": "NEGATIVE",
+        "score": 0.608386754989624
+      },
+      "Цена": {
+        "label": "POSITIVE",
+        "score": 0.992735743522644
+      },
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.992735743522644
+      }
+    }
+  },
+  {
+    "text": "Тщательно изучала таблицу.Не было сомнений, что мне пальто подойдет,но оказалось немного мало.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.7563507556915283,
+    "aspects": {}
+  },
+  {
+    "text": "Товар не соответствует указанному, тонкая синтетика, ткань очень тонка, порвалась после 2-го использования. Не советую. Осталась очень не довольна.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.8422895669937134,
+    "aspects": {}
+  },
+  {
+    "text": "получила я свою жилетку,классная с размером угадала,Вешу 55 кг,рост 150 пришлась в пору,как на меня шили,сшита хорошо,всё вообщем понравилось я довольна и пришла как раз на моё день рождение!!! вот подарок так подарок!! обошлась она мне в 1020 рублей,сказка а не жилет,косяков нет!бирки магазина имеются,очень рекомендую продавца!",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9914502501487732,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9369928240776062
+      },
+      "Цена": {
+        "label": "NEUTRAL",
+        "score": 0.49278920888900757
+      },
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.9369928240776062
+      }
+    }
+  },
+  {
+    "text": "не пришло, открыла спор, деньги вернули",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.5014662742614746,
+    "aspects": {
+      "Цена": {
+        "label": "NEGATIVE",
+        "score": 0.5014662742614746
+      },
+      "Скорость/Время": {
+        "label": "NEGATIVE",
+        "score": 0.5014662742614746
+      }
+    }
+  },
+  {
+    "text": "Всё платье в зацепках. ",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.5193721055984497,
+    "aspects": {}
+  },
+  {
+    "text": "отличные чулки. тёплые. на ноге сидят плотно",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9923743605613708,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9922310709953308
+      }
+    }
+  },
+  {
+    "text": "Хорошая блузка. Пришла целая, без запаха, швы ровные. По размеру подошла, просвечивается не сильно.",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.993818461894989,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9930163621902466
+      }
+    }
+  },
+  {
+    "text": "Товар я не получила. Открыла спор. Потом он почему исчез из раздела ведётся спор. Деньги мне не вернули. Впечатление отвратительное. Просто кидалово",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.9890813827514648,
+    "aspects": {
+      "Цена": {
+        "label": "NEGATIVE",
+        "score": 0.9502403736114502
+      },
+      "Скорость/Время": {
+        "label": "NEGATIVE",
+        "score": 0.9502403736114502
+      }
+    }
+  },
+  {
+    "text": "качество хорошее, но пришли с браком!",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.6737005710601807,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.7301189303398132
+      }
+    }
+  },
+  {
+    "text": "долгая доставка. но хороший продавец, отвечал быстро,дружелюбно. шарф синтетика,электризуется. цвет красивый",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.800738513469696,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.6865495443344116
+      },
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.6865495443344116
+      },
+      "Упаковка/Внешний вид": {
+        "label": "POSITIVE",
+        "score": 0.8698225617408752
+      }
+    }
+  },
+  {
+    "text": "Шикарная пижама!!! Дошла за месяц.",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9905981421470642,
+    "aspects": {}
+  },
+  {
+    "text": "Шапочку получили! Классная, ушки прикольные! Мерила на обоих дочек (3 года и 10 лет) обоим очень классно! Спасибо огромное за такую милоту!",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9934149980545044,
+    "aspects": {}
+  },
+  {
+    "text": "Бюстгальтер хороший,но думаю что бретельки будут соскакивать с крючков. Петелька больше чем  крючки. Время покажет.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.7382680177688599,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.6602587103843689
+      },
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.7305253744125366
+      }
+    }
+  },
+  {
+    "text": "К",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.6981014609336853,
+    "aspects": {}
+  },
+  {
+    "text": "Покупаю уже второй раз, ноавится",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9645711183547974,
+    "aspects": {}
+  },
+  {
+    "text": "Товар хороший, шёл очень долго, на свой 48 заказала XXL , немного прилипает!",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.7338892817497253,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.633796215057373
+      },
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.633796215057373
+      }
+    }
+  },
+  {
+    "text": "Резинки красочные , но не держат совсем.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.7863097786903381,
+    "aspects": {}
+  },
+  {
+    "text": "Кофточка понравилась. Запаха нет. Швы ровные. Нитки не торчат. Спасибо.",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.992595374584198,
+    "aspects": {}
+  },
+  {
+    "text": "Товар на пришёл, продавец вернул деньги",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.45603951811790466,
+    "aspects": {
+      "Цена": {
+        "label": "NEGATIVE",
+        "score": 0.45603951811790466
+      },
+      "Скорость/Время": {
+        "label": "NEGATIVE",
+        "score": 0.45603951811790466
+      }
+    }
+  },
+  {
+    "text": "Платье сшито ровно нитки нигде не торчат. НО ВЫГЛЯДИТ ОЧЕНЬ ДЁШЕВО! Цвет потускневший, даже на рост 162 короткое! Не советую к покупке! Фото дополню позже. По доставке претензий нет.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.5112923383712769,
+    "aspects": {
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.673963189125061
+      }
+    }
+  },
+  {
+    "text": "товар не пришел деньги её вернули ужасный продавец не советую",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.9359027743339539,
+    "aspects": {
+      "Качество": {
+        "label": "NEGATIVE",
+        "score": 0.9359027743339539
+      },
+      "Цена": {
+        "label": "NEGATIVE",
+        "score": 0.9359027743339539
+      },
+      "Скорость/Время": {
+        "label": "NEGATIVE",
+        "score": 0.9359027743339539
+      }
+    }
+  },
+  {
+    "text": "свитер хороший. доставка 2 недели. но запах сильный. нужно стирать перед тем как носить.на 44 свободно",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9822697043418884,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9709502458572388
+      },
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.8131759166717529
+      }
+    }
+  },
+  {
+    "text": "Колготки шли около месяца, в итоге пришли с дыркой",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.6179732084274292,
+    "aspects": {}
+  },
+  {
+    "text": "Очень и очень плохое качество. После первой ручной стирки похожа на половую тряпку, стыдно даже выйти во двор с ребёнком погулять. Деньги, даже частично никто не возместил. Продавец выходит на связь только до момента отправки товара, дальше вся его любезность испаряется.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.9581431150436401,
+    "aspects": {
+      "Качество": {
+        "label": "NEGATIVE",
+        "score": 0.7963972687721252
+      },
+      "Цена": {
+        "label": "NEGATIVE",
+        "score": 0.7523051500320435
+      },
+      "Скорость/Время": {
+        "label": "NEGATIVE",
+        "score": 0.7523051500320435
+      }
+    }
+  },
+  {
+    "text": "Не соответствует описанию и абсолютно не зимняя. Мех очень тонкий. На нее все липнет и электрелезуется",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.6058627367019653,
+    "aspects": {}
+  },
+  {
+    "text": "тонкий материал, но шорты норм",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.6103023290634155,
+    "aspects": {}
+  },
+  {
+    "text": "Заказа не был мне доставлен, деньги вернули в течении трех дней.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.6020683646202087,
+    "aspects": {
+      "Цена": {
+        "label": "NEGATIVE",
+        "score": 0.6052942276000977
+      },
+      "Скорость/Время": {
+        "label": "NEGATIVE",
+        "score": 0.6052942276000977
+      }
+    }
+  },
+  {
+    "text": "качество ужасное после одного выхода в них в местах соприкосновения сапогов образовались шишки весь материал в шишках",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.7685355544090271,
+    "aspects": {
+      "Качество": {
+        "label": "NEGATIVE",
+        "score": 0.7685355544090271
+      }
+    }
+  },
+  {
+    "text": "продавец неделю не могла отправить заказ.трек не отслеживается.в Мурманскую область пришла за 30 дней.. на девочку 12 лет  брала размер s немного большевата.а так рубашка без запаха..нитки не торчат.",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.595301628112793,
+    "aspects": {}
+  },
+  {
+    "text": "на мой рост 162 см это чулки длинные. надо писать об этом!!!",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.6467358469963074,
+    "aspects": {}
+  },
+  {
+    "text": "отвратительно пахнет краска на полосках, ужасный материал-носить не буду, размер M или L",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.7937777042388916,
+    "aspects": {
+      "Качество": {
+        "label": "NEGATIVE",
+        "score": 0.7937777042388916
+      }
+    }
+  },
+  {
+    "text": "Очень короткое и прозрачное ",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.8251022100448608,
+    "aspects": {}
+  },
+  {
+    "text": "хорошие, плотные, белоснежные носочки",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9921411275863647,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9921411275863647
+      }
+    }
+  },
+  {
+    "text": "отвратительно! вместо костромской области, заказ ушёл в г.Энгельс и там был вручен. открывала спор, но всё бестолку. продавец просил закрыть спор и подождать ещё. в итоге ни товара ни денег я не получила!",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.9883855581283569,
+    "aspects": {
+      "Цена": {
+        "label": "NEGATIVE",
+        "score": 0.9047572612762451
+      }
+    }
+  },
+  {
+    "text": "Заказала 04.09,пришло 11.10. Доставил курьер.  Все подошло. Мята, но не критично. Талия 92,....опа-106. Влезла прекрасно!",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9936005473136902,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9935223460197449
+      },
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.6011224389076233
+      }
+    }
+  },
+  {
+    "text": "Платье не такое как в описании",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.7657753825187683,
+    "aspects": {}
+  },
+  {
+    "text": "качество нормальное, но на параметры талия-68, бедра -93 XL большой, на рост-1,63 короткие. срок доставки нормальный.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.5783737897872925,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.6041685342788696
+      },
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.6269347667694092
+      }
+    }
+  },
+  {
+    "text": "на картинке рисунок крупный  .а на платье мелкий. .талия высоко .а в остальном не плохо",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.8437833189964294,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.4940728545188904
+      }
+    }
+  },
+  {
+    "text": "ничего не прислали!!! ожидание не продлевает, не рекомендую продавца.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.9744303822517395,
+    "aspects": {
+      "Скорость/Время": {
+        "label": "NEGATIVE",
+        "score": 0.6619288325309753
+      }
+    }
+  },
+  {
+    "text": "Я очень довольна,товар отличный,продавец",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9927741289138794,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9927741289138794
+      }
+    }
+  },
+  {
+    "text": "жуткая синтетика, прозрачная сетка, фасон не соответствует -  по низу футболки резинка, а на фото ее нет",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.5578712821006775,
+    "aspects": {}
+  },
+  {
+    "text": "линия талии сбита напрочь!!! причем несколько раз перепроверила пуговицы застегнуты правильно...нет слов.. про швы молчу просто...",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.6627419590950012,
+    "aspects": {}
+  },
+  {
+    "text": "Заказ шёл очень долго, месяца два если не больше, и одна штанина шире другой. Расстроилась, а так внутри флис, тёплые... теперь только если на дачу в магазин ходить ",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.7529844045639038,
+    "aspects": {
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.6570271849632263
+      }
+    }
+  },
+  {
+    "text": "не плохая рубашка",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.7788123488426208,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.7788123488426208
+      }
+    }
+  },
+  {
+    "text": "Не заказывайте у этого продавца.Он обманщик деньги взял а товар не отправлял.и ещё просил 5 звёзд поставит.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.9714815616607666,
+    "aspects": {
+      "Цена": {
+        "label": "NEGATIVE",
+        "score": 0.9320809245109558
+      },
+      "Скорость/Время": {
+        "label": "NEGATIVE",
+        "score": 0.9320809245109558
+      }
+    }
+  },
+  {
+    "text": "качество дешевая синтетика, цвет расплывчетый, размер не тот",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.7072100043296814,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.7072100043296814
+      },
+      "Цена": {
+        "label": "NEUTRAL",
+        "score": 0.7072100043296814
+      }
+    }
+  },
+  {
+    "text": "Ожидала большего, но тоже ничего. На рост 172 коротковато",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.7762631773948669,
+    "aspects": {}
+  },
+  {
+    "text": "Ужасная маломерка! а качество соответствует цене)",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.5237672924995422,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.8058261871337891
+      }
+    }
+  },
+  {
+    "text": "Колготки не пришли.Спор закрыли -- деньги не вернули.Неприятно.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.9693090319633484,
+    "aspects": {
+      "Цена": {
+        "label": "NEGATIVE",
+        "score": 0.9854398369789124
+      },
+      "Скорость/Время": {
+        "label": "NEGATIVE",
+        "score": 0.9854398369789124
+      }
+    }
+  },
+  {
+    "text": "Не первый раз заказываю у этого продавца и остаюсь довольна! Товар соответсвует описанию. Дырок, нет все целое. На мой рост 160 см чуть ниже колен и рукава немного длинноваты, но это не страшно. Доставка также порадовала - 18 дней до алтайского края. В общем рекомендую и продавца и его товары!!!",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9946204423904419,
+    "aspects": {
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.9713760018348694
+      }
+    }
+  },
+  {
+    "text": "Не понимаю,почему никто из девушек не писал о том ,что том сползает вверх,лямки слишком коротки,в итоге топ оказывается выше положенного уровня и грудь оказывается не в чашках,а под ними,что очень неудобно,даже после того,как я вытащила чашки ,было не очень удобно,топ врезался в подмышки,а ещё ерунда это всё,что чашки не придают объёма,я вот вытащила ,и такое чувство,что мне 9 ,грудь  кажется плоской совсем,хотя для кого-то это и не проблема,ткань достаточно плотная,на раз надеть пойдёт,но постоянно носить точно не буду,у меня есть одежда гораздо комфортнее ,в итоге ,я считаю,лямки должны бы\r\r\nбыть однозначно длинее ,так он походит на детскую одежду,размер даже мне показался маловат,хотя ношу s.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.6779247522354126,
+    "aspects": {}
+  },
+  {
+    "text": "Качестве товара отвратительное, совсем не соответствует тем фото что размещены на сайте, просто ужасный магазин и товар в нём!!!",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.9125964045524597,
+    "aspects": {
+      "Качество": {
+        "label": "NEGATIVE",
+        "score": 0.8836910724639893
+      }
+    }
+  },
+  {
+    "text": "Комфортный и удобный костюм! Все подошло! Доставка быстрая ",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9944203495979309,
+    "aspects": {
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.8137986660003662
+      }
+    }
+  },
+  {
+    "text": "все классно мне все нравится , пришло быстро даже не ожидала )",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9926955699920654,
+    "aspects": {
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.9926955699920654
+      }
+    }
+  },
+  {
+    "text": "Все хорошо. Спасибо. Пришло быстро",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9936459064483643,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9837040305137634
+      },
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.9451103806495667
+      }
+    }
+  },
+  {
+    "text": "Супер! Очень приятная к телу и смотрится очень достойно. Я довольна!",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9914331436157227,
+    "aspects": {}
+  },
+  {
+    "text": "заказ шёл примерно месяц. по качеству почти нет претензий,некоторые швы придётся подшить-разошлись. С размером увы не угадала,куртка на тех,у кого совсем нет груди. Ношу 44-46,брала L, на бёдрах нормально,а вот на груди -катастрофа. Подозреваю,что если бы взяла ещё на 2 размера больше,то попала бы по верху,а вот низ был бы большой. Пуховичок ооочень тоненький,впрочем как и заявлено. С отслеживанием проблем не было.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.7820011377334595,
+    "aspects": {}
+  },
+  {
+    "text": "Блузка сама по себе очень достойная - слегка большевата на мой 40й размер. Но доставка мега долгая. Поэтому 3 звезды",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.9535127878189087,
+    "aspects": {
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.8153604865074158
+      }
+    }
+  },
+  {
+    "text": "размер 42",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.6919941902160645,
+    "aspects": {}
+  },
+  {
+    "text": "Заказ шёл меньше месяца. Не\r\n отслеживался. На 46-48 размер xl подошёл.  Цвет яркий.",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.8916992545127869,
+    "aspects": {}
+  },
+  {
+    "text": "заказала 10.07\r\nпришла посылка 29.07\r\nцена соответствует цене, швы хоршие\r\nразмер брала xxl,  полуобхват талии около 43см",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.7099870443344116,
+    "aspects": {
+      "Цена": {
+        "label": "NEUTRAL",
+        "score": 0.5256730318069458
+      }
+    }
+  },
+  {
+    "text": "Я в шоке от магазина. Сделала у него два заказа, а он отправил в пакете где должна находиться куртка, кофту из другого заказа. Двум разным заказам присвоил один трэк номер. Открыла спор, продавец вообще не реагировал не на спор, не на сообщения!!! Спор закрылся по умолчанию в пользу покупателя. Теперь у меня этот магазин в черном списке!!! Будьте осторожны!",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.9652191996574402,
+    "aspects": {
+      "Упаковка/Внешний вид": {
+        "label": "NEGATIVE",
+        "score": 0.6938565373420715
+      }
+    }
+  },
+  {
+    "text": "не стоит этих денег , резинка тонкая перекручивается, синтетика голимая, катышки быстро появятся",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.6606025695800781,
+    "aspects": {
+      "Цена": {
+        "label": "NEUTRAL",
+        "score": 0.6606025695800781
+      },
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.6606025695800781
+      }
+    }
+  },
+  {
+    "text": "Доставка до квартиры.Очень долго шла Посылка.Футболка s как l,очень большая.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.7947977185249329,
+    "aspects": {
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.8504513502120972
+      }
+    }
+  },
+  {
+    "text": "заказала на размер больше а пришло оооочень большое",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.5294321775436401,
+    "aspects": {}
+  },
+  {
+    "text": "норм так.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.5562033653259277,
+    "aspects": {}
+  },
+  {
+    "text": "Платье очень хорошее, гипюр качественный. На параметры ОГ 98, ОТ 87, ОБ 106 впритык, на рост 160 ниже колена. Продавец положил подарочек, спасибо!",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9935611486434937,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.994594156742096
+      }
+    }
+  },
+  {
+    "text": "Ошибочно заказав товар, я сразу же его отменила. А продавец решил, будто этого и не было, отправив товар. Ткань тонкая, швы кривые. Товар ненадлежащего качества меня расстроил. Продавец ещё больше расстроил. ",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.8441434502601624,
+    "aspects": {}
+  },
+  {
+    "text": "начитавшись отзывов, на ог 94 заказала  xl. оказалась  большой: широкие рукава, очень свободно в груди, а расширение лекала ниже талии, предполагающее наличие больших боков, смотрится совсем забавно.  после стирки не села. материал немного колется. по качеству претензий нет-ровная, без затяжек и лишних ниток",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.5521285533905029,
+    "aspects": {}
+  },
+  {
+    "text": "Куртка прекрасного качества, заказываю у этого продавца уже третью куртку",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9934908747673035,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9934908747673035
+      }
+    }
+  },
+  {
+    "text": "Смотрится как халат. Одеть его, с сожалению, некуда",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.6228288412094116,
+    "aspects": {}
+  },
+  {
+    "text": "Пришло совсем другое",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.8364143967628479,
+    "aspects": {}
+  },
+  {
+    "text": "качество ужасное, очень жаль. не стоит этих денег.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.6792435646057129,
+    "aspects": {
+      "Качество": {
+        "label": "NEGATIVE",
+        "score": 0.7069487571716309
+      },
+      "Цена": {
+        "label": "NEUTRAL",
+        "score": 0.8133228421211243
+      }
+    }
+  },
+  {
+    "text": "Товар не совсем соответсвует картинке",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.8671284914016724,
+    "aspects": {}
+  },
+  {
+    "text": "Просвечивается",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.867114245891571,
+    "aspects": {}
+  },
+  {
+    "text": "Говнокачество",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.8039456009864807,
+    "aspects": {}
+  },
+  {
+    "text": "размер топа не соответствует размеру трусиков",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.7205731868743896,
+    "aspects": {}
+  },
+  {
+    "text": "в описании написано хлопок полиэстер. от\r\n хлопка одно название. изделие грязное везде торчат нитки. размер L на русский 44р. фото оставлять не хочу,потому что такое лучше не фотографировать",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.7190176844596863,
+    "aspects": {
+      "Качество": {
+        "label": "NEGATIVE",
+        "score": 0.5416393280029297
+      }
+    }
+  },
+  {
+    "text": "товар хороший но максимум на размер 44",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.5974261164665222,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.5974261164665222
+      }
+    }
+  },
+  {
+    "text": "Заказ не отслеживался, пришел через 1,5 месяца в Красноярский край, нитки торчали, строчка по низу рубашки некачественная, зажевана. А так в общем, неплохо смотрится за 352 руб. вообще супер!",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.5569965243339539,
+    "aspects": {}
+  },
+  {
+    "text": "Заказала в августе 2 колготки, прождала 4 месяца, товар так и не получила, трек не отслеживался, открыла спор. Продавец предлагал отправить колготки еще раз, но закрыть спор, отказалась, средства обратно получила.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.7612306475639343,
+    "aspects": {}
+  },
+  {
+    "text": "по качеству футболка ужасная, хлопка в ней нет!",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.5276440978050232,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.597777247428894
+      }
+    }
+  },
+  {
+    "text": "не соответствует картинке и описанию",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.6304622292518616,
+    "aspects": {}
+  },
+  {
+    "text": "Туника очень симпатичная, все аккуратно, без запаха, швы ровные , но шла в Санкт-Петербург почти 2 месяца.",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.5085268020629883,
+    "aspects": {
+      "Упаковка/Внешний вид": {
+        "label": "NEUTRAL",
+        "score": 0.5154078602790833
+      }
+    }
+  },
+  {
+    "text": "Не соответствует описанию НИЗКАЯ талия (на фото они с высокой талией), если делаешь упражнение \"присед\" то вся попа открывается. На рост 164 короткие, от щиколотки 10 см. Ткань скользкая эластик. Они не стоят этих денег!!! Не совершайте ошибок!!! Только качество пошива не подвело, швы ровные нитки не торчат.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.6456570625305176,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.5360593795776367
+      },
+      "Цена": {
+        "label": "NEUTRAL",
+        "score": 0.7762247323989868
+      }
+    }
+  },
+  {
+    "text": "блузка класс)все швы ровные цвет такой же как на картинки.буду заказывать ещё в другом цвете.Продавцу спасибо за быстрое отправление заказа.",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9944591522216797,
+    "aspects": {
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.6956537961959839
+      }
+    }
+  },
+  {
+    "text": "Юбка хорошая, удобная.",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9941391944885254,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9940789937973022
+      }
+    }
+  },
+  {
+    "text": "Пришла быстро. Просвечивается немного. Лезут нитки",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.800409734249115,
+    "aspects": {
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.9125455617904663
+      }
+    }
+  },
+  {
+    "text": "расцветка халата как на фото,очень сильно магнитится.Размер заказывала,опираясь на размерную сетку,но все равно в груди оказался мал",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.790614664554596,
+    "aspects": {}
+  },
+  {
+    "text": "продавец-обманщик, отправил заказ только через 3 недели! в итоге пришла только одна рубашка вместо двух. та рубашка, которая пришла, однозначно не хлопок.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.8947645425796509,
+    "aspects": {}
+  },
+  {
+    "text": "заказ был сделан 11.11 ,но я его не получила, деньги вернули через спор !!! спасибо Али !",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.6478188633918762,
+    "aspects": {
+      "Цена": {
+        "label": "NEGATIVE",
+        "score": 0.5588585138320923
+      },
+      "Скорость/Время": {
+        "label": "NEGATIVE",
+        "score": 0.5588585138320923
+      }
+    }
+  },
+  {
+    "text": "Оказалось мало, хотя брала даже на размер больше, чем надо по таблице с моими параметрами. Шли очень долго. Ткань неплохая, за такую цену - тем более. Запаха, о котором писали в предыдущих отзывах, нет.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.826708197593689,
+    "aspects": {
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.8752880096435547
+      }
+    }
+  },
+  {
+    "text": "не так  как на фото",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.7922098636627197,
+    "aspects": {}
+  },
+  {
+    "text": "очень понравилось! все подошло на р46 брала хl",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9925026893615723,
+    "aspects": {}
+  },
+  {
+    "text": "прислали не тот цвет который заказывала, продовец делает вид,что не понимает о чем я ему пишу",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.6606456637382507,
+    "aspects": {
+      "Упаковка/Внешний вид": {
+        "label": "NEGATIVE",
+        "score": 0.6606456637382507
+      }
+    }
+  },
+  {
+    "text": "Быстрая доставка, качество отличное.",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9920951724052429,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9923157691955566
+      },
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.9923157691955566
+      }
+    }
+  },
+  {
+    "text": "Заказ пришел быстро. я заказываю уже третью подобную кофточку.На этот раз черную. Но сейчас очень расстроена. Серая и розовая просто чудо-мягкий теплый. внутри с начесиком трикотаж.  черная же совсем из другого материала. Гольная синтетика, к телу неприятная, не тянется, без начеса,даже с блеском каким-то, хотя к пошиву претензий нет.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.6787349581718445,
+    "aspects": {
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.7516431212425232
+      }
+    }
+  },
+  {
+    "text": "Продавец отправил только на 10 день. в  башкирию пришло только через 3 месяца. Продавец игнорил . Одно радует товар пришел хорошим",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.5762218236923218,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.6022405028343201
+      },
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.5057530403137207
+      }
+    }
+  },
+  {
+    "text": "Недовольна этими леггинсами. Сшиты криво, в талии-бедрах очень широкие, слабая резинка, а в голени узкие. Сам крой очень неудачный. Доставка быстрая",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.6640358567237854,
+    "aspects": {
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.8137986660003662
+      }
+    }
+  },
+  {
+    "text": "товар не пришел.  у меня произошла ошибка,получилось так,что было отмечено что я получила посылку. но это не так. я открыла спор и попросила помочь. долго тянулся спор. но в итоге ,СПАСИБО ,Привлечение AliExpress и вопрос решили. мне вернули деньги.жаль,но кофту я так и не получила. спасибо за возврат средств.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.6687756180763245,
+    "aspects": {
+      "Цена": {
+        "label": "NEUTRAL",
+        "score": 0.46105870604515076
+      },
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.8229532837867737
+      }
+    }
+  },
+  {
+    "text": "товар пришёл,  только пришёл не тот цвет который заказывала, открыла спор, деньги не вернули",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.9637756943702698,
+    "aspects": {
+      "Цена": {
+        "label": "NEGATIVE",
+        "score": 0.9637756943702698
+      },
+      "Скорость/Время": {
+        "label": "NEGATIVE",
+        "score": 0.9637756943702698
+      }
+    }
+  },
+  {
+    "text": "Качество не очень хорошее. Продавец общительный, не правильно подсказал с размером. Открыла спор и продавец вернул деньги",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.5037014484405518,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.8860181570053101
+      },
+      "Цена": {
+        "label": "NEGATIVE",
+        "score": 0.5061078071594238
+      },
+      "Скорость/Время": {
+        "label": "NEGATIVE",
+        "score": 0.5061078071594238
+      }
+    }
+  },
+  {
+    "text": "Быстрая доставка, в Красноярский край около месяца, кофта огонь. Приятная к телу. На 42 размер, заказала M. Отлично сел.",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9944650530815125,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9936301112174988
+      },
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.9947425127029419
+      }
+    }
+  },
+  {
+    "text": "Размер фиксирован очень странно. Вымеряла до миллиметров, учитывала погрешности, а в итоге - плечи огромные, в талии - узко! Ладно бы, да только и рукава длинные, хоть в восемь раз подворачивай.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.6463533639907837,
+    "aspects": {}
+  },
+  {
+    "text": "It is shorrter than it is on the picture. But with the high-waist skirt it will look good I think. The fabric is good.  Perhaps if the girl is 150-165 tall - it will be ok.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.5266626477241516,
+    "aspects": {}
+  },
+  {
+    "text": "Товар не пришёл! Деньги вернули только после вмешательства алиэкспресс! Не советую этот товар и этого продавца...",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.9537844061851501,
+    "aspects": {
+      "Цена": {
+        "label": "NEGATIVE",
+        "score": 0.5324187278747559
+      },
+      "Скорость/Время": {
+        "label": "NEGATIVE",
+        "score": 0.5324187278747559
+      }
+    }
+  },
+  {
+    "text": "очень мал",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.7498259544372559,
+    "aspects": {}
+  },
+  {
+    "text": "Товар не пришёл, каким то образом спор открыть не могу очень огорчена деньги не большие, но и не копейки.. ",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.9040787816047668,
+    "aspects": {
+      "Цена": {
+        "label": "NEGATIVE",
+        "score": 0.9209514856338501
+      },
+      "Скорость/Время": {
+        "label": "NEGATIVE",
+        "score": 0.9209514856338501
+      }
+    }
+  },
+  {
+    "text": "кофту не получила. истеквл срок,открыла спор, деньги не вернули.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.9842098951339722,
+    "aspects": {
+      "Цена": {
+        "label": "NEGATIVE",
+        "score": 0.9876619577407837
+      },
+      "Скорость/Время": {
+        "label": "NEGATIVE",
+        "score": 0.9876619577407837
+      }
+    }
+  },
+  {
+    "text": "Вся бы хорошо, но пришла грязная. Если вещь отправляют то наверное нужно смотреть на ее состояние. Расстроена только из-за этого.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.5674639344215393,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.5988311171531677
+      }
+    }
+  },
+  {
+    "text": "хорошие лосины.долетели за 9 дней.на об 100 заказала 3xl.рекомендую.",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9926586747169495,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9919583797454834
+      }
+    }
+  },
+  {
+    "text": "даже этих денег не стоят!!!! а еще и за доставку взяли..... ткань тонкая, лекало ужасное.... Но!!!! швы ровные!!!!  придраться не к чему!!!!",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.6333613991737366,
+    "aspects": {
+      "Качество": {
+        "label": "NEGATIVE",
+        "score": 0.6472384333610535
+      },
+      "Цена": {
+        "label": "NEUTRAL",
+        "score": 0.6078211665153503
+      },
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.5395570993423462
+      }
+    }
+  },
+  {
+    "text": "материал колючий невозможно носить",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.5043525099754333,
+    "aspects": {}
+  },
+  {
+    "text": "качество ужасное",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.7102508544921875,
+    "aspects": {
+      "Качество": {
+        "label": "NEGATIVE",
+        "score": 0.7102508544921875
+      }
+    }
+  },
+  {
+    "text": "Заказывала размер S, все село идеально. Товар соответствует описанию. Полиэстер 100%. Ткань тонкая .Заказ в мск пришел быстро (оформлен 04.07 в мск был 17.07), но как всегда неделю держала таможня. С продавцом не общалась. Буду носить с удовольствием)",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9945664405822754,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.7192137241363525
+      },
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.6616817116737366
+      }
+    }
+  },
+  {
+    "text": "Спасибо что так быстро вернули деньги.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.4127645790576935,
+    "aspects": {
+      "Цена": {
+        "label": "NEUTRAL",
+        "score": 0.4192131757736206
+      },
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.4192131757736206
+      }
+    }
+  },
+  {
+    "text": "Кардиган явно не фабричного пошива, сшит на коленке, внутри швы выглядят ужасно. Заказала темно зеленый цвет , как на фото, а получила цвет молодой травы. Пахнет синтетикой, очень сильно тянется. На 46 размер в обтяжку, на рост 164 не такой длинный как на фото. Доставка 16 дней. Не довольна.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.7188559770584106,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.5332883596420288
+      },
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.4793303608894348
+      }
+    }
+  },
+  {
+    "text": "Все хорошо! Спасибо!",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.991766631603241,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9837040305137634
+      }
+    }
+  },
+  {
+    "text": "размер совсем не подошёл,юбка оказалась очень маленькой. Качество тоже среднее,но  для такой цены пойдет. Заказывайте на размер или два больше своего!",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.7022613883018494,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.7543411254882812
+      }
+    }
+  },
+  {
+    "text": "ткань очень некачественная. Очень быстро скатывается. Ощущение не из приятных. Плохо растягиваются. Я просто ошиблась А так бы я заказала в другом месте. Я не довольна этими брюками.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.585858166217804,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.8898950219154358
+      },
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.8039611577987671
+      }
+    }
+  },
+  {
+    "text": "Торчат нитки, если отрезать швы расходятся... нужно подшивать. Остальное соответствует описанию.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.7308472990989685,
+    "aspects": {}
+  },
+  {
+    "text": "The size needs to be smaller, this one is big in my legs and back part",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.7049111127853394,
+    "aspects": {}
+  },
+  {
+    "text": "Выглядит неплохо, но ткань ужасная - рябая. Я думала, будет что-то наподобие атласа. Но за такую цену в принципе нормально",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.7666900157928467,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.860668420791626
+      }
+    }
+  },
+  {
+    "text": "Не соответствие картинке",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.7512851357460022,
+    "aspects": {}
+  },
+  {
+    "text": "На росс.46-48 размер L как раз, только рукав короткий, выглядит как 3/4. Ткань фактурная, плотная. Качество пошива ужасное. Товарищи китайские швеи! Если оверлок не захватил край ткани, то неудачную строчку положено распустить и проложить заново, а не класть поверх этой дырки строчку нитками другого цвета, еще и без закрепки! В результате часть края не обработана и с нее сыплется ворс, пройма деформирована, плечо кривое. В кармане дыра. Хорошо еще, что купила только одно платье, а не несколько, как собиралась. Две звезды за халтуру и небрежное отношение к пошиву.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.5001237392425537,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.5888820886611938
+      },
+      "Сервис": {
+        "label": "NEUTRAL",
+        "score": 0.8779024481773376
+      },
+      "Скорость/Время": {
+        "label": "NEGATIVE",
+        "score": 0.526242733001709
+      }
+    }
+  },
+  {
+    "text": "Ткань не понравилась, синтетика. Размер большой",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.841715395450592,
+    "aspects": {}
+  },
+  {
+    "text": "Водолазка прибыла во Владивосток через 21 день. Продавец отправил быстро. Трек отслеживался полностью, посылку забрала на почте.\r\n\r\nОтличная базовая вещь! Водолазка смесь хлопка и полиэстера, приятная к телу. Фасон облегающий, воротник-хомут, без запаха. Швы обработаны неплохо, на плечах просточены черной нитью. Цена = качество соответствует! Продавец очень милый и общител ный. Советую 5+",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9941896200180054,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.6051976084709167
+      },
+      "Цена": {
+        "label": "NEUTRAL",
+        "score": 0.6051976084709167
+      },
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.7301751375198364
+      }
+    }
+  },
+  {
+    "text": "клёво",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9925668239593506,
+    "aspects": {}
+  },
+  {
+    "text": "2только за скорость  доставки..заказала размер 4xl с расчетом что будет свободная рубашка,а нет,еле еле на 2хl тянет..размерный ряд вообще не совпадает..",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.583050549030304,
+    "aspects": {
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.711955726146698
+      }
+    }
+  },
+  {
+    "text": "Качество на ощупь приятное, но он огромное на мой 42 размер((( если не размер - то свитер хороший. Но в него ещё двоих можно впихнуть ",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.7110705971717834,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.7473454475402832
+      }
+    }
+  },
+  {
+    "text": "Шёл долго. Крутой! Держит хорошо,заказала ходить дома. Немного присутствует запах,надеюсь после стирки уйдёт. Размер угадала,подошёл. ",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9836206436157227,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.7380903363227844
+      },
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.8727339506149292
+      }
+    }
+  },
+  {
+    "text": "Заказывала 26 размер на бёдра 91 см, сели идеально, чисто из за своих видений на этот товар я разрезалась нитки и на коленке и на ляжке, мне просто так больше нравится.отправил продавец быстро, пришли за 11 дней",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9919409155845642,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9776957631111145
+      },
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.9852246046066284
+      },
+      "Упаковка/Внешний вид": {
+        "label": "POSITIVE",
+        "score": 0.9776957631111145
+      }
+    }
+  },
+  {
+    "text": "заказ не пришел во время открыла спор продавец попросил подождать ещё какое то время, но так заказ и не пришёл .Деньги не вернули.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.9887658953666687,
+    "aspects": {
+      "Цена": {
+        "label": "NEGATIVE",
+        "score": 0.9733757972717285
+      },
+      "Скорость/Время": {
+        "label": "NEGATIVE",
+        "score": 0.8400886654853821
+      }
+    }
+  },
+  {
+    "text": "Носки похоже синтетические.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.8685236573219299,
+    "aspects": {}
+  },
+  {
+    "text": "По размеру все норм, торчат нитки и воняет свитер. Ворс ильной лезет. Пришло быстро за 14 дней",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.7892705202102661,
+    "aspects": {
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.9774436354637146
+      }
+    }
+  },
+  {
+    "text": "футболка очень прозрачная, на фото этого не видно. если бы было видно не стала бы заказывать.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.769585371017456,
+    "aspects": {
+      "Упаковка/Внешний вид": {
+        "label": "NEUTRAL",
+        "score": 0.8162717223167419
+      }
+    }
+  },
+  {
+    "text": "Заказ пришёл, но не тот размер. Заказывала XL, а отправили S.  Размер 44-46. Очень Жаль.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.7104932069778442,
+    "aspects": {}
+  },
+  {
+    "text": "качество плохое мне не понравилось....",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.5611288547515869,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.5398352146148682
+      }
+    }
+  },
+  {
+    "text": "Маломерки, на 75В, а так комплект супер. Ни ниток торчащих, ни запаха.",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9518171548843384,
+    "aspects": {}
+  },
+  {
+    "text": "цвет вообще не такой, более темный и грязный голубой. Длина рукава максимум 3/4, а на рисунке почти до запястья. Знала бы про цвет, не взяла бы, рукава черт с ним, но цвет не красивый, с белым не будет смотреться",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.76936274766922,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.7497687935829163
+      },
+      "Упаковка/Внешний вид": {
+        "label": "NEUTRAL",
+        "score": 0.8598248958587646
+      }
+    }
+  },
+  {
+    "text": "Детская кофта, на размер XS заказала М и он оказался маленьким((((",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.5253236293792725,
+    "aspects": {}
+  },
+  {
+    "text": "не приятный материал. 95%синтетика",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.8039593696594238,
+    "aspects": {}
+  },
+  {
+    "text": "Ожидала лучше.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.8623555302619934,
+    "aspects": {}
+  },
+  {
+    "text": "Заказ не пришел . Вернула деньги через спор",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.6762590408325195,
+    "aspects": {
+      "Цена": {
+        "label": "NEGATIVE",
+        "score": 0.5783085823059082
+      },
+      "Скорость/Время": {
+        "label": "NEGATIVE",
+        "score": 0.5783085823059082
+      }
+    }
+  },
+  {
+    "text": "Классные. на мой рост немного длинные\r\n,но это не критично",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9883556365966797,
+    "aspects": {}
+  },
+  {
+    "text": "Голая синтетика. На выход- смотрится дешево, летом не оденешь- все сварится. Было бы хлопок, цены бы ему не было. Не рекомендую.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.6036182045936584,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.7142394185066223
+      },
+      "Цена": {
+        "label": "NEUTRAL",
+        "score": 0.7142394185066223
+      }
+    }
+  },
+  {
+    "text": "Отправили совершенно не то, что я заказывала. Кофта без вышивки и сидит не очень. Жду возврата средств.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.8189678192138672,
+    "aspects": {}
+  },
+  {
+    "text": "На майке имеется не характерная линия. Нет бирки о том что это хлопок, полиестер или спандекс, при какой температуре стирать или гладить не известно. Доставка быстрая.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.8192262649536133,
+    "aspects": {
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.8137986660003662
+      }
+    }
+  },
+  {
+    "text": "Была оплачена доставка, чтобы товар пришёл быстрее , т.к.сроки были критичны . Продавец отправил бесплатной доставкой, при этом отправлялся товар недели две. Продавец плохой. С размером тоже- спросила какой взять, если ношу М, он ответил -М. Заказала Л-совсем впритык , не как на картинке свободный крой. Вобщем худшая покупка на Али",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.7329295873641968,
+    "aspects": {
+      "Качество": {
+        "label": "NEGATIVE",
+        "score": 0.6421354413032532
+      },
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.6573261618614197
+      }
+    }
+  },
+  {
+    "text": "как в описании",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9929395914077759,
+    "aspects": {}
+  },
+  {
+    "text": "Курточка маломерит конечно, прочитав отзывы заказали на размер больше. Но кто любит утепляться еще и кофтами лучше брать на 2 размера больше. Верх и талия хорошо а в бедрах и размером больше маловата, (ОГ 78, ОБ 98, ОТ 75), куртка все время таращится вверх, приходится одергивать, еще и карман один в боковой шов зашили, распороть никак. Неприятно однако. Поэтому снимаю звезды. В целом по качеству неплохая, за такую цену самое то...",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.8013963103294373,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.8032400608062744
+      },
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.8032400608062744
+      }
+    }
+  },
+  {
+    "text": "шорты не пришли! спор открыть не получилось, заказ якобы выполнен. продавец мошенник!!!",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.9881649017333984,
+    "aspects": {}
+  },
+  {
+    "text": "Кривой рисунок, не семитричен ",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.7522310614585876,
+    "aspects": {}
+  },
+  {
+    "text": "плечи висят,материал как ацетатный шелк,в этом платье выглядишь как матрешка)))",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.7014260292053223,
+    "aspects": {}
+  },
+  {
+    "text": "Заказ не прибыл за 60дней. С 16ноября до 11января трек не отслеживался,никакого движения абсолютно. Пришлось открыть спор. Продавец отвечал,какое-то шевеление началось,но возвращать деньги отказались,типа: ждите,заказ в пути. Поэтому оценка пока 2 звезды-за общение. \r\nПодождём прибытия заказа,но если кто хочет получить заказ к определённому времени—учтите,что можете пролететь…",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.7244083285331726,
+    "aspects": {
+      "Цена": {
+        "label": "NEGATIVE",
+        "score": 0.7175142168998718
+      },
+      "Скорость/Время": {
+        "label": "NEGATIVE",
+        "score": 0.7175142168998718
+      }
+    }
+  },
+  {
+    "text": "качество  плохое",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.6538718342781067,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.6538718342781067
+      }
+    }
+  },
+  {
+    "text": "Товар не пришёл. Деньги вернули . Спасибо . Заказывала товар по отзывам , но ошиблась ",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.5454017519950867,
+    "aspects": {
+      "Цена": {
+        "label": "NEUTRAL",
+        "score": 0.5218630433082581
+      },
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.5218630433082581
+      }
+    }
+  },
+  {
+    "text": "Заказывала 23.06.,  продавец 2 раза продливал защиту товара. Так ничего не получила. После открытия спора, продавец  уговаривал еще подождать. Еле выбила свои деньги за товар. Был еще заказ у этого продавца,тоже ничего не пришло. За доставку деньги не вернул, хотя обещал. Жалко потраченого времени и нервов,поэтому такая оценка.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.9042641520500183,
+    "aspects": {
+      "Цена": {
+        "label": "NEGATIVE",
+        "score": 0.5293225646018982
+      },
+      "Скорость/Время": {
+        "label": "NEGATIVE",
+        "score": 0.76598060131073
+      }
+    }
+  },
+  {
+    "text": "Замечательно!",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9894163012504578,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9918270111083984
+      }
+    }
+  },
+  {
+    "text": "открыла спор, продавец написал свои сожаления,сетовал на репутацию, слёзно просил спор закрыть. я закрыла - ну думаю жалко , может почта плохо работает, ещё подождала некоторое время, спор открыть больше не могу, а товара так и нет ( уже три месяца), короче подарила свои денежки) остальные товары же приходят, значит почта не виновата.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.7771382927894592,
+    "aspects": {
+      "Качество": {
+        "label": "NEGATIVE",
+        "score": 0.6998545527458191
+      },
+      "Скорость/Время": {
+        "label": "NEGATIVE",
+        "score": 0.6998545527458191
+      }
+    }
+  },
+  {
+    "text": "качество неоч, принт более\r\n менее,",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.9072696566581726,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.9072696566581726
+      }
+    }
+  },
+  {
+    "text": "Очень хорошо!!! Рекомендую ",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9898197054862976,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9923428893089294
+      }
+    }
+  },
+  {
+    "text": "Продавец обманщик. Выдал чужой трек,потом просил закрыть спор и обещал выслать снова... Хорошо через службу поддержки вернул деньги",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.793038547039032,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.44736436009407043
+      },
+      "Цена": {
+        "label": "NEUTRAL",
+        "score": 0.44736436009407043
+      },
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.44736436009407043
+      }
+    }
+  },
+  {
+    "text": "Ткань низкого качества, похоже, появятся  катышки. Просвечивают тёмные полосы, которые зачем-то пришиты с внутренней стороны у кармананов для чашечек. Сами чашечки довольно мощные, выглядят неестественно.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.868018388748169,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.8856781125068665
+      }
+    }
+  },
+  {
+    "text": "Кофта упаковано хорошо. Качество хорошие. ",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9905633926391602,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9779517650604248
+      },
+      "Упаковка/Внешний вид": {
+        "label": "POSITIVE",
+        "score": 0.6663601994514465
+      }
+    }
+  },
+  {
+    "text": "качество ожидалось другое,очень сильный запах",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.8044934868812561,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.8044934868812561
+      }
+    }
+  },
+  {
+    "text": "Здравствуйте каким образом вы закрылись мой спор если заказ не подошло по размеру я требую​ вернуть половину средств​ потраченных денег .я очень не довольна!!!!",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.9283850789070129,
+    "aspects": {
+      "Цена": {
+        "label": "NEGATIVE",
+        "score": 0.7676036953926086
+      }
+    }
+  },
+  {
+    "text": "все здорово,брала 6хl,село отлично, швы ровные,доставка из России 7 дней!!! спасибо!!!",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9937798380851746,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9946894645690918
+      },
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.9946894645690918
+      }
+    }
+  },
+  {
+    "text": "Куртка хорошего качества, но размер не соответствует . XL на на 48-50 не просто мал, а очень мал. На рост 166 и вес 65 кг мал. Подошло только на девочку 12 лет, рост 152 и вес 45 кг. Продавец не верно информирует покупателей!!!",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.5253927111625671,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.7804008722305298
+      }
+    }
+  },
+  {
+    "text": "Долго ждала, блузка пришла с желтыми пятнами, не отстирать, жаль а красивая. Продавец деньги вернул в течение суток.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.5629103183746338,
+    "aspects": {
+      "Цена": {
+        "label": "NEUTRAL",
+        "score": 0.4551466703414917
+      },
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.7606692314147949
+      },
+      "Упаковка/Внешний вид": {
+        "label": "NEUTRAL",
+        "score": 0.7606692314147949
+      }
+    }
+  },
+  {
+    "text": "на размер 87-67-96 село отлично, оверсайз. на рост 172 длина прям впритык",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9936696887016296,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9942885637283325
+      }
+    }
+  },
+  {
+    "text": "Быстрая доставка. В целом кардиган хороший, приятный на ощупь, но!!! Отпал рукав!!! Прошито было одной ниткой. Конечно расстроена(((",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.7509585618972778,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.6262608170509338
+      },
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.739397406578064
+      }
+    }
+  },
+  {
+    "text": "Трек не отслеживался, а вот рубашка отличная! Смотрится дороже чем стоит и килек приятная",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9862546920776367,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9252434968948364
+      },
+      "Цена": {
+        "label": "NEUTRAL",
+        "score": 0.672349214553833
+      }
+    }
+  },
+  {
+    "text": "Отличная! Сама тонкая и при том тёплая!  очень хорошо смотрится. Берите не раздумывая. Рекомендую. Спасибо продавцу!",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9924216866493225,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9936895370483398
+      }
+    }
+  },
+  {
+    "text": "Кардиган пришел с небольшой дыркой,бирка с указанием размера отсутствовала.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.8225908279418945,
+    "aspects": {}
+  },
+  {
+    "text": "Отличное качество) ждала почти месяц) запаха нет, приятная на ощупь) по размеру подошло идеально) в подарочек от продавца получила резиночку) супер ",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.992552638053894,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.992552638053894
+      },
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.992552638053894
+      }
+    }
+  },
+  {
+    "text": "трусы полное говно. швы все перепутаны одни внутри другие снаружи",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.8797557950019836,
+    "aspects": {}
+  },
+  {
+    "text": "На ог 100 подошёл хорошо, сидит свободно, можно и на бОльший обхват, но свитер может быть коротковат. Рукава при росте 166 в самый раз. Вообще свитер чуднОй какой-то, квадратный, воротник горло не давит, но горловой шов жёсткий, если голова большая тяжело будет натянуть, половина швов обработана очень плохо, придется вручную обметать, чтоб не распустился. Ещё и вонючий жутко. Из плюсов: мягчайший, сидит неплохо, цвет как на фото, доставка всего 2 недели до Москвы с отслеживанием. Брала за 1024 р., цена завышена однозначно.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.8150374293327332,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9331236481666565
+      },
+      "Цена": {
+        "label": "NEUTRAL",
+        "score": 0.8597262501716614
+      },
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.5584067106246948
+      }
+    }
+  },
+  {
+    "text": "Размер очень маленький. Наверно XS. В груди давит,и чуть-чуть в плечах. Почему размер один, до сих пор не понимаю. Очень обидно, ведь футболка хорошая..",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.6250978708267212,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.6496409177780151
+      }
+    }
+  },
+  {
+    "text": "Плохое качество материала, несоответствие заявленным данным.  С продавцом не общалась. Не рекомендую.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.7897054553031921,
+    "aspects": {
+      "Качество": {
+        "label": "NEGATIVE",
+        "score": 0.5308279991149902
+      }
+    }
+  },
+  {
+    "text": "Качество меня устроило полностью.Но размерная сетка разочаровала. Начиталась отзывов, и заказала М, на свой 42. Оказалась ОЧЕНЬ большой,даже огромной., Курточка очень понравилась, ждала ее с нетерпением,но из за размера очень расстроилась.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.6744086146354675,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.7797912955284119
+      },
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.6423423290252686
+      }
+    }
+  },
+  {
+    "text": "Ждала товар три месяца, продавец уговаривал подождать,хотя было очевидно, что посылка утеряна. Подала спор, просили отменить и подождать ещё, потом отказались отдавать деньги по спору. Подала повторно, в итоге деньги вернули после длительных перепитий.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.7328751683235168,
+    "aspects": {
+      "Цена": {
+        "label": "NEGATIVE",
+        "score": 0.8130300045013428
+      },
+      "Скорость/Время": {
+        "label": "NEGATIVE",
+        "score": 0.763448178768158
+      }
+    }
+  },
+  {
+    "text": "Блузка без вытачек для груди, за счёт чего грудь расплющивается",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.8130897283554077,
+    "aspects": {}
+  },
+  {
+    "text": "товар так и не получен. но деньги продавец вернул очень быстро.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.5043112635612488,
+    "aspects": {
+      "Цена": {
+        "label": "NEUTRAL",
+        "score": 0.43898871541023254
+      },
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.43898871541023254
+      }
+    }
+  },
+  {
+    "text": "товар хороший, качество тоже на высоте и не пахнет китайским. продавцу респект.",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9937528967857361,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9936477541923523
+      }
+    }
+  },
+  {
+    "text": "Фигурный край сразу отклеивается и торчит. Невозможно носить. Но пришёл быстро)",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.5919189453125,
+    "aspects": {
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.7216284275054932
+      }
+    }
+  },
+  {
+    "text": "дешёвая синтетика, без подкладки швы не ровные, красная цена 300 рублей",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.6958558559417725,
+    "aspects": {
+      "Цена": {
+        "label": "NEUTRAL",
+        "score": 0.6958558559417725
+      }
+    }
+  },
+  {
+    "text": "супер! как на картинке. размер подошёл",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9907734394073486,
+    "aspects": {}
+  },
+  {
+    "text": "Свитер по качеству неплохой, но размер s  соответствует скорее xl. На фото изящная талия, в действительности свитер более подходит для беременных. Вместо синего прислали черный. Воротник неудобный, его надо подворачивать вовнутрь, а не наружу, из-за этого очень не комфортно шее.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.8070055246353149,
+    "aspects": {
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.7680307626724243
+      }
+    }
+  },
+  {
+    "text": "Размером я промахнулась , большевата , и как то сама по себе не очень рубашка",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.8878940343856812,
+    "aspects": {}
+  },
+  {
+    "text": "заказ шел 4 недели. упакован в обычный пакет. резинки не считала. 2 пачки  качество норм",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.7032272219657898,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.811677098274231
+      },
+      "Упаковка/Внешний вид": {
+        "label": "NEUTRAL",
+        "score": 0.705024003982544
+      }
+    }
+  },
+  {
+    "text": "Платье пришло с дыркой. Продавец просил не открывать спор, но ничего не предлагал и тянул время. Спор открыла, деньги вернули. Если бы не дыра на видном месте, то платье классное. ",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.48171621561050415,
+    "aspects": {
+      "Цена": {
+        "label": "NEUTRAL",
+        "score": 0.5013118982315063
+      },
+      "Скорость/Время": {
+        "label": "NEGATIVE",
+        "score": 0.6110085844993591
+      },
+      "Упаковка/Внешний вид": {
+        "label": "POSITIVE",
+        "score": 0.5563852787017822
+      }
+    }
+  },
+  {
+    "text": "Короткие рукава",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.9023723006248474,
+    "aspects": {}
+  },
+  {
+    "text": "относительно цены качество неплохое, на лето в самый раз, пришло невероятно быстро, курьером",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9747607707977295,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9747607707977295
+      },
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.9747607707977295
+      }
+    }
+  },
+  {
+    "text": "Продавец сначала отправил левый трек по которому посылку получили в другом городе. После спора выслал новый трек. Само платье не плохое,эффектное,  но с размером не угадала. На 48 размер 2xl  немного мало. Кое где торчат нитки и подклад больше чем само платье, поэтому на горловине и в рукавах  он некрасиво \"вылезает\" - попробую ушить.  Заказывала на распродаже за 590 рублей. За такую цену - нормально.  Снимаю звезды за очень долгую доставку. Заказала 11.11.17, получила 12.01.18.  Два раза продлевала срок защиты покупателя.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.7281785607337952,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.7432935833930969
+      },
+      "Цена": {
+        "label": "NEUTRAL",
+        "score": 0.5436699390411377
+      },
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.8332805037498474
+      },
+      "Упаковка/Внешний вид": {
+        "label": "NEUTRAL",
+        "score": 0.8716639280319214
+      }
+    }
+  },
+  {
+    "text": "очень красивое платье,  но на 44 размер Л оказался велик, и гораздо длиннее чем на картинке.  Но ничего швейная машинка мне в помощь покупкой довольна",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9893905520439148,
+    "aspects": {
+      "Сервис": {
+        "label": "POSITIVE",
+        "score": 0.9609591364860535
+      },
+      "Упаковка/Внешний вид": {
+        "label": "NEUTRAL",
+        "score": 0.5563196539878845
+      }
+    }
+  },
+  {
+    "text": "товаром не довольна, качество плохое, сшито косо",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.7574167847633362,
+    "aspects": {
+      "Качество": {
+        "label": "NEGATIVE",
+        "score": 0.7574167847633362
+      }
+    }
+  },
+  {
+    "text": "Доставка месяц. Размерная сетка не соответствует описанию, заказывайте на размер или на два размера больше, чтоб сидел как на модели. Материал мягкий и приятный, шерсть присутствует, бирок на изделии нет. Две звезды снимаю за размерную сетку",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.8168118000030518,
+    "aspects": {
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.5969980359077454
+      }
+    }
+  },
+  {
+    "text": "thank you!",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9917083382606506,
+    "aspects": {}
+  },
+  {
+    "text": "Товар не пришел, но деньги вернули",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.46024250984191895,
+    "aspects": {
+      "Цена": {
+        "label": "NEUTRAL",
+        "score": 0.46024250984191895
+      },
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.46024250984191895
+      }
+    }
+  },
+  {
+    "text": "доставка до Волгоградской обл. 10 дней. Толстовка очень красивая, цвета яркие, посторонних запахов нет. Жена в восторге. Продавец крутой! Рекомендую!",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9917997121810913,
+    "aspects": {
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.6057698130607605
+      },
+      "Упаковка/Внешний вид": {
+        "label": "POSITIVE",
+        "score": 0.984290599822998
+      }
+    }
+  },
+  {
+    "text": "очень обидно когда вам пишешь и спрашиваешь то вы игнорируете",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.8269266486167908,
+    "aspects": {}
+  },
+  {
+    "text": "Великолепная рубашка!!! Буду брать еще! спасибо продавцу!",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9924771189689636,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9923226237297058
+      }
+    }
+  },
+  {
+    "text": "Качество ткани хорошее,  но есть не прошитые швы",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.8566129207611084,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.8566129207611084
+      }
+    }
+  },
+  {
+    "text": "На 44 - 46 подойдет, в отличии от синего цаета. Тот на 44 в обтяжку!",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.5044785737991333,
+    "aspects": {}
+  },
+  {
+    "text": "Слишком блестящие,  по длине не подошли - короткие(",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.8876838684082031,
+    "aspects": {}
+  },
+  {
+    "text": "юбка классная но и\r\nвелика. наверное закажу другой размер.",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.8864020705223083,
+    "aspects": {}
+  },
+  {
+    "text": "Очень плохое качество , и цвет не тот как на картинке ! Вообщем мне не нравится!!! ",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.8896534442901611,
+    "aspects": {
+      "Качество": {
+        "label": "NEGATIVE",
+        "score": 0.789991021156311
+      }
+    }
+  },
+  {
+    "text": "На рукаве небольшая дырка. В целом свитер теплый, красивый, но неприятное впечатление осталось.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.840136706829071,
+    "aspects": {
+      "Упаковка/Внешний вид": {
+        "label": "NEUTRAL",
+        "score": 0.8338824510574341
+      }
+    }
+  },
+  {
+    "text": "товар не пришел, деньги не вернули",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.9899236559867859,
+    "aspects": {
+      "Цена": {
+        "label": "NEGATIVE",
+        "score": 0.9899236559867859
+      },
+      "Скорость/Время": {
+        "label": "NEGATIVE",
+        "score": 0.9899236559867859
+      }
+    }
+  },
+  {
+    "text": "футболка не соответствует фото на сайте. невзрачная, блёклая. посылка шла больше месяца.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.5348806977272034,
+    "aspects": {}
+  },
+  {
+    "text": "Просила в комментариях на ширину 132,  продавец написал что положит 6 Xl вместо заказанного 5 xl. По факту пришёл размер 5 xl в который я соответственно не влезла.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.7689869403839111,
+    "aspects": {}
+  },
+  {
+    "text": "good",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9891039133071899,
+    "aspects": {}
+  },
+  {
+    "text": "цвет отличается намного бледнее чем на картинке, материал очень тонкий синтетика",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.818881094455719,
+    "aspects": {}
+  },
+  {
+    "text": "Товар так и не получила. Спор открыть не успела",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.8534533381462097,
+    "aspects": {}
+  },
+  {
+    "text": "Товар не соответствует описанию ",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.49806469678878784,
+    "aspects": {}
+  },
+  {
+    "text": "носки не получила, деньги тоже",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.6415476202964783,
+    "aspects": {
+      "Цена": {
+        "label": "NEGATIVE",
+        "score": 0.6415476202964783
+      },
+      "Скорость/Время": {
+        "label": "NEGATIVE",
+        "score": 0.6415476202964783
+      }
+    }
+  },
+  {
+    "text": "платье пришло с небольшим браком. по горловине распущена строчка. очень маломерит.л- как- с. на об100 и от 72 попа копец как в обтяг. и ростовка велика . как минимум на 165см.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.7552804946899414,
+    "aspects": {}
+  },
+  {
+    "text": "2 резинки были порваны, пришлось клеить. И краска на заколочках потертая на некоторых резинках, и значки не такие, как на картинке, половина повторяются и цвета одинаковые.ну за эту цену не жалко, на картинке круче смотрятся конечно)))",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.701705813407898,
+    "aspects": {
+      "Упаковка/Внешний вид": {
+        "label": "NEUTRAL",
+        "score": 0.6643378138542175
+      }
+    }
+  },
+  {
+    "text": "ИЗДЕВАТЕЛИ!!!!! \r\nСВОЛОЧИ!!!!\r\nОБМАН СПЛОШНОЙ!!!\r\nПРОДАВЕЦ \"СВИНЬЯ\"!!! \r\nОтвечать не хочет! Вообще не реагирует!Товар до меня он не дошел! Спор открыла! Нет не ответа ! ни денег,ни товара! Спор закрыли не отреагировав!\r\n\"-\" \"-\" \"-\"!!! Я очень не довольна! НЕ ЗАКАЗЫВАЙТЕ У НЕГО НИ ЧЕГО!!",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.9905293583869934,
+    "aspects": {
+      "Цена": {
+        "label": "NEGATIVE",
+        "score": 0.9317654371261597
+      }
+    }
+  },
+  {
+    "text": "29.09 заказала в горячих товарах,не пришёл,открывала спор ,принят в мою пользу возврат средств(пока что не вернули)обидно,очень ждала ",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.8444452285766602,
+    "aspects": {
+      "Скорость/Время": {
+        "label": "NEGATIVE",
+        "score": 0.8356921672821045
+      }
+    }
+  },
+  {
+    "text": "Видны подкладки под грудь ",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.8595695495605469,
+    "aspects": {
+      "Упаковка/Внешний вид": {
+        "label": "NEUTRAL",
+        "score": 0.8595695495605469
+      }
+    }
+  },
+  {
+    "text": "похожа на ночнушку. Ткань просвечивает.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.8212494850158691,
+    "aspects": {}
+  },
+  {
+    "text": "это не легенцы а брюки они \r\nне тянутся качество низкое на рост 1.70 короткие",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.6861220598220825,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.5263649821281433
+      }
+    }
+  },
+  {
+    "text": "классный шарфик!!!!!Спасибо большое продавцу!!!!!",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9928134083747864,
+    "aspects": {}
+  },
+  {
+    "text": "Доставка 5 недель. Не отслеживается.  Нитки торчат, запах есть. Так себе",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.8544204831123352,
+    "aspects": {
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.5096875429153442
+      }
+    }
+  },
+  {
+    "text": "Товар не пришёл,деньги вернули ",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.4770912826061249,
+    "aspects": {
+      "Цена": {
+        "label": "NEGATIVE",
+        "score": 0.4770912826061249
+      },
+      "Скорость/Время": {
+        "label": "NEGATIVE",
+        "score": 0.4770912826061249
+      }
+    }
+  },
+  {
+    "text": "Спасибо прадавцу, пришло быстро товар отличный,качество хорошее вид как на картинке!!!Рада покупкой,спасибо!!!",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9941200613975525,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9941415190696716
+      },
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.9941415190696716
+      },
+      "Упаковка/Внешний вид": {
+        "label": "POSITIVE",
+        "score": 0.9941415190696716
+      }
+    }
+  },
+  {
+    "text": "Доставка до МСК обычная - 24 дня, трек отслеживался на всём пути. Свитер пришел с грязными пятнами. Материал немного покалывает в рукавах. Цвет приятный - молочный. Размер пришел сильно в обтяжку, возможно это брак, так как на фото у девочек свободнее выглядит. Русский размер - 44.  Продавцу за все это - дизлайк. На счет рекомендовать или нет - внимательно читайте отзывы.  За 600+ рублей можно и получше найти и подарок в виде блокнота не меняет ситуацию.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.7767127752304077,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.6524632573127747
+      },
+      "Сервис": {
+        "label": "NEUTRAL",
+        "score": 0.637645423412323
+      },
+      "Цена": {
+        "label": "NEUTRAL",
+        "score": 0.6380622386932373
+      },
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.7805191874504089
+      },
+      "Упаковка/Внешний вид": {
+        "label": "NEUTRAL",
+        "score": 0.6380622386932373
+      }
+    }
+  },
+  {
+    "text": "деньги не вернули! пришел другой товар! плохой продавец",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.9920758008956909,
+    "aspects": {
+      "Качество": {
+        "label": "NEGATIVE",
+        "score": 0.8511702418327332
+      },
+      "Цена": {
+        "label": "NEGATIVE",
+        "score": 0.9839428663253784
+      },
+      "Скорость/Время": {
+        "label": "NEGATIVE",
+        "score": 0.9839428663253784
+      }
+    }
+  },
+  {
+    "text": "я в восторге, кошка в восторге,спасибо огромное.",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9903160929679871,
+    "aspects": {}
+  },
+  {
+    "text": "мне кофта понравилась, пока немного лезет, но надеюсь после стирки всё будет ок",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.833415687084198,
+    "aspects": {}
+  },
+  {
+    "text": "Я заказывала 38 размер, думала там европейский размер а пришел размер 38 3XXXL. Пришлось подарить джинсы подруге.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.5426430106163025,
+    "aspects": {}
+  },
+  {
+    "text": "классные , заказала 2!!!",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9815608859062195,
+    "aspects": {}
+  },
+  {
+    "text": "Лосины замечательного качества! отлично смотрятся, швы ровные!!!! спасибо продавцу!!!!\r\r\nТрек не отслеживался, но все прибыло в срок!",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9946361184120178,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9919628500938416
+      },
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.8730542063713074
+      }
+    }
+  },
+  {
+    "text": "вообще не оnesize, рукава короткие, по плечам непонятно все сидит. нитки..",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.5467929244041443,
+    "aspects": {}
+  },
+  {
+    "text": "спасибо товар дошел быстро. описанию соответствует",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.8404746651649475,
+    "aspects": {
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.6028185486793518
+      }
+    }
+  },
+  {
+    "text": "Шли почти 2 месяца, качество футболок - не побоюсь этого слова, говно!",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.7709649801254272,
+    "aspects": {
+      "Качество": {
+        "label": "NEGATIVE",
+        "score": 0.7194077968597412
+      }
+    }
+  },
+  {
+    "text": "Товар не доставлен и деньги не вернули",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.9906449317932129,
+    "aspects": {
+      "Цена": {
+        "label": "NEGATIVE",
+        "score": 0.9906449317932129
+      },
+      "Скорость/Время": {
+        "label": "NEGATIVE",
+        "score": 0.9906449317932129
+      }
+    }
+  },
+  {
+    "text": "Заказывала размер XS, в итоге футболка оказалась очень широкой, как будто на два размера больше! Я разочарована, так как заказывала в подарок.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.631555438041687,
+    "aspects": {}
+  },
+  {
+    "text": "Отличная жилетка.\r\r\nна 42-44 нормально М. прям по фигуре.\r\r\nесли нужно посвободнее, берите Л.\r\r\nпришла быстро, как раз к поездке.\r\r\nСпасибо.",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9921454787254333,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9916361570358276
+      },
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.990151584148407
+      }
+    }
+  },
+  {
+    "text": "Отличный Свитер!! Спасибо! На 42-44 размер М хорошо",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9921976923942566,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.965667188167572
+      }
+    }
+  },
+  {
+    "text": "шло 2 месяца! \r\nотправили только после того, как открыла спор. через месяц! не советую.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.9312939643859863,
+    "aspects": {}
+  },
+  {
+    "text": "Очень понравилось. Цвет немного темнее, чем на фото. По размеру. Быстрая доставка",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9917858242988586,
+    "aspects": {
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.739397406578064
+      }
+    }
+  },
+  {
+    "text": "были плохо упакованы в обычный пакет. помяты",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.7484673261642456,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.7944440841674805
+      },
+      "Упаковка/Внешний вид": {
+        "label": "NEUTRAL",
+        "score": 0.7944440841674805
+      }
+    }
+  },
+  {
+    "text": "Посылка не пришла, хотя заказывала не первый раз. Деньги вернули ",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.5787987112998962,
+    "aspects": {
+      "Цена": {
+        "label": "NEUTRAL",
+        "score": 0.5218630433082581
+      },
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.5218630433082581
+      }
+    }
+  },
+  {
+    "text": "фото соответствует,сшито аккуратно,на русский 44 подошел размер М,бандаж не очень плотный,под юбку лучше подойдет бесшовное белье",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.6638413667678833,
+    "aspects": {
+      "Упаковка/Внешний вид": {
+        "label": "POSITIVE",
+        "score": 0.6638413667678833
+      }
+    }
+  },
+  {
+    "text": "крохотная )) отдала xl ребенку.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.6738841533660889,
+    "aspects": {}
+  },
+  {
+    "text": "брюки короче, чем на фото, на рост 172 см. длина брючины до середины икры.доставка быстрая в руки",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.8210416436195374,
+    "aspects": {
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.9138094186782837
+      }
+    }
+  },
+  {
+    "text": "Ткань очень тонкая, сидит бесформенно",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.8246588706970215,
+    "aspects": {}
+  },
+  {
+    "text": "ткань синтексическая, очень обтягивает, видно каждый изгиб( швы трусиков хорошо видно) , ткань неприяиная. разрез  выполнен не по размеру, великоват в области плеч\r\nносить такое нельзя, если только для фото\r\nпошив платья элегантный ( за исключением плеч модель красивая) вечернее платье\r\nдля фото пойдет, если не видно материал \r\nя в таком платье никуда не выйду вечернее",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.7829701900482178,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.8344270586967468
+      },
+      "Упаковка/Внешний вид": {
+        "label": "NEUTRAL",
+        "score": 0.8344270586967468
+      }
+    }
+  },
+  {
+    "text": "заказываю второй раз, продавец умничка, все быстро и оперативно!",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9931057095527649,
+    "aspects": {
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.9935232400894165
+      }
+    }
+  },
+  {
+    "text": "Хороший магазин, отличные брюки. Уже не первая покупка. Рекомендую!",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9911774396896362,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9924613833427429
+      }
+    }
+  },
+  {
+    "text": "товар не пришёл , но продавец вернул деньги и всегда был на связи",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.43278586864471436,
+    "aspects": {
+      "Цена": {
+        "label": "NEGATIVE",
+        "score": 0.43278586864471436
+      },
+      "Скорость/Время": {
+        "label": "NEGATIVE",
+        "score": 0.43278586864471436
+      }
+    }
+  },
+  {
+    "text": "Всё супер,доставка быстрая,качество отличное!",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9908993244171143,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9912973642349243
+      },
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.9912973642349243
+      }
+    }
+  },
+  {
+    "text": "Товар не пришел, вроде одобрен возврат средств, НО ОЧЕНЬ странно, в информации о возврате средств указано, что деньги перечислены (сегодня 04.10.2017), а одобрение на возврат получено 10.10.2017. Машина времени, какая-то получается. Сделали в будущее, получили одобрение, вернулись назад и отправили деньги. Что-то мне подсказывает, что денег я не увижу.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.6981289386749268,
+    "aspects": {
+      "Цена": {
+        "label": "NEGATIVE",
+        "score": 0.6625906229019165
+      },
+      "Скорость/Время": {
+        "label": "NEGATIVE",
+        "score": 0.6793104410171509
+      }
+    }
+  },
+  {
+    "text": "это не комбинезон , а просто ужас не заказывайте это дерьмо",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.9699446558952332,
+    "aspects": {}
+  },
+  {
+    "text": "очень узкие рукава и пошив странный ,рубашка поднимается на груди при ходьбе.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.8012928366661072,
+    "aspects": {}
+  },
+  {
+    "text": "Толстовка дошла очень быстро, за 2 недели. Очень довольна покупкой, на ощупь очень мягкая, как плюшевая игрушка, не толстая, никакого брака нет.\r\r\nСпасибо огромное продавцу! Обязательно еще что-нибудь закажу!!",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9929541945457458,
+    "aspects": {
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.7879565358161926
+      }
+    }
+  },
+  {
+    "text": "Куртка хорошего качества, да и расцветка приятная, но вот с размерами прод на...дил. Длина рукава от плеча оказалась 45см, от шеи- 65см, вместо обещанных 73см, мне рукава чуть длиннее локтя. Если бы был честный продавец, мог бы написать что замер рукава от шеи, и то приврал на 10см. Открыла спор вернула 600р- это меньше половины. Теперь по поводу доставки: был дан левый трэк который не отслуживался 20 дней- открыла спор - потом начал отслеживаться. Но когда получила изменила причину спора из за вранья с размерами. Length of the sleeves-45sm instead 73 promised, from the neckline-65sm. Open disput and get half refund.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.498363196849823,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.6238455176353455
+      },
+      "Скорость/Время": {
+        "label": "NEGATIVE",
+        "score": 0.5571170449256897
+      }
+    }
+  },
+  {
+    "text": "Мне не очень понравилась куртка.4xl некомфортно застегивается снизу на попе (обтягивает). При росте 176-178 прикрыла попу. Завязка-пояс выше талии, либо переделывать, либо убирать вообще. Сезон - на начало осени, весну. Ближе к \"0\" в ней будет холодно. Материал приятный,нитки торчат, но не смертельно. Все эти нелепые эмблемы прекрасно и бесследно отпоролись. Мех терпимый, жаль несъемный, и отпороть проблематично. ДЛЯ ТЕХ КОМУ ПРИНЦИПИАЛЬНО - КУРТКА МУЖСКАЯ!!!  ЗАСТЕГИВАЕТСЯ СЛЕВА-НАПРАВО!!!",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.6759915947914124,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.6256778240203857
+      }
+    }
+  },
+  {
+    "text": "товар не получила,деньги не вернули. Открыла спор - его закрыли с уведомлением, что заказ выполнен. Но я свой заказ не получала!",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.9894816875457764,
+    "aspects": {
+      "Цена": {
+        "label": "NEGATIVE",
+        "score": 0.9892632365226746
+      },
+      "Скорость/Время": {
+        "label": "NEGATIVE",
+        "score": 0.9892632365226746
+      }
+    }
+  },
+  {
+    "text": "качество хорошее, но сложно подобрать необходимый размер",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.6757346391677856,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.6757346391677856
+      }
+    }
+  },
+  {
+    "text": "цвет отправили не тот который заказывала. продавец не идет на уступку.  предлагают самой оплатить пересылку товара.",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.8029546737670898,
+    "aspects": {}
+  },
+  {
+    "text": "Товар не пришёл,спор не могу открыть истёк защита  покупателя ..",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.9488218426704407,
+    "aspects": {}
+  },
+  {
+    "text": "Наклейка кривая, длина не везде одинаковая, очень короткая",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.7121623158454895,
+    "aspects": {}
+  },
+  {
+    "text": "размер большой заказывали, а пришел маленький, но очень быстро!",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.5706880688667297,
+    "aspects": {
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.6438272595405579
+      }
+    }
+  },
+  {
+    "text": "Всё супер",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9907671213150024,
+    "aspects": {}
+  },
+  {
+    "text": "Качество хорошее, на размер 42 российский взяла m, доставляли 1 меч и 5 дней в Москву ",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9175032377243042,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9175032377243042
+      }
+    }
+  },
+  {
+    "text": "xl это как минимум на 44-46.я ношу 46-48 и мне все в обтяг.пришлось отдать дочке",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.669379711151123,
+    "aspects": {}
+  },
+  {
+    "text": "Хорошая безрукавка.Попу прикрывает. Посылка пришла очень быстро-2 недели.",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9924806356430054,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.991916835308075
+      },
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.8606024384498596
+      }
+    }
+  },
+  {
+    "text": "Замечательная шапочка,как на фото продавца!!",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9920409321784973,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9928624033927917
+      }
+    }
+  },
+  {
+    "text": "Симпатично выглядит, но качество отвратительное. Носить невозможно.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.5753580927848816,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.5519000291824341
+      }
+    }
+  },
+  {
+    "text": "расцветка пришла другая и размер пришел меньше чем заказывала",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.5552875399589539,
+    "aspects": {}
+  },
+  {
+    "text": "Платье очень красивое! Пришло в Краснодар быстро за 3 недели. Качество хорошее, село шикарно. Безумно рада!:))",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9933567643165588,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9944003224372864
+      },
+      "Скорость/Время": {
+        "label": "POSITIVE",
+        "score": 0.9691610336303711
+      },
+      "Упаковка/Внешний вид": {
+        "label": "POSITIVE",
+        "score": 0.9903596639633179
+      }
+    }
+  },
+  {
+    "text": "Платье по факту отличается,и не подходит по размерам! Моя свекровь еле влезла в него,но понятно что не будет носить т к грудь расплющилась....и качество если честно не очень,ткань тонкая ,летняя,еле еле отпарила,короче дорого,я ему 400-500 р бы дала,а не 800.Продавцу писала что по его параметрам мало,он просил фото,но если честно стыдно такое фото посылать,короче скидку не сделал,я разочарована...",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.5868287086486816,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.6823011636734009
+      },
+      "Цена": {
+        "label": "NEUTRAL",
+        "score": 0.6823011636734009
+      }
+    }
+  },
+  {
+    "text": "красивые. Мне оказались коротковаты (даже на мой 161 см), но в целом понравились",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.99151611328125,
+    "aspects": {
+      "Упаковка/Внешний вид": {
+        "label": "POSITIVE",
+        "score": 0.9901925325393677
+      }
+    }
+  },
+  {
+    "text": "отлично!!.....спасибо",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9930411577224731,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9904620051383972
+      }
+    }
+  },
+  {
+    "text": "продавцу спасибо! товар соответствует описанию!",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9946051239967346,
+    "aspects": {}
+  },
+  {
+    "text": "Продавец не отправил товар и дал чужой трек. Недели 2 кормил обещаниями, что отправит, пока не открыла спор. Деньги вернул сразу!!!!!",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.8186522722244263,
+    "aspects": {
+      "Цена": {
+        "label": "NEUTRAL",
+        "score": 0.4123784303665161
+      },
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.4123784303665161
+      }
+    }
+  },
+  {
+    "text": "Ткань очень тонкая, просвечивает рисунок футболки, которую под низ надеваю. Модель будто заужена немного к низу. А в общем на рост 170 размер L подходит, но вот резинка на бедра 100-102 см. жмёт, однозначно придётся убирать. Рукава длинные, что очень порадовало. Швы ровные и аккуратные, жаль, что такие мастерицы швеи вынуждены шить из такой дешёвой ткани. В общем ветровка вполне подойдёт гулять во дворе с собакой или бегать по утрам. А вот на работу надевать уже не очень - дёшево смотрится и простовато. Если бы такое качество шитья применить к хорошей ткани - было бы просто супер. Ещё не обычно, что все замки пришиты изнанкой наружу, может эта какая-то задумка дизайнерская, но как-то не привычно. Советую продавцу приобретать более качественную ткань, тогда я бы с удовольствием заказала что-нибудь ещё, пусть и по более дорогой цене.",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.8000540733337402,
+    "aspects": {
+      "Качество": {
+        "label": "NEUTRAL",
+        "score": 0.682675838470459
+      },
+      "Цена": {
+        "label": "NEUTRAL",
+        "score": 0.5795023441314697
+      },
+      "Упаковка/Внешний вид": {
+        "label": "NEUTRAL",
+        "score": 0.805095911026001
+      }
+    }
+  },
+  {
+    "text": "Блузка замечательная! очень красивая, приятная к телу. На 50 размер xxxl села идеально. Сшита аккуратно. Буду заказывать ещё! Продавцу огромное  спасибо!",
+    "true_label": "POSITIVE",
+    "overall_sentiment": "POSITIVE",
+    "overall_score": 0.9940020442008972,
+    "aspects": {
+      "Качество": {
+        "label": "POSITIVE",
+        "score": 0.9916310906410217
+      },
+      "Упаковка/Внешний вид": {
+        "label": "POSITIVE",
+        "score": 0.9915048480033875
+      }
+    }
+  },
+  {
+    "text": "ждала заказ три месяца, товар так и не пришёл. Деньги не вернули",
+    "true_label": "NEGATIVE",
+    "overall_sentiment": "NEGATIVE",
+    "overall_score": 0.9871636629104614,
+    "aspects": {
+      "Цена": {
+        "label": "NEGATIVE",
+        "score": 0.9733757972717285
+      },
+      "Скорость/Время": {
+        "label": "NEGATIVE",
+        "score": 0.8050022721290588
+      }
+    }
+  },
+  {
+    "text": "не понравился материал. не тянется. рисунок не такой яркий, как на фото. доставка 3 нед до Уфы",
+    "true_label": "NEUTRAL",
+    "overall_sentiment": "NEUTRAL",
+    "overall_score": 0.8286837339401245,
+    "aspects": {
+      "Скорость/Время": {
+        "label": "NEUTRAL",
+        "score": 0.5700240135192871
       }
     }
   }
